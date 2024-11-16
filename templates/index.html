@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Map Data Visualization</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.3/leaflet.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.3/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <style>
+        body {
+            margin: 0;
+            background-color: black;
+            color: white;
+        }
+        #map {
+            height: 100vh;
+            width: 100%;
+            background-color: black;
+        }
+        .legend {
+            background: white;
+            padding: 10px;
+            font-size: 12px;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script>
+        // Initialize Leaflet map
+        const map = L.map('map').setView([37.8, -96], 4);
+
+        // Load base map tiles from OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            opacity: 0.2
+        }).addTo(map);
+
+        // Load county GeoJSON data and color the counties based on data
+        async function loadCountyData() {
+            const response = await fetch('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json');
+            const data = await response.json();
+
+            // Placeholder energy demand data (replace with actual data)
+            const energyDemand = {
+                "01001": 50,
+                "01003": 120,
+                "01005": 30,
+                // ... more counties
+            };
+
+            // Function to get color based on energy demand
+            function getColor(d) {
+                return d > 100 ? '#800026' :
+                       d > 50  ? '#BD0026' :
+                       d > 20  ? '#E31A1C' :
+                       d > 10  ? '#FC4E2A' :
+                       d > 5   ? '#FD8D3C' :
+                       d > 0   ? '#FEB24C' :
+                                  '#FFEDA0';
+            }
+
+            // Add counties to the map
+            L.geoJson(data, {
+                style: function (feature) {
+                    const fips = feature.properties.GEOID;
+                    const demand = energyDemand[fips] || 0;
+                    return {
+                        fillColor: getColor(demand),
+                        weight: 1,
+                        opacity: 1,
+                        color: 'white',
+                        fillOpacity: 0.7
+                    };
+                },
+                onEachFeature: function (feature, layer) {
+                    layer.on({
+                        mouseover: function (e) {
+                            e.target.setStyle({
+                                weight: 3,
+                                color: '#666',
+                                fillOpacity: 0.9
+                            });
+                        },
+                        mouseout: function (e) {
+                            geojson.resetStyle(e.target);
+                        },
+                    });
+                    layer.bindPopup(`<b>County:</b> ${feature.properties.NAME}<br><b>Energy Demand:</b> ${energyDemand[feature.properties.GEOID] || 0}`);
+                }
+            }).addTo(map);
+        }
+
+        loadCountyData();
+    </script>
+</body>
+</html>
