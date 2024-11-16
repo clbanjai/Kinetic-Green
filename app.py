@@ -1,15 +1,14 @@
-from flask import Flask, render_template
+from flask import Flask, jsonify, render_template
 import json
 
 app = Flask(__name__)
 
-# Load GeoJSON data
-with open('json/geo.json') as f:
-    geojson_data = json.load(f)
+
+# Load state GeoJSON data
 
 @app.route('/')
-def home():
-    return render_template('index.html', geojson_data=json.dumps(geojson_data))
+def index():
+    return render_template('index.html')  # Assuming the HTML template is saved as 'index.html'
 
 if __name__ == '__main__':
     app.run(debug=True)
