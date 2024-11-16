@@ -1,49 +1,39 @@
-from flask import Flask, render_template, request
-import joblib
 import pandas as pd
-import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+import joblib
+import os
 
-app = Flask(__name__)
+# Load your dataset
+data = pd.read_csv('data/your_dataset.csv')
 
-# Load the trained models
-logistic_model = joblib.load('models/logistic_model.pkl')
-cox_model = joblib.load('models/cox_model.pkl')
+# Define predictor variables and target variable
+predictor_vars = [
+    'Supply_Demand_Ratio',
+    'Weather_Index',
+    'Grid_Score',
+    'Average_Wait_Time',
+    # Add other variables here
+]
 
-@app.route('/')
-def home():
-    return render_template('index.html')
+X = data[predictor_vars]
+y = data['PPA_Secured']
 
-@app.route('/predict', methods=['POST'])
-def predict():
-    if request.method == 'POST':
-        # Retrieve input data from the form
-        input_data = {
-            'Supply_Demand_Ratio': float(request.form['supply_demand_ratio']),
-            'Weather_Index': float(request.form['weather_index']),
-            'Grid_Score': float(request.form['grid_score']),
-            'Average_Wait_Time': float(request.form['average_wait_time']),
-            # Add other variables here
-        }
+# Handle missing values
+X = X.fillna(X.mean())
+y = y.fillna(y.mode()[0])
 
-        # Convert input data to DataFrame
-        input_df = pd.DataFrame([input_data])
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-        # Logistic Regression Prediction
-        ppa_prob = logistic_model.predict_proba(input_df)[0][1]
-        ppa_prediction = 'likely' if ppa_prob >= 0.5 else 'unlikely'
+# Initialize and train the model
+logistic_model = LogisticRegression(max_iter=1000)
+logistic_model.fit(X_train, y_train)
 
-        # Cox Model Prediction
-        survival_function = cox_model.predict_survival_function(input_df)
-        completion_prob = 1 - survival_function.loc[24].values[0]  # Adjust the time as needed
+# Ensure 'models' directory exists
+if not os.path.exists('models'):
+    os.makedirs('models')
 
-        # Render the results template with predictions
-        return render_template(
-            'result.html',
-            ppa_prob=ppa_prob,
-            ppa_prediction=ppa_prediction,
-            completion_prob=completion_prob,
-            input_data=input_data
-        )
-
-if __name__ == '__main__':
-    app.run(debug=True)
+# Save the logistic regression model
+joblib.dump(logistic_model, 'models/logistic_model.pkl')
+print("Logistic regression model saved successfully.")
