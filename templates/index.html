@@ -104,11 +104,8 @@
             const data = await response.json();
             
             scores = await loadScores();
-
-            // Include both Texas and California
-            const selectedStates = ["48"];
-
-            const counties = data.features.filter(feature => selectedStates.includes(feature.properties.STATE));
+            // State ID for Texas 
+            const counties = data.features.filter(feature => ["48"].includes(feature.properties.STATE));
 
             // Add counties to the map
             const geoJsonLayer = L.geoJson(counties, {
