@@ -1,4 +1,3 @@
-# Import necessary libraries
 import pandas as pd
 import numpy as np
 from datetime import timedelta
@@ -16,7 +15,7 @@ for col in date_columns:
     queue[col] = pd.to_datetime(queue[col], errors='coerce')
 
 # Fill missing FIS Approved dates with two years from now
-two_years_from_now = pd.Timestamp.now() + timedelta(days=2*365)
+two_years_from_now = pd.Timestamp.now() + timedelta(days=2 * 365)
 queue['FIS Approved'] = queue['FIS Approved'].fillna(two_years_from_now)
 
 # Calculate the difference in days for the screening study
@@ -43,6 +42,9 @@ solar_df = pd.read_csv('texas_solar_production.csv')
 
 # Step 2: Prepare DataFrames for Merging
 
+# Standardize county names in population_df
+population_df['County'] = population_df['County'].str.replace(' County', '', regex=False)
+
 # Since supply_df and solar_df have state-level data, we need to distribute them to counties
 
 # a. Calculate per capita supply
@@ -56,10 +58,8 @@ population_df['Supply_MWh'] = population_df['Population'] * per_capita_supply_mw
 # b. Calculate per capita solar capacity factor
 average_capacity_factor = solar_df['capacity_factor'].mean()
 
-# For demonstration, assign the average capacity factor to all counties
+# Assign the average capacity factor to all counties
 population_df['Capacity_Factor'] = average_capacity_factor
-
-# Alternatively, if you have county-level solar data, you should merge it on 'County'
 
 # Step 3: Merge DataFrames on 'County' column
 data_df = population_df.merge(wait_times_df, on='County', how='left')
@@ -118,9 +118,7 @@ data_df['Normalized_Supply'] = (data_df['Supply_MWh'] - supply_min) / (supply_ma
 data_df['Supply_Score'] = data_df['Normalized_Supply'] * 2.5
 
 # d. Solar Resource Score
-# If Capacity_Factor is the same for all counties, the scores will be the same
-# For demonstration, let's add slight random variations to Capacity_Factor
-
+# Add slight random variations to Capacity_Factor for demonstration purposes
 np.random.seed(42)
 data_df['Capacity_Factor'] += np.random.normal(0, 0.5, size=len(data_df))
 
@@ -139,6 +137,7 @@ data_df['Total_Score'] = data_df['Wait_Time_Score'] + data_df['Demand_Score'] + 
 # Step 8: Prepare Data for Interactive Map
 output_df = data_df[['County', 'Total_Score', 'Wait_Time_Score', 'Demand_Score', 'Supply_Score', 'Solar_Score']]
 
+print(output_df)
 # Export to CSV
 output_df.to_csv('county_scores.csv', index=False)
 
