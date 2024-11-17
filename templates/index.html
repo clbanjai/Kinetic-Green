@@ -81,9 +81,17 @@
 
             // Add each county to the map
             countyData.forEach(function(county) {
-                // Placeholder coordinates - you need to replace this with actual lat/lon for each county
-                const lat = county.lat;  // Replace with the actual latitude key
-                const lon = county.lon;  // Replace with the actual longitude key
+                const lat = county.Latitude;  // Replace with the actual latitude key
+                const lon = county.Longitude;  // Replace with the actual longitude key
+
+                // Print latitude and longitude to the console
+                console.log(`County: ${county.County}, Latitude: ${lat}, Longitude: ${lon}`);
+
+                // Check if lat and lon are valid
+                if (lat === undefined || lon === undefined) {
+                    console.warn(`Missing coordinates for county: ${county.County}`);
+                    return;
+                }
 
                 // Get the Total Score for coloring
                 const totalScore = county.Total_Score;
@@ -100,16 +108,17 @@
                 circle.on('click', function () {
                     document.getElementById('countyInfo').innerHTML = `
                         <p><b>County:</b> ${county.County}</p>
-                        <p><b>Energy Demand (GWh):</b> ${county.County_Demand_GWh}</p>
-                        <p><b>Wait Time Score:</b> ${county.Wait_Time_Score}</p>
-                        <p><b>Supply Score:</b> ${county.Supply_Score}</p>
-                        <p><b>Solar Score:</b> ${county.Solar_Score}</p>
-                        <p><b>Total Score:</b> ${totalScore}</p>
+                        <p><b>Energy Demand (GWh):</b> ${county.County_Demand_GWh || 'N/A'}</p>
+                        <p><b>Wait Time Score:</b> ${county.Wait_Time_Score || 'N/A'}</p>
+                        <p><b>Supply Score:</b> ${county.Supply_Score || 'N/A'}</p>
+                        <p><b>Solar Score:</b> ${county.Solar_Score || 'N/A'}</p>
+                        <p><b>Total Score:</b> ${totalScore || 'N/A'}</p>
                     `;
                 });
             });
         }
 
+        // Load the data to create the map
         loadCountyData();
     </script>
 </body>
