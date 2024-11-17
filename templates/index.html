@@ -69,13 +69,25 @@
             opacity: 1
         }).addTo(map);
 
-        // Function to set color based on energy demand value
-        function getColor(score) {
-            return score > 8 ? '#006837' :
-                   score > 6 ? '#31a354' :
-                   score > 4 ? '#78c679' :
-                   score > 2 ? '#c2e699' :
-                               '#ffffcc';
+        function toTwoSigFigs(num) {
+            if (num === null || num === undefined || isNaN(num)) return 'N/A';
+            return parseFloat(num.toPrecision(2));
+        }
+        function getColor(score, breaks) {
+        return score > breaks[3] ? '#006837' : // Dark green
+               score > breaks[2] ? '#31a354' : // Medium green
+               score > breaks[1] ? '#78c679' : // Light green
+               score > breaks[0] ? '#c2e699' : // Pale green
+                                   '#ffffcc';  // Light yellow
+        }
+        function calculateBreaks(scores, numBreaks = 4) {
+            const sortedScores = [...scores].sort((a, b) => a - b);
+            const breaks = [];
+            for (let i = 1; i <= numBreaks; i++) {
+                const quantileIndex = Math.floor((i / (numBreaks + 1)) * sortedScores.length);
+                breaks.push(sortedScores[quantileIndex]);
+            }
+            return breaks;
         }
         async function loadScores() {
             try {
@@ -84,69 +96,88 @@
                     throw new Error(`HTTP error! Status: ${response.status}`);
                 }
                 const data = await response.json();
-
-                // Create dictionary mapping county names to their respective data
-                const countyDict = {};
-                data.forEach(entry => {
-                    countyDict[entry.County] = entry;
-                });
-            return countyDict;
+                return data;
             } catch (error) {
                 console.error('Error fetching or parsing JSON:', error);
             }
         }
         // Adding geoJSON layer for counties with energy demand data
         async function loadCountyData() {
-            const response = await fetch('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json');
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const data = await response.json();
-            
-            scores = await loadScores();
-            // State ID for Texas 
-            const counties = data.features.filter(feature => ["48"].includes(feature.properties.STATE));
-
-            // Add counties to the map
-            const geoJsonLayer = L.geoJson(counties, {
-                style: function (feature) {
-                    return {
-                        fillColor: getColor(scores[feature.properties.NAME]["Total_Score"]),
-                        weight: 1,
-                        opacity: 1,
-                        color: 'white',
-                        fillOpacity: 0.7
-                    };
-                },
-                onEachFeature: function (feature, layer) {
-                    layer.on({
-                        mouseover: function (e) {
-                            e.target.setStyle({
-                                weight: 3,
-                                color: '#666',
-                                fillOpacity: 0.9
-                            });
-                        },
-                        mouseout: function (e) {
-                            geoJsonLayer.resetStyle(e.target);
-                        },
-                        click: function (e) {
-                            // Prevent click event from propagating to the map
-                            county = scores[feature.properties.NAME]
-
-                            document.getElementById('countyInfo').innerHTML = `
-                            <p><b>County:</b> ${county.County}</p>
-                            <p><b>Energy Demand (GWh):</b> ${county["Demand_Score"]}</p>
-                            <p><b>Wait Time Score:</b> ${county["Wait_Time_Score"]}</p>
-                            <p><b>Supply Score:</b> ${county["Supply_Score"]}</p>
-                            <p><b>Solar Score:</b> ${county["Solar_Score"]}</p>
-                            <p><b>Total Score:</b> ${county["Total_Score"]}</p>
-                        `;
-                        }
-                    });
+            try {
+                // Load GeoJSON data for counties
+                const response = await fetch('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
                 }
-            }).addTo(map);
-        }
+                const geoData = await response.json();
+
+                // Load scores data
+                const scores = await loadScores();
+
+                // Calculate the breaks for color ranges based on scores
+                const scoreValues = scores.map(entry => entry.Total_Score);
+                const breaks = calculateBreaks(scoreValues);
+
+                // Filter GeoJSON features for Texas counties (STATE code "48")
+                const counties = geoData.features.filter(feature => feature.properties.STATE === "48");
+
+                // Add counties to the map with appropriate styles
+                const geoJsonLayer = L.geoJson(counties, {
+                    style: function (feature) {
+                        const countyName = feature.properties.NAME;
+                        const countyScore = scores.find(entry => entry.County === countyName);
+                        if (countyScore) {
+                            return {
+                                fillColor: getColor(countyScore.Total_Score, breaks),
+                                weight: 1,
+                                opacity: 1,
+                                color: 'white',
+                                fillOpacity: 0.7
+                            };
+                        }
+                        return {
+                            fillColor: '#cccccc',
+                            weight: 1,
+                            opacity: 1,
+                            color: 'white',
+                            fillOpacity: 0.7
+                        };
+                    },
+                    onEachFeature: function (feature, layer) {
+                        layer.on({
+                            mouseover: function (e) {
+                                e.target.setStyle({
+                                    weight: 3,
+                                    color: '#666',
+                                    fillOpacity: 0.9
+                                });
+                            },
+                            mouseout: function (e) {
+                                geoJsonLayer.resetStyle(e.target);
+                            },
+                            click: function (e) {
+                                // Display county information in the info panel
+                                const countyName = feature.properties.NAME;
+                                const countyData = scores.find(entry => entry.County === countyName);
+
+                                if (countyData) {
+                                    document.getElementById('countyInfo').innerHTML = `
+                                        <p><b>County:</b> ${countyData.County}</p>
+                                        <p><b>Energy Demand (GWh):</b> ${toTwoSigFigs(countyData.Demand_Score)}</p>
+                                        <p><b>Wait Time Score:</b> ${toTwoSigFigs(countyData.Wait_Time_Score)}</p>
+                                        <p><b>Supply Score:</b> ${toTwoSigFigs(countyData.Supply_Score)}</p>
+                                        <p><b>Solar Score:</b> ${toTwoSigFigs(countyData.Solar_Score)}</p>
+                                        <p><b>Total Score:</b> ${toTwoSigFigs(countyData.Total_Score)}</p>
+                                    `;
+                                }
+                            }
+                        });
+                    }
+                }).addTo(map);
+            } catch (error) {
+                console.error('Error loading county data:', error);
+            }
+}
 
         loadCountyData();
     </script>

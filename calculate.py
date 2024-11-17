@@ -86,22 +86,18 @@ data_df['Wait_Time_Years'] = data_df['Total_Wait_Days'] / 365
 
 # Step 6: Normalize and Scale Scores
 
-# a. Average Wait Times Scoring
-def wait_time_score(wait_time_years):
-    if wait_time_years >= 10:
-        return 0
-    elif wait_time_years >= 8:
-        return 0.5
-    elif wait_time_years >= 6:
-        return 1
-    elif wait_time_years >= 4:
-        return 1.5
-    elif wait_time_years >= 2:
-        return 2
-    else:
-        return 2.5
+# Normalize wait times
+wait_min = data_df['Wait_Time_Years'].min()
+wait_max = data_df['Wait_Time_Years'].max()
 
-data_df['Wait_Time_Score'] = data_df['Wait_Time_Years'].apply(wait_time_score)
+# Avoid division by zero
+if wait_max != wait_min:
+    data_df['Normalized_Wait_Time'] = (data_df['Wait_Time_Years'] - wait_min) / (wait_max - wait_min)
+else:
+    data_df['Normalized_Wait_Time'] = 0
+
+# Invert the scale (shorter wait times = higher scores)
+data_df['Wait_Time_Score'] = (1 - data_df['Normalized_Wait_Time']) * 2.5
 
 # b. Electricity Demand Score
 demand_min = data_df['County_Demand_GWh'].min()
