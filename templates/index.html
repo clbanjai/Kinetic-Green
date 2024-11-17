@@ -69,7 +69,7 @@
             };
 
             // Add counties to the map
-            L.geoJson(data, {
+            const geoJsonLayer = L.geoJson(data, {
                 style: function (feature) {
                     const fips = feature.properties.GEOID;
                     const demand = energyDemand[fips] || 0;
@@ -91,10 +91,12 @@
                             });
                         },
                         mouseout: function (e) {
-                            L.geoJson(data).resetStyle(e.target);
+                            geoJsonLayer.resetStyle(e.target);
                         },
                     });
-                    layer.bindPopup(`<b>County:</b> ${feature.properties.NAME}<br><b>Energy Demand:</b> ${energyDemand[feature.properties.GEOID] || 0}`);
+                    layer.bindPopup(`<b>County:</b> ${feature.properties.NAME}<br>
+                    <b>Energy Demand:</b> ${energyDemand[feature.properties.GEOID] || "2MWh"} <br> 
+                    <b> Cost: </b> ${energyDemand[feature.properties.GEOID] || "5,000,000 USD"}`);
                 }
             }).addTo(map);
         }

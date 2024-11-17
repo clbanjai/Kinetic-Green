@@ -1,10 +1,8 @@
-from flask import Flask, jsonify, render_template
-import json
+from flask import Flask,render_template
 
 app = Flask(__name__)
 
 
-# Load state GeoJSON data
 
 @app.route('/')
 def index():
