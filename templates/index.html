@@ -79,22 +79,8 @@
             }
             const data = await response.json();
 
-            // Placeholder energy demand data (replace with actual data)
-            const energyDemand = {
-                // Texas counties
-                "48001": 300,
-                "48003": 120,
-                "48005": 50,
-                // ... more Texas counties
-                // California counties
-                "06001": 400,
-                "06013": 250,
-                "06037": 500,
-                // ... more California counties
-            };
-
             // Include both Texas and California
-            const selectedStates = ["06", "48"];
+            const selectedStates = ["48"];
 
             const counties = {
                 "type": "FeatureCollection",
@@ -104,10 +90,8 @@
             // Add counties to the map
             const geoJsonLayer = L.geoJson(counties, {
                 style: function (feature) {
-                    const fipsCode = feature.properties.STATE + feature.properties.COUNTY;
-                    const demand = Math.floor(Math.random() * 300);
                     return {
-                        fillColor: getColor(demand),
+                        fillColor: getColor(Math.floor(Math.random() * 300)),
                         weight: 1,
                         opacity: 1,
                         color: 'white',
@@ -119,8 +103,6 @@
                         mouseover: function (e) {
                             e.target.setStyle({
                                 weight: 3,
-                                color: '#666',
-                                fillOpacity: 0.9
                             });
                         },
                         mouseout: function (e) {
@@ -129,7 +111,6 @@
                         click: function (e) {
 
                             const countyName = feature.properties.NAME;
-                            const fipsCode = feature.properties.STATE + feature.properties.COUNTY;
                             const demand = Math.floor(Math.random() * 300);
                             const cost = "5,000,000 USD"; // Placeholder cost value
 
