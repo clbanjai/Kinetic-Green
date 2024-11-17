@@ -1,0 +1,2353 @@
+,period,stateId,stateDescription,producertypeid,producerTypeDescription,energysourceid,energySourceDescription,capability,capability-units
+0,2023,AK,Alaska,EU,Electric Utilities,NGCC,Natural Gas - CC,374.6,megawatts
+1,2023,AK,Alaska,EU,Electric Utilities,NGGT,Natural Gas - GT,687.6,megawatts
+2,2023,AK,Alaska,EU,Electric Utilities,NGIC,Natural Gas - IC,174.4,megawatts
+3,2023,AK,Alaska,EU,Electric Utilities,OT,Other,2.9,megawatts
+4,2023,AK,Alaska,EU,Electric Utilities,PET,Petroleum,706.4,megawatts
+5,2023,AK,Alaska,EU,Electric Utilities,PETGT,Petroleum - GT,237,megawatts
+6,2023,AK,Alaska,EU,Electric Utilities,PETIC,Petroleum - IC,418.4,megawatts
+7,2023,AK,Alaska,EU,Electric Utilities,PETOTH,Petroleum - OTH,51,megawatts
+8,2023,AK,Alaska,EU,Electric Utilities,SOL,Solar,1.7,megawatts
+9,2023,AK,Alaska,EU,Electric Utilities,SOLPV,Solar - PV,1.7,megawatts
+10,2023,AK,Alaska,EU,Electric Utilities,WND,Wind,39.1,megawatts
+11,2023,AK,Alaska,IPP,Independent Power Producers,ALL,All,214.5,megawatts
+12,2023,AK,Alaska,IPP,Independent Power Producers,COL,Coal,70.8,megawatts
+13,2023,AK,Alaska,IPP,Independent Power Producers,HYC,Hydroelectric,45.2,megawatts
+14,2023,AK,Alaska,IPP,Independent Power Producers,NG,Natural Gas,20.9,megawatts
+15,2023,AK,Alaska,IPP,Independent Power Producers,NGGT,Natural Gas - GT,20.9,megawatts
+16,2023,AK,Alaska,IPP,Independent Power Producers,OBM,Other Biomass,7,megawatts
+17,2023,AK,Alaska,IPP,Independent Power Producers,PET,Petroleum,44.7,megawatts
+18,2023,AK,Alaska,IPP,Independent Power Producers,PETIC,Petroleum - IC,44.7,megawatts
+19,2023,AK,Alaska,IPP,Independent Power Producers,SOL,Solar,6,megawatts
+20,2023,AK,Alaska,IPP,Independent Power Producers,SOLPV,Solar - PV,6,megawatts
+21,2023,AK,Alaska,IPP,Independent Power Producers,WND,Wind,19.9,megawatts
+22,2023,AK,Alaska,TOT,All sectors,ALL,All,2821,megawatts
+23,2023,AK,Alaska,TOT,All sectors,BAT,Battery,91.7,megawatts
+24,2023,AK,Alaska,TOT,All sectors,COL,Coal,167.9,megawatts
+25,2023,AK,Alaska,TOT,All sectors,HYC,Hydroelectric,476.2,megawatts
+26,2023,AK,Alaska,TOT,All sectors,NG,Natural Gas,1257.5,megawatts
+27,2023,AK,Alaska,TOT,All sectors,NGCC,Natural Gas - CC,374.6,megawatts
+28,2023,AK,Alaska,TOT,All sectors,NGGT,Natural Gas - GT,708.5,megawatts
+29,2023,AK,Alaska,TOT,All sectors,NGIC,Natural Gas - IC,174.4,megawatts
+30,2023,AK,Alaska,TOT,All sectors,OT,Other,2.9,megawatts
+31,2023,AK,Alaska,TOT,All sectors,OBM,Other Biomass,7,megawatts
+32,2023,AK,Alaska,TOT,All sectors,PET,Petroleum,751.1,megawatts
+33,2023,AK,Alaska,TOT,All sectors,PETGT,Petroleum - GT,237,megawatts
+34,2023,AK,Alaska,TOT,All sectors,PETIC,Petroleum - IC,463.1,megawatts
+35,2023,AK,Alaska,TOT,All sectors,PETOTH,Petroleum - OTH,51,megawatts
+36,2023,AK,Alaska,TOT,All sectors,SOL,Solar,7.7,megawatts
+37,2023,AK,Alaska,TOT,All sectors,SOLPV,Solar - PV,7.7,megawatts
+38,2023,AK,Alaska,TOT,All sectors,WND,Wind,59,megawatts
+39,2023,AL,Alabama,EU,Electric Utilities,ALL,All,22950,megawatts
+40,2023,AL,Alabama,EU,Electric Utilities,COL,Coal,4728,megawatts
+41,2023,AL,Alabama,EU,Electric Utilities,HYC,Hydroelectric,3291.8,megawatts
+42,2023,AL,Alabama,EU,Electric Utilities,NG,Natural Gas,9425.9,megawatts
+43,2023,AL,Alabama,EU,Electric Utilities,NGCC,Natural Gas - CC,4476.6,megawatts
+44,2023,AL,Alabama,EU,Electric Utilities,NGGT,Natural Gas - GT,3143.2,megawatts
+45,2023,AL,Alabama,EU,Electric Utilities,NGOTH,Natural Gas - OTH,110,megawatts
+46,2023,AL,Alabama,EU,Electric Utilities,NGST,Natural Gas - ST,1696.1,megawatts
+47,2023,AL,Alabama,EU,Electric Utilities,NUC,Nuclear,5452.7,megawatts
+48,2023,AL,Alabama,EU,Electric Utilities,PET,Petroleum,33.6,megawatts
+49,2023,AL,Alabama,EU,Electric Utilities,PETGT,Petroleum - GT,16,megawatts
+50,2023,AL,Alabama,EU,Electric Utilities,PETIC,Petroleum - IC,17.6,megawatts
+51,2023,AL,Alabama,EU,Electric Utilities,SOL,Solar,18,megawatts
+52,2023,AL,Alabama,EU,Electric Utilities,SOLPV,Solar - PV,18,megawatts
+53,2023,AL,Alabama,IPP,Independent Power Producers,ALL,All,8147.3,megawatts
+54,2023,AL,Alabama,IPP,Independent Power Producers,BAT,Battery,1,megawatts
+55,2023,AL,Alabama,IPP,Independent Power Producers,NG,Natural Gas,6937.5,megawatts
+56,2023,AL,Alabama,IPP,Independent Power Producers,NGCC,Natural Gas - CC,6695.6,megawatts
+57,2023,AL,Alabama,IPP,Independent Power Producers,NGGT,Natural Gas - GT,164.6,megawatts
+58,2023,AL,Alabama,IPP,Independent Power Producers,NGST,Natural Gas - ST,77.3,megawatts
+59,2023,AL,Alabama,IPP,Independent Power Producers,OBM,Other Biomass,6.4,megawatts
+60,2023,AL,Alabama,IPP,Independent Power Producers,PET,Petroleum,9,megawatts
+61,2023,AL,Alabama,IPP,Independent Power Producers,PETIC,Petroleum - IC,9,megawatts
+62,2023,AL,Alabama,IPP,Independent Power Producers,SOL,Solar,583.1,megawatts
+63,2023,AL,Alabama,IPP,Independent Power Producers,SOLPV,Solar - PV,583.1,megawatts
+64,2023,AL,Alabama,IPP,Independent Power Producers,WOO,Wood,610.3,megawatts
+65,2023,AL,Alabama,TOT,All sectors,ALL,All,31097.3,megawatts
+66,2023,AL,Alabama,TOT,All sectors,BAT,Battery,1,megawatts
+67,2023,AL,Alabama,TOT,All sectors,COL,Coal,4728,megawatts
+68,2023,AL,Alabama,TOT,All sectors,HYC,Hydroelectric,3291.8,megawatts
+69,2023,AL,Alabama,TOT,All sectors,NG,Natural Gas,16363.4,megawatts
+70,2023,AL,Alabama,TOT,All sectors,NGCC,Natural Gas - CC,11172.2,megawatts
+71,2023,AL,Alabama,TOT,All sectors,NGGT,Natural Gas - GT,3307.8,megawatts
+72,2023,AL,Alabama,TOT,All sectors,NGOTH,Natural Gas - OTH,110,megawatts
+73,2023,AL,Alabama,TOT,All sectors,NGST,Natural Gas - ST,1773.4,megawatts
+74,2023,AL,Alabama,TOT,All sectors,NUC,Nuclear,5452.7,megawatts
+75,2023,AL,Alabama,TOT,All sectors,OBM,Other Biomass,6.4,megawatts
+76,2023,AL,Alabama,TOT,All sectors,PET,Petroleum,42.6,megawatts
+77,2023,AL,Alabama,TOT,All sectors,PETGT,Petroleum - GT,16,megawatts
+78,2023,AL,Alabama,TOT,All sectors,PETIC,Petroleum - IC,26.6,megawatts
+79,2023,AL,Alabama,TOT,All sectors,SOL,Solar,601.1,megawatts
+80,2023,AL,Alabama,TOT,All sectors,SOLPV,Solar - PV,601.1,megawatts
+81,2023,AL,Alabama,TOT,All sectors,WOO,Wood,610.3,megawatts
+82,2023,AR,Arkansas,EU,Electric Utilities,ALL,All,13225.6,megawatts
+83,2023,AR,Arkansas,EU,Electric Utilities,BAT,Battery,10,megawatts
+84,2023,AR,Arkansas,EU,Electric Utilities,COL,Coal,4054,megawatts
+85,2023,AR,Arkansas,EU,Electric Utilities,HYC,Hydroelectric,1251.8,megawatts
+86,2023,AR,Arkansas,EU,Electric Utilities,NG,Natural Gas,5919.8,megawatts
+87,2023,AR,Arkansas,EU,Electric Utilities,NGCC,Natural Gas - CC,4426.2,megawatts
+88,2023,AR,Arkansas,EU,Electric Utilities,NGGT,Natural Gas - GT,697.6,megawatts
+89,2023,AR,Arkansas,EU,Electric Utilities,NGIC,Natural Gas - IC,18,megawatts
+90,2023,AR,Arkansas,EU,Electric Utilities,NGST,Natural Gas - ST,778,megawatts
+91,2023,AR,Arkansas,EU,Electric Utilities,NUC,Nuclear,1825,megawatts
+92,2023,AR,Arkansas,EU,Electric Utilities,PET,Petroleum,9,megawatts
+93,2023,AR,Arkansas,EU,Electric Utilities,PETIC,Petroleum - IC,9,megawatts
+94,2023,AR,Arkansas,EU,Electric Utilities,HPS,Pumped Storage,30,megawatts
+95,2023,AR,Arkansas,EU,Electric Utilities,SOL,Solar,126,megawatts
+96,2023,AR,Arkansas,EU,Electric Utilities,SOLPV,Solar - PV,126,megawatts
+97,2023,AR,Arkansas,IPP,Independent Power Producers,ALL,All,1836.3,megawatts
+98,2023,AR,Arkansas,IPP,Independent Power Producers,BAT,Battery,12,megawatts
+99,2023,AR,Arkansas,IPP,Independent Power Producers,COL,Coal,680,megawatts
+100,2023,AR,Arkansas,IPP,Independent Power Producers,HYC,Hydroelectric,13.4,megawatts
+101,2023,AR,Arkansas,IPP,Independent Power Producers,NG,Natural Gas,212.2,megawatts
+102,2023,AR,Arkansas,IPP,Independent Power Producers,NGCC,Natural Gas - CC,179,megawatts
+103,2023,AR,Arkansas,IPP,Independent Power Producers,NGGT,Natural Gas - GT,5.2,megawatts
+104,2023,AR,Arkansas,IPP,Independent Power Producers,NGST,Natural Gas - ST,28,megawatts
+105,2023,AR,Arkansas,IPP,Independent Power Producers,OBM,Other Biomass,6.9,megawatts
+106,2023,AR,Arkansas,IPP,Independent Power Producers,SOL,Solar,694.9,megawatts
+107,2023,AR,Arkansas,IPP,Independent Power Producers,SOLPV,Solar - PV,694.9,megawatts
+108,2023,AR,Arkansas,IPP,Independent Power Producers,WOO,Wood,216.9,megawatts
+109,2023,AR,Arkansas,TOT,All sectors,ALL,All,15061.9,megawatts
+110,2023,AR,Arkansas,TOT,All sectors,BAT,Battery,22,megawatts
+111,2023,AR,Arkansas,TOT,All sectors,COL,Coal,4734,megawatts
+112,2023,AR,Arkansas,TOT,All sectors,HYC,Hydroelectric,1265.2,megawatts
+113,2023,AR,Arkansas,TOT,All sectors,NG,Natural Gas,6132,megawatts
+114,2023,AR,Arkansas,TOT,All sectors,NGCC,Natural Gas - CC,4605.2,megawatts
+115,2023,AR,Arkansas,TOT,All sectors,NGGT,Natural Gas - GT,702.8,megawatts
+116,2023,AR,Arkansas,TOT,All sectors,NGIC,Natural Gas - IC,18,megawatts
+117,2023,AR,Arkansas,TOT,All sectors,NGST,Natural Gas - ST,806,megawatts
+118,2023,AR,Arkansas,TOT,All sectors,NUC,Nuclear,1825,megawatts
+119,2023,AR,Arkansas,TOT,All sectors,OBM,Other Biomass,6.9,megawatts
+120,2023,AR,Arkansas,TOT,All sectors,PET,Petroleum,9,megawatts
+121,2023,AR,Arkansas,TOT,All sectors,PETIC,Petroleum - IC,9,megawatts
+122,2023,AR,Arkansas,TOT,All sectors,HPS,Pumped Storage,30,megawatts
+123,2023,AR,Arkansas,TOT,All sectors,SOL,Solar,820.9,megawatts
+124,2023,AR,Arkansas,TOT,All sectors,SOLPV,Solar - PV,820.9,megawatts
+125,2023,AR,Arkansas,TOT,All sectors,WOO,Wood,216.9,megawatts
+126,2023,AZ,Arizona,EU,Electric Utilities,ALL,All,21598.3,megawatts
+127,2023,AZ,Arizona,EU,Electric Utilities,BAT,Battery,233,megawatts
+128,2023,AZ,Arizona,EU,Electric Utilities,COL,Coal,2939,megawatts
+129,2023,AZ,Arizona,EU,Electric Utilities,HYC,Hydroelectric,2721.9,megawatts
+130,2023,AZ,Arizona,EU,Electric Utilities,NG,Natural Gas,10963.9,megawatts
+131,2023,AZ,Arizona,EU,Electric Utilities,NGCC,Natural Gas - CC,6814,megawatts
+132,2023,AZ,Arizona,EU,Electric Utilities,NGGT,Natural Gas - GT,3053.9,megawatts
+133,2023,AZ,Arizona,EU,Electric Utilities,NGIC,Natural Gas - IC,182,megawatts
+134,2023,AZ,Arizona,EU,Electric Utilities,NGST,Natural Gas - ST,914,megawatts
+135,2023,AZ,Arizona,EU,Electric Utilities,NUC,Nuclear,3937,megawatts
+136,2023,AZ,Arizona,EU,Electric Utilities,PET,Petroleum,267,megawatts
+137,2023,AZ,Arizona,EU,Electric Utilities,PETGT,Petroleum - GT,86,megawatts
+138,2023,AZ,Arizona,EU,Electric Utilities,PETST,Petroleum - ST,181,megawatts
+139,2023,AZ,Arizona,EU,Electric Utilities,HPS,Pumped Storage,216.3,megawatts
+140,2023,AZ,Arizona,EU,Electric Utilities,SOL,Solar,320.2,megawatts
+141,2023,WI,Wisconsin,IPP,Independent Power Producers,OBM,Other Biomass,79.2,megawatts
+142,2023,WI,Wisconsin,IPP,Independent Power Producers,PET,Petroleum,64.3,megawatts
+143,2023,WI,Wisconsin,IPP,Independent Power Producers,PETGT,Petroleum - GT,15,megawatts
+144,2023,WI,Wisconsin,IPP,Independent Power Producers,PETIC,Petroleum - IC,49.3,megawatts
+145,2023,WI,Wisconsin,IPP,Independent Power Producers,SOL,Solar,205.6,megawatts
+146,2023,WI,Wisconsin,IPP,Independent Power Producers,SOLPV,Solar - PV,205.6,megawatts
+147,2023,WI,Wisconsin,IPP,Independent Power Producers,WND,Wind,189.7,megawatts
+148,2023,WI,Wisconsin,IPP,Independent Power Producers,WOO,Wood,127.8,megawatts
+149,2023,WI,Wisconsin,TOT,All sectors,ALL,All,17579.9,megawatts
+150,2023,WI,Wisconsin,TOT,All sectors,BAT,Battery,5.7,megawatts
+151,2023,WI,Wisconsin,TOT,All sectors,COL,Coal,5226.2,megawatts
+152,2023,WI,Wisconsin,TOT,All sectors,HYC,Hydroelectric,410,megawatts
+153,2023,WI,Wisconsin,TOT,All sectors,NG,Natural Gas,7309.1,megawatts
+154,2023,WI,Wisconsin,TOT,All sectors,NGCC,Natural Gas - CC,3474,megawatts
+155,2023,WI,Wisconsin,TOT,All sectors,NGGT,Natural Gas - GT,3172.2,megawatts
+156,2023,WI,Wisconsin,TOT,All sectors,NGIC,Natural Gas - IC,153.5,megawatts
+157,2023,WI,Wisconsin,TOT,All sectors,NGST,Natural Gas - ST,509.4,megawatts
+158,2023,WI,Wisconsin,TOT,All sectors,NUC,Nuclear,1186.6,megawatts
+159,2023,WI,Wisconsin,TOT,All sectors,OBM,Other Biomass,79.2,megawatts
+160,2023,WI,Wisconsin,TOT,All sectors,PET,Petroleum,636.3,megawatts
+161,2023,WI,Wisconsin,TOT,All sectors,PETGT,Petroleum - GT,374.5,megawatts
+162,2023,WI,Wisconsin,TOT,All sectors,PETIC,Petroleum - IC,203.4,megawatts
+163,2023,WI,Wisconsin,TOT,All sectors,PETST,Petroleum - ST,58.4,megawatts
+164,2023,WI,Wisconsin,TOT,All sectors,SOL,Solar,1648.2,megawatts
+165,2023,WI,Wisconsin,TOT,All sectors,SOLPV,Solar - PV,1648.2,megawatts
+166,2023,WI,Wisconsin,TOT,All sectors,WND,Wind,826.2,megawatts
+167,2023,WI,Wisconsin,TOT,All sectors,WOO,Wood,252.4,megawatts
+168,2023,WV,West Virginia,EU,Electric Utilities,ALL,All,11018.9,megawatts
+169,2023,WV,West Virginia,EU,Electric Utilities,COL,Coal,10424.4,megawatts
+170,2023,WV,West Virginia,EU,Electric Utilities,HYC,Hydroelectric,133.5,megawatts
+171,2023,WV,West Virginia,EU,Electric Utilities,NG,Natural Gas,450,megawatts
+172,2023,WV,West Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,450,megawatts
+173,2023,WV,West Virginia,EU,Electric Utilities,PET,Petroleum,11,megawatts
+174,2023,WV,West Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,11,megawatts
+175,2023,WV,West Virginia,IPP,Independent Power Producers,ALL,All,3986.2,megawatts
+176,2023,WV,West Virginia,IPP,Independent Power Producers,BAT,Battery,47.5,megawatts
+177,2023,WV,West Virginia,IPP,Independent Power Producers,COL,Coal,2118,megawatts
+178,2023,WV,West Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,207.3,megawatts
+179,2023,WV,West Virginia,IPP,Independent Power Producers,NG,Natural Gas,755,megawatts
+180,2023,WV,West Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,639.5,megawatts
+181,2023,WV,West Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,115.5,megawatts
+182,2023,WV,West Virginia,IPP,Independent Power Producers,OBM,Other Biomass,3.2,megawatts
+183,2023,WV,West Virginia,IPP,Independent Power Producers,WND,Wind,855.2,megawatts
+184,2023,WV,West Virginia,TOT,All sectors,ALL,All,15005.1,megawatts
+185,2023,WV,West Virginia,TOT,All sectors,BAT,Battery,47.5,megawatts
+186,2023,WV,West Virginia,TOT,All sectors,COL,Coal,12542.4,megawatts
+187,2023,WV,West Virginia,TOT,All sectors,HYC,Hydroelectric,340.8,megawatts
+188,2023,WV,West Virginia,TOT,All sectors,NG,Natural Gas,1205,megawatts
+189,2023,WV,West Virginia,TOT,All sectors,NGGT,Natural Gas - GT,1089.5,megawatts
+190,2023,WV,West Virginia,TOT,All sectors,NGST,Natural Gas - ST,115.5,megawatts
+191,2023,WV,West Virginia,TOT,All sectors,OBM,Other Biomass,3.2,megawatts
+192,2023,WV,West Virginia,TOT,All sectors,PET,Petroleum,11,megawatts
+193,2023,WV,West Virginia,TOT,All sectors,PETGT,Petroleum - GT,11,megawatts
+194,2023,WV,West Virginia,TOT,All sectors,WND,Wind,855.2,megawatts
+195,2023,WY,Wyoming,EU,Electric Utilities,ALL,All,8392.7,megawatts
+196,2023,WY,Wyoming,EU,Electric Utilities,COL,Coal,5913,megawatts
+197,2023,WY,Wyoming,EU,Electric Utilities,HYC,Hydroelectric,304.5,megawatts
+198,2023,WY,Wyoming,EU,Electric Utilities,NG,Natural Gas,486,megawatts
+199,2023,WY,Wyoming,EU,Electric Utilities,NGCC,Natural Gas - CC,94,megawatts
+200,2023,WY,Wyoming,EU,Electric Utilities,NGGT,Natural Gas - GT,145,megawatts
+201,2023,WY,Wyoming,EU,Electric Utilities,NGST,Natural Gas - ST,247,megawatts
+202,2023,WY,Wyoming,EU,Electric Utilities,PET,Petroleum,4.7,megawatts
+203,2023,WY,Wyoming,EU,Electric Utilities,PETIC,Petroleum - IC,4.7,megawatts
+204,2023,WY,Wyoming,EU,Electric Utilities,WND,Wind,1684.5,megawatts
+205,2023,WY,Wyoming,IPP,Independent Power Producers,ALL,All,1799.1,megawatts
+206,2023,WY,Wyoming,IPP,Independent Power Producers,COL,Coal,156,megawatts
+207,2023,WY,Wyoming,IPP,Independent Power Producers,HYC,Hydroelectric,2.6,megawatts
+208,2023,WY,Wyoming,IPP,Independent Power Producers,NG,Natural Gas,109.3,megawatts
+209,2023,WY,Wyoming,IPP,Independent Power Producers,NGGT,Natural Gas - GT,102.3,megawatts
+210,2023,WY,Wyoming,IPP,Independent Power Producers,NGIC,Natural Gas - IC,7,megawatts
+211,2023,WY,Wyoming,IPP,Independent Power Producers,OT,Other,13.3,megawatts
+212,2023,WY,Wyoming,IPP,Independent Power Producers,OOG,Other Gas,3.3,megawatts
+213,2023,WY,Wyoming,IPP,Independent Power Producers,PET,Petroleum,1.1,megawatts
+214,2023,WY,Wyoming,IPP,Independent Power Producers,PETIC,Petroleum - IC,1.1,megawatts
+215,2023,WY,Wyoming,IPP,Independent Power Producers,SOL,Solar,92,megawatts
+216,2023,WY,Wyoming,IPP,Independent Power Producers,SOLPV,Solar - PV,92,megawatts
+217,2023,WY,Wyoming,IPP,Independent Power Producers,WND,Wind,1421.5,megawatts
+218,2023,WY,Wyoming,TOT,All sectors,ALL,All,10191.8,megawatts
+219,2023,WY,Wyoming,TOT,All sectors,COL,Coal,6069,megawatts
+220,2023,WY,Wyoming,TOT,All sectors,HYC,Hydroelectric,307.1,megawatts
+221,2023,WY,Wyoming,TOT,All sectors,NG,Natural Gas,595.3,megawatts
+222,2023,WY,Wyoming,TOT,All sectors,NGCC,Natural Gas - CC,94,megawatts
+223,2023,WY,Wyoming,TOT,All sectors,NGGT,Natural Gas - GT,247.3,megawatts
+224,2023,WY,Wyoming,TOT,All sectors,NGIC,Natural Gas - IC,7,megawatts
+225,2023,WY,Wyoming,TOT,All sectors,NGST,Natural Gas - ST,247,megawatts
+226,2023,WY,Wyoming,TOT,All sectors,OT,Other,13.3,megawatts
+227,2023,WY,Wyoming,TOT,All sectors,OOG,Other Gas,3.3,megawatts
+228,2023,WY,Wyoming,TOT,All sectors,PET,Petroleum,5.8,megawatts
+229,2023,WY,Wyoming,TOT,All sectors,PETIC,Petroleum - IC,5.8,megawatts
+230,2023,WY,Wyoming,TOT,All sectors,SOL,Solar,92,megawatts
+231,2023,WY,Wyoming,TOT,All sectors,SOLPV,Solar - PV,92,megawatts
+232,2023,WY,Wyoming,TOT,All sectors,WND,Wind,3106,megawatts
+233,2023,AZ,Arizona,EU,Electric Utilities,SOLPV,Solar - PV,320.2,megawatts
+234,2023,AZ,Arizona,IPP,Independent Power Producers,ALL,All,8286.3,megawatts
+235,2023,AZ,Arizona,IPP,Independent Power Producers,BAT,Battery,698,megawatts
+236,2023,AZ,Arizona,IPP,Independent Power Producers,NG,Natural Gas,3377.1,megawatts
+237,2023,AZ,Arizona,IPP,Independent Power Producers,NGCC,Natural Gas - CC,3367.6,megawatts
+238,2023,AZ,Arizona,IPP,Independent Power Producers,NGGT,Natural Gas - GT,7.9,megawatts
+239,2023,AZ,Arizona,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.6,megawatts
+240,2023,AZ,Arizona,IPP,Independent Power Producers,OBM,Other Biomass,3.2,megawatts
+241,2023,AZ,Arizona,IPP,Independent Power Producers,PET,Petroleum,1.5,megawatts
+242,2023,AZ,Arizona,IPP,Independent Power Producers,PETIC,Petroleum - IC,1.5,megawatts
+243,2023,AZ,Arizona,IPP,Independent Power Producers,SOL,Solar,3326.3,megawatts
+244,2023,AZ,Arizona,IPP,Independent Power Producers,SOLPV,Solar - PV,3030.7,megawatts
+245,2023,AZ,Arizona,IPP,Independent Power Producers,SOLTH,Solar - TH,295.6,megawatts
+246,2023,AZ,Arizona,IPP,Independent Power Producers,WND,Wind,855.5,megawatts
+247,2023,AZ,Arizona,IPP,Independent Power Producers,WOO,Wood,24.7,megawatts
+248,2023,AZ,Arizona,TOT,All sectors,ALL,All,29884.6,megawatts
+249,2023,AZ,Arizona,TOT,All sectors,BAT,Battery,931,megawatts
+250,2023,AZ,Arizona,TOT,All sectors,COL,Coal,2939,megawatts
+251,2023,AZ,Arizona,TOT,All sectors,HYC,Hydroelectric,2721.9,megawatts
+252,2023,AZ,Arizona,TOT,All sectors,NG,Natural Gas,14341,megawatts
+253,2023,AZ,Arizona,TOT,All sectors,NGCC,Natural Gas - CC,10181.6,megawatts
+254,2023,AZ,Arizona,TOT,All sectors,NGGT,Natural Gas - GT,3061.8,megawatts
+255,2023,AZ,Arizona,TOT,All sectors,NGIC,Natural Gas - IC,183.6,megawatts
+256,2023,AZ,Arizona,TOT,All sectors,NGST,Natural Gas - ST,914,megawatts
+257,2023,AZ,Arizona,TOT,All sectors,NUC,Nuclear,3937,megawatts
+258,2023,AZ,Arizona,TOT,All sectors,OBM,Other Biomass,3.2,megawatts
+259,2023,AZ,Arizona,TOT,All sectors,PET,Petroleum,268.5,megawatts
+260,2023,AZ,Arizona,TOT,All sectors,PETGT,Petroleum - GT,86,megawatts
+261,2023,AZ,Arizona,TOT,All sectors,PETIC,Petroleum - IC,1.5,megawatts
+262,2023,AZ,Arizona,TOT,All sectors,PETST,Petroleum - ST,181,megawatts
+263,2023,AZ,Arizona,TOT,All sectors,HPS,Pumped Storage,216.3,megawatts
+264,2023,AZ,Arizona,TOT,All sectors,SOL,Solar,3646.5,megawatts
+265,2023,AZ,Arizona,TOT,All sectors,SOLPV,Solar - PV,3350.9,megawatts
+266,2023,AZ,Arizona,TOT,All sectors,SOLTH,Solar - TH,295.6,megawatts
+267,2023,AZ,Arizona,TOT,All sectors,WND,Wind,855.5,megawatts
+268,2023,AZ,Arizona,TOT,All sectors,WOO,Wood,24.7,megawatts
+269,2023,CA,California,EU,Electric Utilities,ALL,All,28570.6,megawatts
+270,2023,CA,California,EU,Electric Utilities,BAT,Battery,420.5,megawatts
+271,2023,CA,California,EU,Electric Utilities,GEO,Geothermal,125,megawatts
+272,2023,CA,California,EU,Electric Utilities,HYC,Hydroelectric,9660.4,megawatts
+273,2023,CA,California,EU,Electric Utilities,NG,Natural Gas,11516.1,megawatts
+274,2023,CA,California,EU,Electric Utilities,NGCC,Natural Gas - CC,7114.7,megawatts
+275,2023,CA,California,EU,Electric Utilities,NGGT,Natural Gas - GT,3296.9,megawatts
+276,2023,CA,California,EU,Electric Utilities,NGIC,Natural Gas - IC,232.6,megawatts
+277,2023,CA,California,EU,Electric Utilities,NGST,Natural Gas - ST,871.9,megawatts
+278,2023,CA,California,EU,Electric Utilities,NUC,Nuclear,2240,megawatts
+279,2023,CA,California,EU,Electric Utilities,PET,Petroleum,116.3,megawatts
+280,2023,CA,California,EU,Electric Utilities,PETGT,Petroleum - GT,76.9,megawatts
+281,2023,CA,California,EU,Electric Utilities,PETIC,Petroleum - IC,39.4,megawatts
+282,2023,CA,California,EU,Electric Utilities,HPS,Pumped Storage,3911.9,megawatts
+283,2023,CA,California,EU,Electric Utilities,SOL,Solar,230.4,megawatts
+284,2023,CA,California,EU,Electric Utilities,SOLPV,Solar - PV,230.4,megawatts
+285,2023,CA,California,EU,Electric Utilities,WND,Wind,350,megawatts
+286,2023,CA,California,IPP,Independent Power Producers,ALL,All,61804.3,megawatts
+287,2023,CA,California,IPP,Independent Power Producers,BAT,Battery,7564.1,megawatts
+288,2023,CA,California,IPP,Independent Power Producers,COL,Coal,57,megawatts
+289,2023,CA,California,IPP,Independent Power Producers,GEO,Geothermal,1760,megawatts
+290,2023,CA,California,IPP,Independent Power Producers,HYC,Hydroelectric,565.5,megawatts
+291,2023,CA,California,IPP,Independent Power Producers,NG,Natural Gas,24653.7,megawatts
+292,2023,CA,California,IPP,Independent Power Producers,NGCC,Natural Gas - CC,13276.4,megawatts
+293,2023,CA,California,IPP,Independent Power Producers,NGGT,Natural Gas - GT,8172.5,megawatts
+294,2023,CA,California,IPP,Independent Power Producers,NGIC,Natural Gas - IC,167.9,megawatts
+295,2023,CA,California,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,154.8,megawatts
+296,2023,CA,California,IPP,Independent Power Producers,NGST,Natural Gas - ST,2882.1,megawatts
+297,2023,CA,California,IPP,Independent Power Producers,OT,Other,94.4,megawatts
+298,2023,CA,California,IPP,Independent Power Producers,OBM,Other Biomass,476,megawatts
+299,2023,CA,California,IPP,Independent Power Producers,OOG,Other Gas,213,megawatts
+300,2023,CA,California,IPP,Independent Power Producers,PET,Petroleum,298.9,megawatts
+301,2023,CA,California,IPP,Independent Power Producers,PETGT,Petroleum - GT,110,megawatts
+302,2023,CA,California,IPP,Independent Power Producers,PETIC,Petroleum - IC,188.9,megawatts
+303,2023,CA,California,IPP,Independent Power Producers,SOL,Solar,19544.7,megawatts
+304,2023,CA,California,IPP,Independent Power Producers,SOLPV,Solar - PV,18538.9,megawatts
+305,2023,CA,California,IPP,Independent Power Producers,SOLTH,Solar - TH,1005.8,megawatts
+306,2023,CA,California,IPP,Independent Power Producers,WND,Wind,5934.2,megawatts
+307,2023,CA,California,IPP,Independent Power Producers,WOO,Wood,642.8,megawatts
+308,2023,CA,California,TOT,All sectors,ALL,All,90374.9,megawatts
+309,2023,CA,California,TOT,All sectors,BAT,Battery,7984.6,megawatts
+310,2023,CA,California,TOT,All sectors,COL,Coal,57,megawatts
+311,2023,CA,California,TOT,All sectors,GEO,Geothermal,1885,megawatts
+312,2023,CA,California,TOT,All sectors,HYC,Hydroelectric,10225.9,megawatts
+313,2023,CA,California,TOT,All sectors,NG,Natural Gas,36169.8,megawatts
+314,2023,CA,California,TOT,All sectors,NGCC,Natural Gas - CC,20391.1,megawatts
+315,2023,CA,California,TOT,All sectors,NGGT,Natural Gas - GT,11469.4,megawatts
+316,2023,CA,California,TOT,All sectors,NGIC,Natural Gas - IC,400.5,megawatts
+317,2023,CA,California,TOT,All sectors,NGOTH,Natural Gas - OTH,154.8,megawatts
+318,2023,CA,California,TOT,All sectors,NGST,Natural Gas - ST,3754,megawatts
+319,2023,CA,California,TOT,All sectors,NUC,Nuclear,2240,megawatts
+320,2023,CA,California,TOT,All sectors,OT,Other,94.4,megawatts
+321,2023,CA,California,TOT,All sectors,OBM,Other Biomass,476,megawatts
+322,2023,CA,California,TOT,All sectors,OOG,Other Gas,213,megawatts
+323,2023,CA,California,TOT,All sectors,PET,Petroleum,415.2,megawatts
+324,2023,CA,California,TOT,All sectors,PETGT,Petroleum - GT,186.9,megawatts
+325,2023,CA,California,TOT,All sectors,PETIC,Petroleum - IC,228.3,megawatts
+326,2023,CA,California,TOT,All sectors,HPS,Pumped Storage,3911.9,megawatts
+327,2023,CA,California,TOT,All sectors,SOL,Solar,19775.1,megawatts
+328,2023,CA,California,TOT,All sectors,SOLPV,Solar - PV,18769.3,megawatts
+329,2023,CA,California,TOT,All sectors,SOLTH,Solar - TH,1005.8,megawatts
+330,2023,CA,California,TOT,All sectors,WND,Wind,6284.2,megawatts
+331,2023,CA,California,TOT,All sectors,WOO,Wood,642.8,megawatts
+332,2023,CO,Colorado,EU,Electric Utilities,ALL,All,11207.8,megawatts
+333,2023,CO,Colorado,EU,Electric Utilities,BAT,Battery,5,megawatts
+334,2023,CO,Colorado,EU,Electric Utilities,COL,Coal,3804,megawatts
+335,2023,CO,Colorado,EU,Electric Utilities,HYC,Hydroelectric,609.7,megawatts
+336,2023,CO,Colorado,EU,Electric Utilities,NG,Natural Gas,4860.6,megawatts
+337,2023,CO,Colorado,EU,Electric Utilities,NGCC,Natural Gas - CC,2585,megawatts
+338,2023,CO,Colorado,EU,Electric Utilities,NGGT,Natural Gas - GT,1906.8,megawatts
+339,2023,CO,Colorado,EU,Electric Utilities,NGIC,Natural Gas - IC,3.8,megawatts
+340,2023,CO,Colorado,EU,Electric Utilities,NGST,Natural Gas - ST,365,megawatts
+341,2023,CO,Colorado,EU,Electric Utilities,PET,Petroleum,175.1,megawatts
+342,2023,CO,Colorado,EU,Electric Utilities,PETGT,Petroleum - GT,127,megawatts
+343,2023,CO,Colorado,EU,Electric Utilities,PETIC,Petroleum - IC,48.1,megawatts
+344,2023,CO,Colorado,EU,Electric Utilities,HPS,Pumped Storage,590.4,megawatts
+345,2023,CO,Colorado,EU,Electric Utilities,SOL,Solar,6.8,megawatts
+346,2023,CO,Colorado,EU,Electric Utilities,SOLPV,Solar - PV,6.8,megawatts
+347,2023,CO,Colorado,EU,Electric Utilities,WND,Wind,1156.2,megawatts
+348,2023,CO,Colorado,IPP,Independent Power Producers,ALL,All,8333.6,megawatts
+349,2023,CO,Colorado,IPP,Independent Power Producers,BAT,Battery,236,megawatts
+350,2023,CO,Colorado,IPP,Independent Power Producers,HYC,Hydroelectric,80,megawatts
+351,2023,CO,Colorado,IPP,Independent Power Producers,NG,Natural Gas,1627.3,megawatts
+352,2023,CO,Colorado,IPP,Independent Power Producers,NGCC,Natural Gas - CC,608.5,megawatts
+353,2023,CO,Colorado,IPP,Independent Power Producers,NGGT,Natural Gas - GT,754.2,megawatts
+354,2023,CO,Colorado,IPP,Independent Power Producers,NGIC,Natural Gas - IC,221.6,megawatts
+355,2023,CO,Colorado,IPP,Independent Power Producers,NGST,Natural Gas - ST,43,megawatts
+356,2023,CO,Colorado,IPP,Independent Power Producers,OT,Other,9.1,megawatts
+357,2023,CO,Colorado,IPP,Independent Power Producers,OBM,Other Biomass,16.1,megawatts
+358,2023,CO,Colorado,IPP,Independent Power Producers,OOG,Other Gas,3,megawatts
+359,2023,CO,Colorado,IPP,Independent Power Producers,PET,Petroleum,2.4,megawatts
+360,2023,CO,Colorado,IPP,Independent Power Producers,PETIC,Petroleum - IC,2.4,megawatts
+361,2023,CO,Colorado,IPP,Independent Power Producers,SOL,Solar,2166.6,megawatts
+362,2023,CO,Colorado,IPP,Independent Power Producers,SOLPV,Solar - PV,2166.6,megawatts
+363,2023,CO,Colorado,IPP,Independent Power Producers,WND,Wind,4180.5,megawatts
+364,2023,CO,Colorado,IPP,Independent Power Producers,WOO,Wood,12.6,megawatts
+365,2023,CO,Colorado,TOT,All sectors,ALL,All,19541.4,megawatts
+366,2023,CO,Colorado,TOT,All sectors,BAT,Battery,241,megawatts
+367,2023,CO,Colorado,TOT,All sectors,COL,Coal,3804,megawatts
+368,2023,CO,Colorado,TOT,All sectors,HYC,Hydroelectric,689.7,megawatts
+369,2023,CO,Colorado,TOT,All sectors,NG,Natural Gas,6487.9,megawatts
+370,2023,CO,Colorado,TOT,All sectors,NGCC,Natural Gas - CC,3193.5,megawatts
+371,2023,CO,Colorado,TOT,All sectors,NGGT,Natural Gas - GT,2661,megawatts
+372,2023,CO,Colorado,TOT,All sectors,NGIC,Natural Gas - IC,225.4,megawatts
+373,2023,LA,Louisiana,EU,Electric Utilities,ALL,All,16732,megawatts
+374,2023,LA,Louisiana,EU,Electric Utilities,COL,Coal,1009.5,megawatts
+375,2023,LA,Louisiana,EU,Electric Utilities,NG,Natural Gas,12644,megawatts
+376,2023,LA,Louisiana,EU,Electric Utilities,NGCC,Natural Gas - CC,6565.7,megawatts
+377,2023,LA,Louisiana,EU,Electric Utilities,NGGT,Natural Gas - GT,1083.7,megawatts
+378,2023,LA,Louisiana,EU,Electric Utilities,NGIC,Natural Gas - IC,191.8,megawatts
+379,2023,LA,Louisiana,EU,Electric Utilities,NGST,Natural Gas - ST,4802.8,megawatts
+380,2023,LA,Louisiana,EU,Electric Utilities,NUC,Nuclear,2136.9,megawatts
+381,2023,LA,Louisiana,EU,Electric Utilities,OT,Other,43.4,megawatts
+382,2023,LA,Louisiana,EU,Electric Utilities,PET,Petroleum,873.7,megawatts
+383,2023,LA,Louisiana,EU,Electric Utilities,PETGT,Petroleum - GT,32.1,megawatts
+384,2023,LA,Louisiana,EU,Electric Utilities,PETIC,Petroleum - IC,14,megawatts
+385,2023,LA,Louisiana,EU,Electric Utilities,PETST,Petroleum - ST,827.6,megawatts
+386,2023,LA,Louisiana,EU,Electric Utilities,SOL,Solar,24.5,megawatts
+387,2023,LA,Louisiana,EU,Electric Utilities,SOLPV,Solar - PV,24.5,megawatts
+388,2023,LA,Louisiana,IPP,Independent Power Producers,ALL,All,8231.3,megawatts
+389,2023,LA,Louisiana,IPP,Independent Power Producers,COL,Coal,1060,megawatts
+390,2023,LA,Louisiana,IPP,Independent Power Producers,HYC,Hydroelectric,192,megawatts
+391,2023,LA,Louisiana,IPP,Independent Power Producers,NG,Natural Gas,5750.3,megawatts
+392,2023,LA,Louisiana,IPP,Independent Power Producers,NGCC,Natural Gas - CC,3122.3,megawatts
+393,2023,LA,Louisiana,IPP,Independent Power Producers,NGGT,Natural Gas - GT,1750.5,megawatts
+394,2023,LA,Louisiana,IPP,Independent Power Producers,NGIC,Natural Gas - IC,24.7,megawatts
+395,2023,LA,Louisiana,IPP,Independent Power Producers,NGST,Natural Gas - ST,852.8,megawatts
+396,2023,LA,Louisiana,IPP,Independent Power Producers,OT,Other,315.7,megawatts
+397,2023,LA,Louisiana,IPP,Independent Power Producers,OBM,Other Biomass,14.1,megawatts
+398,2023,LA,Louisiana,IPP,Independent Power Producers,OOG,Other Gas,167.6,megawatts
+399,2023,LA,Louisiana,IPP,Independent Power Producers,PET,Petroleum,3.6,megawatts
+400,2023,LA,Louisiana,IPP,Independent Power Producers,PETIC,Petroleum - IC,3.6,megawatts
+401,2023,LA,Louisiana,IPP,Independent Power Producers,SOL,Solar,320,megawatts
+402,2023,LA,Louisiana,IPP,Independent Power Producers,SOLPV,Solar - PV,320,megawatts
+403,2023,LA,Louisiana,IPP,Independent Power Producers,WOO,Wood,408,megawatts
+404,2023,LA,Louisiana,TOT,All sectors,ALL,All,24963.3,megawatts
+405,2023,LA,Louisiana,TOT,All sectors,COL,Coal,2069.5,megawatts
+406,2023,LA,Louisiana,TOT,All sectors,HYC,Hydroelectric,192,megawatts
+407,2023,LA,Louisiana,TOT,All sectors,NG,Natural Gas,18394.3,megawatts
+408,2023,LA,Louisiana,TOT,All sectors,NGCC,Natural Gas - CC,9688,megawatts
+409,2023,LA,Louisiana,TOT,All sectors,NGGT,Natural Gas - GT,2834.2,megawatts
+410,2023,LA,Louisiana,TOT,All sectors,NGIC,Natural Gas - IC,216.5,megawatts
+411,2023,LA,Louisiana,TOT,All sectors,NGST,Natural Gas - ST,5655.6,megawatts
+412,2023,LA,Louisiana,TOT,All sectors,NUC,Nuclear,2136.9,megawatts
+413,2023,LA,Louisiana,TOT,All sectors,OT,Other,359.1,megawatts
+414,2023,LA,Louisiana,TOT,All sectors,OBM,Other Biomass,14.1,megawatts
+415,2023,LA,Louisiana,TOT,All sectors,OOG,Other Gas,167.6,megawatts
+416,2023,LA,Louisiana,TOT,All sectors,PET,Petroleum,877.3,megawatts
+417,2023,LA,Louisiana,TOT,All sectors,PETGT,Petroleum - GT,32.1,megawatts
+418,2023,LA,Louisiana,TOT,All sectors,PETIC,Petroleum - IC,17.6,megawatts
+419,2023,LA,Louisiana,TOT,All sectors,PETST,Petroleum - ST,827.6,megawatts
+420,2023,LA,Louisiana,TOT,All sectors,SOL,Solar,344.5,megawatts
+421,2023,LA,Louisiana,TOT,All sectors,SOLPV,Solar - PV,344.5,megawatts
+422,2023,LA,Louisiana,TOT,All sectors,WOO,Wood,408,megawatts
+423,2023,MA,Massachusetts,EU,Electric Utilities,ALL,All,1044.9,megawatts
+424,2023,MA,Massachusetts,EU,Electric Utilities,BAT,Battery,18.9,megawatts
+425,2023,MA,Massachusetts,EU,Electric Utilities,HYC,Hydroelectric,82.1,megawatts
+426,2023,MA,Massachusetts,EU,Electric Utilities,NG,Natural Gas,355.5,megawatts
+427,2023,MA,Massachusetts,EU,Electric Utilities,NGCC,Natural Gas - CC,181.1,megawatts
+428,2023,MA,Massachusetts,EU,Electric Utilities,NGGT,Natural Gas - GT,151.2,megawatts
+429,2023,MA,Massachusetts,EU,Electric Utilities,NGIC,Natural Gas - IC,23.2,megawatts
+430,2023,MA,Massachusetts,EU,Electric Utilities,PET,Petroleum,496.5,megawatts
+431,2023,MA,Massachusetts,EU,Electric Utilities,PETGT,Petroleum - GT,143.5,megawatts
+432,2023,MA,Massachusetts,EU,Electric Utilities,PETIC,Petroleum - IC,47.9,megawatts
+433,2023,MA,Massachusetts,EU,Electric Utilities,PETOTH,Petroleum - OTH,305.1,megawatts
+434,2023,MA,Massachusetts,EU,Electric Utilities,SOL,Solar,65.9,megawatts
+435,2023,MA,Massachusetts,EU,Electric Utilities,SOLPV,Solar - PV,65.9,megawatts
+436,2023,MA,Massachusetts,EU,Electric Utilities,WND,Wind,26,megawatts
+437,2023,MA,Massachusetts,IPP,Independent Power Producers,ALL,All,11804.6,megawatts
+438,2023,MA,Massachusetts,IPP,Independent Power Producers,BAT,Battery,249.2,megawatts
+439,2023,MA,Massachusetts,IPP,Independent Power Producers,HYC,Hydroelectric,185.1,megawatts
+440,2023,MA,Massachusetts,IPP,Independent Power Producers,NG,Natural Gas,6133.9,megawatts
+441,2023,MA,Massachusetts,IPP,Independent Power Producers,NGCC,Natural Gas - CC,5761.8,megawatts
+442,2023,MA,Massachusetts,IPP,Independent Power Producers,NGGT,Natural Gas - GT,305,megawatts
+443,2023,MA,Massachusetts,IPP,Independent Power Producers,NGIC,Natural Gas - IC,16.8,megawatts
+444,2023,MA,Massachusetts,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,7.5,megawatts
+445,2023,MA,Massachusetts,IPP,Independent Power Producers,NGST,Natural Gas - ST,42.8,megawatts
+446,2023,MA,Massachusetts,IPP,Independent Power Producers,OBM,Other Biomass,258.2,megawatts
+447,2023,MA,Massachusetts,IPP,Independent Power Producers,PET,Petroleum,1780.3,megawatts
+448,2023,MA,Massachusetts,IPP,Independent Power Producers,PETGT,Petroleum - GT,596.3,megawatts
+449,2023,MA,Massachusetts,IPP,Independent Power Producers,PETIC,Petroleum - IC,65.2,megawatts
+450,2023,MA,Massachusetts,IPP,Independent Power Producers,PETST,Petroleum - ST,1118.8,megawatts
+451,2023,MA,Massachusetts,IPP,Independent Power Producers,HPS,Pumped Storage,1834,megawatts
+452,2023,MA,Massachusetts,IPP,Independent Power Producers,SOL,Solar,1273.2,megawatts
+453,2023,MA,Massachusetts,IPP,Independent Power Producers,SOLPV,Solar - PV,1273.2,megawatts
+454,2023,MA,Massachusetts,IPP,Independent Power Producers,WND,Wind,75.8,megawatts
+455,2023,MA,Massachusetts,IPP,Independent Power Producers,WOO,Wood,14.9,megawatts
+456,2023,MA,Massachusetts,TOT,All sectors,ALL,All,12849.5,megawatts
+457,2023,MA,Massachusetts,TOT,All sectors,BAT,Battery,268.1,megawatts
+458,2023,MA,Massachusetts,TOT,All sectors,HYC,Hydroelectric,267.2,megawatts
+459,2023,MA,Massachusetts,TOT,All sectors,NG,Natural Gas,6489.4,megawatts
+460,2023,MA,Massachusetts,TOT,All sectors,NGCC,Natural Gas - CC,5942.9,megawatts
+461,2023,MA,Massachusetts,TOT,All sectors,NGGT,Natural Gas - GT,456.2,megawatts
+462,2023,MA,Massachusetts,TOT,All sectors,NGIC,Natural Gas - IC,40,megawatts
+463,2023,MA,Massachusetts,TOT,All sectors,NGOTH,Natural Gas - OTH,7.5,megawatts
+464,2023,MA,Massachusetts,TOT,All sectors,NGST,Natural Gas - ST,42.8,megawatts
+465,2023,MA,Massachusetts,TOT,All sectors,OBM,Other Biomass,258.2,megawatts
+466,2023,MA,Massachusetts,TOT,All sectors,PET,Petroleum,2276.8,megawatts
+467,2023,MA,Massachusetts,TOT,All sectors,PETGT,Petroleum - GT,739.8,megawatts
+468,2023,MA,Massachusetts,TOT,All sectors,PETIC,Petroleum - IC,113.1,megawatts
+469,2023,MA,Massachusetts,TOT,All sectors,PETOTH,Petroleum - OTH,305.1,megawatts
+470,2023,MA,Massachusetts,TOT,All sectors,PETST,Petroleum - ST,1118.8,megawatts
+471,2023,MA,Massachusetts,TOT,All sectors,HPS,Pumped Storage,1834,megawatts
+472,2023,MD,Maryland,IPP,Independent Power Producers,WND,Wind,190,megawatts
+473,2023,MD,Maryland,IPP,Independent Power Producers,WOO,Wood,2.6,megawatts
+474,2023,MD,Maryland,TOT,All sectors,ALL,All,11924.1,megawatts
+475,2023,MD,Maryland,TOT,All sectors,BAT,Battery,7.7,megawatts
+476,2023,MD,Maryland,TOT,All sectors,COL,Coal,1453,megawatts
+477,2023,MD,Maryland,TOT,All sectors,HYC,Hydroelectric,514.9,megawatts
+478,2023,MD,Maryland,TOT,All sectors,NG,Natural Gas,5632.7,megawatts
+479,2023,MD,Maryland,TOT,All sectors,NGCC,Natural Gas - CC,2745.8,megawatts
+480,2023,MD,Maryland,TOT,All sectors,NGGT,Natural Gas - GT,1675.6,megawatts
+481,2023,MD,Maryland,TOT,All sectors,NGIC,Natural Gas - IC,11.5,megawatts
+482,2023,MD,Maryland,TOT,All sectors,NGST,Natural Gas - ST,1199.8,megawatts
+483,2023,MD,Maryland,TOT,All sectors,NUC,Nuclear,1745.2,megawatts
+484,2023,MD,Maryland,TOT,All sectors,OBM,Other Biomass,137.3,megawatts
+485,2023,MD,Maryland,TOT,All sectors,PET,Petroleum,1656.3,megawatts
+486,2023,MD,Maryland,TOT,All sectors,PETGT,Petroleum - GT,591.1,megawatts
+487,2023,MD,Maryland,TOT,All sectors,PETIC,Petroleum - IC,84.2,megawatts
+488,2023,MD,Maryland,TOT,All sectors,PETST,Petroleum - ST,981,megawatts
+489,2023,MD,Maryland,TOT,All sectors,SOL,Solar,584.4,megawatts
+490,2023,MD,Maryland,TOT,All sectors,SOLPV,Solar - PV,584.4,megawatts
+491,2023,MD,Maryland,TOT,All sectors,WND,Wind,190,megawatts
+492,2023,MD,Maryland,TOT,All sectors,WOO,Wood,2.6,megawatts
+493,2023,ME,Maine,EU,Electric Utilities,ALL,All,1.2,megawatts
+494,2023,ME,Maine,EU,Electric Utilities,HYC,Hydroelectric,1.2,megawatts
+495,2023,ME,Maine,IPP,Independent Power Producers,ALL,All,5250.4,megawatts
+496,2023,ME,Maine,IPP,Independent Power Producers,BAT,Battery,62.3,megawatts
+497,2023,ME,Maine,IPP,Independent Power Producers,HYC,Hydroelectric,724.6,megawatts
+498,2023,ME,Maine,IPP,Independent Power Producers,NG,Natural Gas,1597.7,megawatts
+499,2023,ME,Maine,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1285.7,megawatts
+500,2023,ME,Maine,IPP,Independent Power Producers,NGGT,Natural Gas - GT,312,megawatts
+501,2023,ME,Maine,IPP,Independent Power Producers,OT,Other,22,megawatts
+502,2023,ME,Maine,IPP,Independent Power Producers,OBM,Other Biomass,38.6,megawatts
+503,2023,ME,Maine,IPP,Independent Power Producers,PET,Petroleum,844.7,megawatts
+504,2023,ME,Maine,IPP,Independent Power Producers,PETGT,Petroleum - GT,32,megawatts
+505,2023,ME,Maine,IPP,Independent Power Producers,PETIC,Petroleum - IC,1.8,megawatts
+506,2023,ME,Maine,IPP,Independent Power Producers,PETST,Petroleum - ST,810.9,megawatts
+507,2023,ME,Maine,IPP,Independent Power Producers,SOL,Solar,481,megawatts
+508,2023,ME,Maine,IPP,Independent Power Producers,SOLPV,Solar - PV,481,megawatts
+509,2023,ME,Maine,IPP,Independent Power Producers,WND,Wind,1029.5,megawatts
+510,2023,ME,Maine,IPP,Independent Power Producers,WOO,Wood,450,megawatts
+511,2023,ME,Maine,TOT,All sectors,ALL,All,5251.6,megawatts
+512,2023,ME,Maine,TOT,All sectors,BAT,Battery,62.3,megawatts
+513,2023,ME,Maine,TOT,All sectors,HYC,Hydroelectric,725.8,megawatts
+514,2023,ME,Maine,TOT,All sectors,NG,Natural Gas,1597.7,megawatts
+515,2023,ME,Maine,TOT,All sectors,NGCC,Natural Gas - CC,1285.7,megawatts
+516,2023,ME,Maine,TOT,All sectors,NGGT,Natural Gas - GT,312,megawatts
+517,2023,ME,Maine,TOT,All sectors,OT,Other,22,megawatts
+518,2023,ME,Maine,TOT,All sectors,OBM,Other Biomass,38.6,megawatts
+519,2023,ME,Maine,TOT,All sectors,PET,Petroleum,844.7,megawatts
+520,2023,ME,Maine,TOT,All sectors,PETGT,Petroleum - GT,32,megawatts
+521,2023,ME,Maine,TOT,All sectors,PETIC,Petroleum - IC,1.8,megawatts
+522,2023,ME,Maine,TOT,All sectors,PETST,Petroleum - ST,810.9,megawatts
+523,2023,ME,Maine,TOT,All sectors,SOL,Solar,481,megawatts
+524,2023,ME,Maine,TOT,All sectors,SOLPV,Solar - PV,481,megawatts
+525,2023,ME,Maine,TOT,All sectors,WND,Wind,1029.5,megawatts
+526,2023,ME,Maine,TOT,All sectors,WOO,Wood,450,megawatts
+527,2023,MI,Michigan,EU,Electric Utilities,ALL,All,23788.3,megawatts
+528,2023,MI,Michigan,EU,Electric Utilities,BAT,Battery,1.3,megawatts
+529,2023,MI,Michigan,EU,Electric Utilities,COL,Coal,5736.1,megawatts
+530,2023,MI,Michigan,EU,Electric Utilities,HYC,Hydroelectric,245.9,megawatts
+531,2023,MI,Michigan,EU,Electric Utilities,NG,Natural Gas,9704.1,megawatts
+532,2023,MI,Michigan,EU,Electric Utilities,NGCC,Natural Gas - CC,4200.4,megawatts
+533,2023,MI,Michigan,EU,Electric Utilities,NGGT,Natural Gas - GT,3154,megawatts
+534,2023,MI,Michigan,EU,Electric Utilities,NGIC,Natural Gas - IC,322.4,megawatts
+535,2023,MI,Michigan,EU,Electric Utilities,NGST,Natural Gas - ST,2027.3,megawatts
+536,2023,MI,Michigan,EU,Electric Utilities,NUC,Nuclear,3318,megawatts
+537,2023,MI,Michigan,EU,Electric Utilities,PET,Petroleum,413.4,megawatts
+538,2023,MI,Michigan,EU,Electric Utilities,PETGT,Petroleum - GT,198.3,megawatts
+539,2023,MI,Michigan,EU,Electric Utilities,PETIC,Petroleum - IC,215.1,megawatts
+540,2023,MI,Michigan,EU,Electric Utilities,HPS,Pumped Storage,2185.6,megawatts
+541,2023,MI,Michigan,EU,Electric Utilities,SOL,Solar,61.8,megawatts
+542,2023,MI,Michigan,EU,Electric Utilities,SOLPV,Solar - PV,61.8,megawatts
+543,2023,MI,Michigan,EU,Electric Utilities,WND,Wind,2122.1,megawatts
+544,2023,MI,Michigan,IPP,Independent Power Producers,ALL,All,7331.6,megawatts
+545,2023,MI,Michigan,IPP,Independent Power Producers,COL,Coal,65.8,megawatts
+546,2023,MI,Michigan,IPP,Independent Power Producers,HYC,Hydroelectric,17.9,megawatts
+547,2023,MI,Michigan,IPP,Independent Power Producers,NG,Natural Gas,4071,megawatts
+548,2023,MI,Michigan,IPP,Independent Power Producers,NGCC,Natural Gas - CC,3491.2,megawatts
+549,2023,MI,Michigan,IPP,Independent Power Producers,NGGT,Natural Gas - GT,416,megawatts
+550,2023,MI,Michigan,IPP,Independent Power Producers,NGIC,Natural Gas - IC,37.2,megawatts
+551,2023,MI,Michigan,IPP,Independent Power Producers,NGST,Natural Gas - ST,126.6,megawatts
+552,2023,MI,Michigan,IPP,Independent Power Producers,OT,Other,3.8,megawatts
+553,2023,MI,Michigan,IPP,Independent Power Producers,OBM,Other Biomass,167.8,megawatts
+554,2023,MI,Michigan,IPP,Independent Power Producers,OOG,Other Gas,250,megawatts
+555,2023,MI,Michigan,IPP,Independent Power Producers,PET,Petroleum,66.3,megawatts
+556,2023,MI,Michigan,IPP,Independent Power Producers,PETIC,Petroleum - IC,19.1,megawatts
+557,2023,MI,Michigan,IPP,Independent Power Producers,PETST,Petroleum - ST,47.2,megawatts
+558,2023,MI,Michigan,IPP,Independent Power Producers,SOL,Solar,913.2,megawatts
+559,2023,MI,Michigan,IPP,Independent Power Producers,SOLPV,Solar - PV,913.2,megawatts
+560,2023,MI,Michigan,IPP,Independent Power Producers,WND,Wind,1453.2,megawatts
+561,2023,MI,Michigan,IPP,Independent Power Producers,WOO,Wood,322.6,megawatts
+562,2023,MI,Michigan,TOT,All sectors,ALL,All,31119.9,megawatts
+563,2023,MI,Michigan,TOT,All sectors,BAT,Battery,1.3,megawatts
+564,2023,MI,Michigan,TOT,All sectors,COL,Coal,5801.9,megawatts
+565,2023,MI,Michigan,TOT,All sectors,HYC,Hydroelectric,263.8,megawatts
+566,2023,MI,Michigan,TOT,All sectors,NG,Natural Gas,13775.1,megawatts
+567,2023,MI,Michigan,TOT,All sectors,NGCC,Natural Gas - CC,7691.6,megawatts
+568,2023,MI,Michigan,TOT,All sectors,NGGT,Natural Gas - GT,3570,megawatts
+569,2023,MI,Michigan,TOT,All sectors,NGIC,Natural Gas - IC,359.6,megawatts
+570,2023,MI,Michigan,TOT,All sectors,NGST,Natural Gas - ST,2153.9,megawatts
+571,2023,MI,Michigan,TOT,All sectors,NUC,Nuclear,3318,megawatts
+572,2023,MI,Michigan,TOT,All sectors,OT,Other,3.8,megawatts
+573,2023,MI,Michigan,TOT,All sectors,OBM,Other Biomass,167.8,megawatts
+574,2023,MI,Michigan,TOT,All sectors,OOG,Other Gas,250,megawatts
+575,2023,MI,Michigan,TOT,All sectors,PET,Petroleum,479.7,megawatts
+576,2023,MI,Michigan,TOT,All sectors,PETGT,Petroleum - GT,198.3,megawatts
+577,2023,MI,Michigan,TOT,All sectors,PETIC,Petroleum - IC,234.2,megawatts
+578,2023,MI,Michigan,TOT,All sectors,PETST,Petroleum - ST,47.2,megawatts
+579,2023,MI,Michigan,TOT,All sectors,HPS,Pumped Storage,2185.6,megawatts
+580,2023,MI,Michigan,TOT,All sectors,SOL,Solar,975,megawatts
+581,2023,MI,Michigan,TOT,All sectors,SOLPV,Solar - PV,975,megawatts
+582,2023,MI,Michigan,TOT,All sectors,WND,Wind,3575.3,megawatts
+583,2023,MI,Michigan,TOT,All sectors,WOO,Wood,322.6,megawatts
+584,2023,MN,Minnesota,EU,Electric Utilities,ALL,All,11609.8,megawatts
+585,2023,MN,Minnesota,EU,Electric Utilities,COL,Coal,3004,megawatts
+586,2023,MN,Minnesota,EU,Electric Utilities,HYC,Hydroelectric,138.3,megawatts
+587,2023,MN,Minnesota,EU,Electric Utilities,NG,Natural Gas,4190.6,megawatts
+588,2023,MN,Minnesota,EU,Electric Utilities,NGCC,Natural Gas - CC,1578,megawatts
+589,2023,MN,Minnesota,EU,Electric Utilities,NGGT,Natural Gas - GT,2206.5,megawatts
+590,2023,MN,Minnesota,EU,Electric Utilities,NGIC,Natural Gas - IC,230.8,megawatts
+591,2023,MN,Minnesota,EU,Electric Utilities,NGST,Natural Gas - ST,175.3,megawatts
+592,2023,MN,Minnesota,EU,Electric Utilities,NUC,Nuclear,1657,megawatts
+593,2023,MN,Minnesota,EU,Electric Utilities,OBM,Other Biomass,37.5,megawatts
+594,2023,MN,Minnesota,EU,Electric Utilities,PET,Petroleum,704.9,megawatts
+595,2023,MN,Minnesota,EU,Electric Utilities,PETGT,Petroleum - GT,342.7,megawatts
+596,2023,MN,Minnesota,EU,Electric Utilities,PETIC,Petroleum - IC,362.2,megawatts
+597,2023,MN,Minnesota,EU,Electric Utilities,SOL,Solar,85.4,megawatts
+598,2023,MN,Minnesota,EU,Electric Utilities,SOLPV,Solar - PV,85.4,megawatts
+599,2023,MN,Minnesota,EU,Electric Utilities,WND,Wind,1792.1,megawatts
+600,2023,MN,Minnesota,IPP,Independent Power Producers,ALL,All,6231.8,megawatts
+601,2023,MN,Minnesota,IPP,Independent Power Producers,BAT,Battery,16,megawatts
+602,2023,MN,Minnesota,IPP,Independent Power Producers,COL,Coal,137.7,megawatts
+603,2023,MN,Minnesota,IPP,Independent Power Producers,HYC,Hydroelectric,73.7,megawatts
+604,2023,MN,Minnesota,IPP,Independent Power Producers,NG,Natural Gas,1309.2,megawatts
+605,2023,MN,Minnesota,IPP,Independent Power Producers,NGCC,Natural Gas - CC,954.9,megawatts
+606,2023,MN,Minnesota,IPP,Independent Power Producers,NGGT,Natural Gas - GT,338.5,megawatts
+607,2023,MN,Minnesota,IPP,Independent Power Producers,NGST,Natural Gas - ST,15.8,megawatts
+608,2023,MN,Minnesota,IPP,Independent Power Producers,OT,Other,6.1,megawatts
+609,2023,MN,Minnesota,IPP,Independent Power Producers,OBM,Other Biomass,73.1,megawatts
+610,2023,MN,Minnesota,IPP,Independent Power Producers,PET,Petroleum,67.4,megawatts
+611,2023,MN,Minnesota,IPP,Independent Power Producers,PETIC,Petroleum - IC,67.4,megawatts
+612,2023,MN,Minnesota,IPP,Independent Power Producers,SOL,Solar,1206,megawatts
+613,2023,MN,Minnesota,IPP,Independent Power Producers,SOLPV,Solar - PV,1206,megawatts
+614,2023,MN,Minnesota,IPP,Independent Power Producers,WND,Wind,3136.6,megawatts
+615,2023,MN,Minnesota,IPP,Independent Power Producers,WOO,Wood,206,megawatts
+616,2023,MN,Minnesota,TOT,All sectors,ALL,All,17841.6,megawatts
+617,2023,MN,Minnesota,TOT,All sectors,BAT,Battery,16,megawatts
+618,2023,MN,Minnesota,TOT,All sectors,COL,Coal,3141.7,megawatts
+619,2023,MN,Minnesota,TOT,All sectors,HYC,Hydroelectric,212,megawatts
+620,2023,MN,Minnesota,TOT,All sectors,NG,Natural Gas,5499.8,megawatts
+621,2023,MN,Minnesota,TOT,All sectors,NGCC,Natural Gas - CC,2532.9,megawatts
+622,2023,MN,Minnesota,TOT,All sectors,NGGT,Natural Gas - GT,2545,megawatts
+623,2023,MN,Minnesota,TOT,All sectors,NGIC,Natural Gas - IC,230.8,megawatts
+624,2023,MN,Minnesota,TOT,All sectors,NGST,Natural Gas - ST,191.1,megawatts
+625,2023,MN,Minnesota,TOT,All sectors,NUC,Nuclear,1657,megawatts
+626,2023,MN,Minnesota,TOT,All sectors,OT,Other,6.1,megawatts
+627,2023,MN,Minnesota,TOT,All sectors,OBM,Other Biomass,110.6,megawatts
+628,2023,MN,Minnesota,TOT,All sectors,PET,Petroleum,772.3,megawatts
+629,2023,MN,Minnesota,TOT,All sectors,PETGT,Petroleum - GT,342.7,megawatts
+630,2023,MN,Minnesota,TOT,All sectors,PETIC,Petroleum - IC,429.6,megawatts
+631,2023,MN,Minnesota,TOT,All sectors,SOL,Solar,1291.4,megawatts
+632,2023,MN,Minnesota,TOT,All sectors,SOLPV,Solar - PV,1291.4,megawatts
+633,2023,MN,Minnesota,TOT,All sectors,WND,Wind,4928.7,megawatts
+634,2023,MN,Minnesota,TOT,All sectors,WOO,Wood,206,megawatts
+635,2023,MO,Missouri,EU,Electric Utilities,ALL,All,18822.3,megawatts
+636,2023,MO,Missouri,EU,Electric Utilities,BAT,Battery,1,megawatts
+637,2023,MO,Missouri,EU,Electric Utilities,COL,Coal,9714.2,megawatts
+638,2023,MO,Missouri,EU,Electric Utilities,HYC,Hydroelectric,548.5,megawatts
+639,2023,MO,Missouri,EU,Electric Utilities,NG,Natural Gas,4662.2,megawatts
+640,2023,MO,Missouri,EU,Electric Utilities,NGCC,Natural Gas - CC,1206.8,megawatts
+641,2023,MO,Missouri,EU,Electric Utilities,NGGT,Natural Gas - GT,3142.7,megawatts
+642,2023,MO,Missouri,EU,Electric Utilities,NGIC,Natural Gas - IC,134.5,megawatts
+643,2023,MO,Missouri,EU,Electric Utilities,NGST,Natural Gas - ST,178.2,megawatts
+644,2023,MO,Missouri,EU,Electric Utilities,NUC,Nuclear,1190,megawatts
+645,2023,MO,Missouri,EU,Electric Utilities,OBM,Other Biomass,7.5,megawatts
+646,2023,MO,Missouri,EU,Electric Utilities,PET,Petroleum,1063.6,megawatts
+647,2023,MO,Missouri,EU,Electric Utilities,PETGT,Petroleum - GT,860.5,megawatts
+648,2023,MO,Missouri,EU,Electric Utilities,PETIC,Petroleum - IC,203.1,megawatts
+649,2023,MO,Missouri,EU,Electric Utilities,HPS,Pumped Storage,657,megawatts
+650,2023,MO,Missouri,EU,Electric Utilities,SOL,Solar,36.2,megawatts
+651,2023,MO,Missouri,EU,Electric Utilities,SOLPV,Solar - PV,36.2,megawatts
+652,2023,MO,Missouri,EU,Electric Utilities,WND,Wind,942.1,megawatts
+653,2023,MO,Missouri,IPP,Independent Power Producers,ALL,All,2350,megawatts
+654,2023,MO,Missouri,IPP,Independent Power Producers,NG,Natural Gas,823.9,megawatts
+655,2023,MO,Missouri,IPP,Independent Power Producers,NGCC,Natural Gas - CC,685.7,megawatts
+656,2023,MO,Missouri,IPP,Independent Power Producers,NGGT,Natural Gas - GT,58.1,megawatts
+657,2023,MO,Missouri,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.2,megawatts
+658,2023,MO,Missouri,IPP,Independent Power Producers,NGST,Natural Gas - ST,78.9,megawatts
+659,2023,MO,Missouri,IPP,Independent Power Producers,OBM,Other Biomass,6.5,megawatts
+660,2023,MO,Missouri,IPP,Independent Power Producers,PET,Petroleum,22.2,megawatts
+661,2023,MO,Missouri,IPP,Independent Power Producers,PETIC,Petroleum - IC,22.2,megawatts
+662,2023,MO,Missouri,IPP,Independent Power Producers,SOL,Solar,64.6,megawatts
+663,2023,MO,Missouri,IPP,Independent Power Producers,SOLPV,Solar - PV,64.6,megawatts
+664,2023,MO,Missouri,IPP,Independent Power Producers,WND,Wind,1432.8,megawatts
+665,2023,MO,Missouri,TOT,All sectors,ALL,All,21172.3,megawatts
+666,2023,MO,Missouri,TOT,All sectors,BAT,Battery,1,megawatts
+667,2023,MO,Missouri,TOT,All sectors,COL,Coal,9714.2,megawatts
+668,2023,MO,Missouri,TOT,All sectors,HYC,Hydroelectric,548.5,megawatts
+669,2023,MO,Missouri,TOT,All sectors,NG,Natural Gas,5486.1,megawatts
+670,2023,MO,Missouri,TOT,All sectors,NGCC,Natural Gas - CC,1892.5,megawatts
+671,2023,MO,Missouri,TOT,All sectors,NGGT,Natural Gas - GT,3200.8,megawatts
+672,2023,MO,Missouri,TOT,All sectors,NGIC,Natural Gas - IC,135.7,megawatts
+673,2023,MO,Missouri,TOT,All sectors,NGST,Natural Gas - ST,257.1,megawatts
+674,2023,MO,Missouri,TOT,All sectors,NUC,Nuclear,1190,megawatts
+675,2023,MO,Missouri,TOT,All sectors,OBM,Other Biomass,14,megawatts
+676,2023,MO,Missouri,TOT,All sectors,PET,Petroleum,1085.8,megawatts
+677,2023,MO,Missouri,TOT,All sectors,PETGT,Petroleum - GT,860.5,megawatts
+678,2023,MO,Missouri,TOT,All sectors,PETIC,Petroleum - IC,225.3,megawatts
+679,2023,MO,Missouri,TOT,All sectors,HPS,Pumped Storage,657,megawatts
+680,2023,MO,Missouri,TOT,All sectors,SOL,Solar,100.8,megawatts
+681,2023,MO,Missouri,TOT,All sectors,SOLPV,Solar - PV,100.8,megawatts
+682,2023,MO,Missouri,TOT,All sectors,WND,Wind,2374.9,megawatts
+683,2023,MS,Mississippi,EU,Electric Utilities,ALL,All,13730.4,megawatts
+684,2023,MS,Mississippi,EU,Electric Utilities,BAT,Battery,1.5,megawatts
+685,2023,MS,Mississippi,EU,Electric Utilities,COL,Coal,1004,megawatts
+686,2023,MS,Mississippi,EU,Electric Utilities,NG,Natural Gas,11231.4,megawatts
+687,2023,MS,Mississippi,EU,Electric Utilities,NGCC,Natural Gas - CC,8384.5,megawatts
+688,2023,MS,Mississippi,EU,Electric Utilities,NGGT,Natural Gas - GT,1334.6,megawatts
+689,2023,MS,Mississippi,EU,Electric Utilities,NGIC,Natural Gas - IC,25.8,megawatts
+690,2023,MS,Mississippi,EU,Electric Utilities,NGST,Natural Gas - ST,1486.5,megawatts
+691,2023,MS,Mississippi,EU,Electric Utilities,NUC,Nuclear,1383,megawatts
+692,2023,MS,Mississippi,EU,Electric Utilities,PET,Petroleum,9,megawatts
+693,2023,MS,Mississippi,EU,Electric Utilities,PETIC,Petroleum - IC,9,megawatts
+694,2023,MS,Mississippi,EU,Electric Utilities,SOL,Solar,101.5,megawatts
+695,2023,MS,Mississippi,EU,Electric Utilities,SOLPV,Solar - PV,101.5,megawatts
+696,2023,MS,Mississippi,IPP,Independent Power Producers,ALL,All,1102.6,megawatts
+697,2023,MS,Mississippi,IPP,Independent Power Producers,COL,Coal,440,megawatts
+698,2023,MS,Mississippi,IPP,Independent Power Producers,NG,Natural Gas,34.7,megawatts
+699,2023,MS,Mississippi,IPP,Independent Power Producers,NGGT,Natural Gas - GT,34.7,megawatts
+700,2023,MS,Mississippi,IPP,Independent Power Producers,OT,Other,1.4,megawatts
+701,2023,MS,Mississippi,IPP,Independent Power Producers,OBM,Other Biomass,1.6,megawatts
+702,2023,MS,Mississippi,IPP,Independent Power Producers,SOL,Solar,324.1,megawatts
+703,2023,MS,Mississippi,IPP,Independent Power Producers,SOLPV,Solar - PV,324.1,megawatts
+704,2023,MS,Mississippi,IPP,Independent Power Producers,WOO,Wood,300.8,megawatts
+705,2023,MS,Mississippi,TOT,All sectors,ALL,All,14833,megawatts
+706,2023,MS,Mississippi,TOT,All sectors,BAT,Battery,1.5,megawatts
+707,2023,MS,Mississippi,TOT,All sectors,COL,Coal,1444,megawatts
+708,2023,MS,Mississippi,TOT,All sectors,NG,Natural Gas,11266.1,megawatts
+709,2023,MS,Mississippi,TOT,All sectors,NGCC,Natural Gas - CC,8384.5,megawatts
+710,2023,MS,Mississippi,TOT,All sectors,NGGT,Natural Gas - GT,1369.3,megawatts
+711,2023,MS,Mississippi,TOT,All sectors,NGIC,Natural Gas - IC,25.8,megawatts
+712,2023,MS,Mississippi,TOT,All sectors,NGST,Natural Gas - ST,1486.5,megawatts
+713,2023,MS,Mississippi,TOT,All sectors,NUC,Nuclear,1383,megawatts
+714,2023,MS,Mississippi,TOT,All sectors,OT,Other,1.4,megawatts
+715,2023,MS,Mississippi,TOT,All sectors,OBM,Other Biomass,1.6,megawatts
+716,2023,MS,Mississippi,TOT,All sectors,PET,Petroleum,9,megawatts
+717,2023,MS,Mississippi,TOT,All sectors,PETIC,Petroleum - IC,9,megawatts
+718,2023,MS,Mississippi,TOT,All sectors,SOL,Solar,425.6,megawatts
+719,2023,MS,Mississippi,TOT,All sectors,SOLPV,Solar - PV,425.6,megawatts
+720,2023,MS,Mississippi,TOT,All sectors,WOO,Wood,300.8,megawatts
+721,2023,MT,Montana,EU,Electric Utilities,ALL,All,3447.5,megawatts
+722,2023,MT,Montana,EU,Electric Utilities,HYC,Hydroelectric,2790.8,megawatts
+723,2023,MT,Montana,EU,Electric Utilities,NG,Natural Gas,334,megawatts
+724,2023,MT,Montana,EU,Electric Utilities,NGGT,Natural Gas - GT,315.8,megawatts
+725,2023,MT,Montana,EU,Electric Utilities,NGIC,Natural Gas - IC,18.2,megawatts
+726,2023,MT,Montana,EU,Electric Utilities,OBM,Other Biomass,3.2,megawatts
+727,2023,MT,Montana,EU,Electric Utilities,WND,Wind,319.5,megawatts
+728,2023,MT,Montana,IPP,Independent Power Producers,ALL,All,3250.4,megawatts
+729,2023,MT,Montana,IPP,Independent Power Producers,COL,Coal,1626.5,megawatts
+730,2023,MT,Montana,IPP,Independent Power Producers,HYC,Hydroelectric,34.2,megawatts
+731,2023,MT,Montana,IPP,Independent Power Producers,NG,Natural Gas,54,megawatts
+732,2023,MT,Montana,IPP,Independent Power Producers,NGIC,Natural Gas - IC,54,megawatts
+733,2023,MT,Montana,IPP,Independent Power Producers,OT,Other,40,megawatts
+734,2023,MT,Montana,IPP,Independent Power Producers,OOG,Other Gas,1.5,megawatts
+735,2023,MT,Montana,IPP,Independent Power Producers,PET,Petroleum,52,megawatts
+736,2023,MT,Montana,IPP,Independent Power Producers,PETST,Petroleum - ST,52,megawatts
+737,2023,MT,Montana,IPP,Independent Power Producers,SOL,Solar,177,megawatts
+738,2023,MT,Montana,IPP,Independent Power Producers,SOLPV,Solar - PV,177,megawatts
+739,2023,MT,Montana,IPP,Independent Power Producers,WND,Wind,1262.2,megawatts
+740,2023,MT,Montana,IPP,Independent Power Producers,WOO,Wood,3,megawatts
+741,2023,MT,Montana,TOT,All sectors,ALL,All,6697.9,megawatts
+742,2023,MT,Montana,TOT,All sectors,COL,Coal,1626.5,megawatts
+743,2023,MT,Montana,TOT,All sectors,HYC,Hydroelectric,2825,megawatts
+744,2023,MT,Montana,TOT,All sectors,NG,Natural Gas,388,megawatts
+745,2023,MT,Montana,TOT,All sectors,NGGT,Natural Gas - GT,315.8,megawatts
+746,2023,MT,Montana,TOT,All sectors,NGIC,Natural Gas - IC,72.2,megawatts
+747,2023,MT,Montana,TOT,All sectors,OT,Other,40,megawatts
+748,2023,MT,Montana,TOT,All sectors,OBM,Other Biomass,3.2,megawatts
+749,2023,MT,Montana,TOT,All sectors,OOG,Other Gas,1.5,megawatts
+750,2023,MT,Montana,TOT,All sectors,PET,Petroleum,52,megawatts
+751,2023,MT,Montana,TOT,All sectors,PETST,Petroleum - ST,52,megawatts
+752,2023,MT,Montana,TOT,All sectors,SOL,Solar,177,megawatts
+753,2023,MT,Montana,TOT,All sectors,SOLPV,Solar - PV,177,megawatts
+754,2023,MT,Montana,TOT,All sectors,WND,Wind,1581.7,megawatts
+755,2023,MT,Montana,TOT,All sectors,WOO,Wood,3,megawatts
+756,2023,NC,North Carolina,EU,Electric Utilities,ALL,All,26630.6,megawatts
+757,2023,NC,North Carolina,EU,Electric Utilities,BAT,Battery,46.3,megawatts
+758,2023,NC,North Carolina,EU,Electric Utilities,COL,Coal,4552,megawatts
+759,2023,NC,North Carolina,EU,Electric Utilities,HYC,Hydroelectric,1795.7,megawatts
+760,2023,NC,North Carolina,EU,Electric Utilities,NG,Natural Gas,13984,megawatts
+761,2023,NC,North Carolina,EU,Electric Utilities,NGCC,Natural Gas - CC,4594,megawatts
+762,2023,NC,North Carolina,EU,Electric Utilities,NGGT,Natural Gas - GT,4754,megawatts
+763,2023,NC,North Carolina,EU,Electric Utilities,NGST,Natural Gas - ST,4636,megawatts
+764,2023,NC,North Carolina,EU,Electric Utilities,NUC,Nuclear,5149.6,megawatts
+765,2023,NC,North Carolina,EU,Electric Utilities,PET,Petroleum,425.7,megawatts
+766,2023,NC,North Carolina,EU,Electric Utilities,PETGT,Petroleum - GT,176,megawatts
+767,2023,NC,North Carolina,EU,Electric Utilities,PETIC,Petroleum - IC,95.1,megawatts
+768,2023,NC,North Carolina,EU,Electric Utilities,PETOTH,Petroleum - OTH,154.6,megawatts
+769,2023,NC,North Carolina,EU,Electric Utilities,HPS,Pumped Storage,86,megawatts
+770,2023,NC,North Carolina,EU,Electric Utilities,SOL,Solar,591.3,megawatts
+771,2023,NC,North Carolina,EU,Electric Utilities,SOLPV,Solar - PV,591.3,megawatts
+772,2023,NC,North Carolina,IPP,Independent Power Producers,ALL,All,9232.9,megawatts
+773,2023,NC,North Carolina,IPP,Independent Power Producers,BAT,Battery,12,megawatts
+774,2023,NC,North Carolina,IPP,Independent Power Producers,HYC,Hydroelectric,214.8,megawatts
+775,2023,NC,North Carolina,IPP,Independent Power Producers,NG,Natural Gas,2291.2,megawatts
+776,2023,NC,North Carolina,IPP,Independent Power Producers,NGCC,Natural Gas - CC,985,megawatts
+777,2023,NC,North Carolina,IPP,Independent Power Producers,NGGT,Natural Gas - GT,1276.5,megawatts
+778,2023,NC,North Carolina,IPP,Independent Power Producers,NGST,Natural Gas - ST,29.7,megawatts
+779,2023,NC,North Carolina,IPP,Independent Power Producers,OT,Other,54,megawatts
+780,2023,VT,Vermont,IPP,Independent Power Producers,HYC,Hydroelectric,213.5,megawatts
+781,2023,VT,Vermont,IPP,Independent Power Producers,SOL,Solar,107.2,megawatts
+782,2023,VT,Vermont,IPP,Independent Power Producers,SOLPV,Solar - PV,107.2,megawatts
+783,2023,VT,Vermont,IPP,Independent Power Producers,WND,Wind,80,megawatts
+784,2023,VT,Vermont,IPP,Independent Power Producers,WOO,Wood,20.7,megawatts
+785,2023,VT,Vermont,TOT,All sectors,ALL,All,855.7,megawatts
+786,2023,VT,Vermont,TOT,All sectors,BAT,Battery,20.9,megawatts
+787,2023,VT,Vermont,TOT,All sectors,HYC,Hydroelectric,332.2,megawatts
+788,2023,VT,Vermont,TOT,All sectors,OBM,Other Biomass,7.5,megawatts
+789,2023,VT,Vermont,TOT,All sectors,PET,Petroleum,126,megawatts
+790,2023,VT,Vermont,TOT,All sectors,PETGT,Petroleum - GT,118.8,megawatts
+791,2023,VT,Vermont,TOT,All sectors,PETIC,Petroleum - IC,7.2,megawatts
+792,2023,VT,Vermont,TOT,All sectors,SOL,Solar,146.2,megawatts
+793,2023,VT,Vermont,TOT,All sectors,SOLPV,Solar - PV,146.2,megawatts
+794,2023,VT,Vermont,TOT,All sectors,WND,Wind,150.2,megawatts
+795,2023,VT,Vermont,TOT,All sectors,WOO,Wood,72.7,megawatts
+796,2023,WA,Washington,EU,Electric Utilities,ALL,All,27009.7,megawatts
+797,2023,WA,Washington,EU,Electric Utilities,BAT,Battery,6,megawatts
+798,2023,WA,Washington,EU,Electric Utilities,HYC,Hydroelectric,21424.7,megawatts
+799,2023,WA,Washington,EU,Electric Utilities,NG,Natural Gas,2409.4,megawatts
+800,2023,WA,Washington,EU,Electric Utilities,NGCC,Natural Gas - CC,1785.6,megawatts
+801,2023,WA,Washington,EU,Electric Utilities,NGGT,Natural Gas - GT,599.2,megawatts
+802,2023,WA,Washington,EU,Electric Utilities,NGIC,Natural Gas - IC,24.6,megawatts
+803,2023,WA,Washington,EU,Electric Utilities,NUC,Nuclear,1151,megawatts
+804,2023,WA,Washington,EU,Electric Utilities,PET,Petroleum,2.5,megawatts
+805,2023,WA,Washington,EU,Electric Utilities,PETIC,Petroleum - IC,2.5,megawatts
+806,2023,WA,Washington,EU,Electric Utilities,HPS,Pumped Storage,314,megawatts
+807,2023,WA,Washington,EU,Electric Utilities,SOL,Solar,4.1,megawatts
+808,2023,WA,Washington,EU,Electric Utilities,SOLPV,Solar - PV,4.1,megawatts
+809,2023,WA,Washington,EU,Electric Utilities,WND,Wind,1648,megawatts
+810,2023,WA,Washington,EU,Electric Utilities,WOO,Wood,50,megawatts
+811,2023,WA,Washington,IPP,Independent Power Producers,ALL,All,3874.2,megawatts
+812,2023,WA,Washington,IPP,Independent Power Producers,COL,Coal,670,megawatts
+813,2023,WA,Washington,IPP,Independent Power Producers,HYC,Hydroelectric,87.2,megawatts
+814,2023,WA,Washington,IPP,Independent Power Producers,NG,Natural Gas,966,megawatts
+815,2023,WA,Washington,IPP,Independent Power Producers,NGCC,Natural Gas - CC,841,megawatts
+816,2023,WA,Washington,IPP,Independent Power Producers,NGGT,Natural Gas - GT,120,megawatts
+817,2023,WA,Washington,IPP,Independent Power Producers,NGIC,Natural Gas - IC,2,megawatts
+818,2023,WA,Washington,IPP,Independent Power Producers,NGST,Natural Gas - ST,3,megawatts
+819,2023,WA,Washington,IPP,Independent Power Producers,OBM,Other Biomass,37.2,megawatts
+820,2023,WA,Washington,IPP,Independent Power Producers,PET,Petroleum,14.7,megawatts
+821,2023,WA,Washington,IPP,Independent Power Producers,PETIC,Petroleum - IC,14.7,megawatts
+822,2023,WA,Washington,IPP,Independent Power Producers,SOL,Solar,184.2,megawatts
+823,2023,WA,Washington,IPP,Independent Power Producers,SOLPV,Solar - PV,184.2,megawatts
+824,2023,WA,Washington,IPP,Independent Power Producers,WND,Wind,1726.9,megawatts
+825,2023,WA,Washington,IPP,Independent Power Producers,WOO,Wood,188,megawatts
+826,2023,WA,Washington,TOT,All sectors,ALL,All,30883.9,megawatts
+827,2023,WA,Washington,TOT,All sectors,BAT,Battery,6,megawatts
+828,2023,WA,Washington,TOT,All sectors,COL,Coal,670,megawatts
+829,2023,WA,Washington,TOT,All sectors,HYC,Hydroelectric,21511.9,megawatts
+830,2023,WA,Washington,TOT,All sectors,NG,Natural Gas,3375.4,megawatts
+831,2023,WA,Washington,TOT,All sectors,NGCC,Natural Gas - CC,2626.6,megawatts
+832,2023,WA,Washington,TOT,All sectors,NGGT,Natural Gas - GT,719.2,megawatts
+833,2023,WA,Washington,TOT,All sectors,NGIC,Natural Gas - IC,26.6,megawatts
+834,2023,WA,Washington,TOT,All sectors,NGST,Natural Gas - ST,3,megawatts
+835,2023,WA,Washington,TOT,All sectors,NUC,Nuclear,1151,megawatts
+836,2023,WA,Washington,TOT,All sectors,OBM,Other Biomass,37.2,megawatts
+837,2023,WA,Washington,TOT,All sectors,PET,Petroleum,17.2,megawatts
+838,2023,WA,Washington,TOT,All sectors,PETIC,Petroleum - IC,17.2,megawatts
+839,2023,WA,Washington,TOT,All sectors,HPS,Pumped Storage,314,megawatts
+840,2023,WA,Washington,TOT,All sectors,SOL,Solar,188.3,megawatts
+841,2023,WA,Washington,TOT,All sectors,SOLPV,Solar - PV,188.3,megawatts
+842,2023,WA,Washington,TOT,All sectors,WND,Wind,3374.9,megawatts
+843,2023,WA,Washington,TOT,All sectors,WOO,Wood,238,megawatts
+844,2023,WI,Wisconsin,EU,Electric Utilities,ALL,All,15439,megawatts
+845,2023,WI,Wisconsin,EU,Electric Utilities,BAT,Battery,5.4,megawatts
+846,2023,WI,Wisconsin,EU,Electric Utilities,COL,Coal,5184.6,megawatts
+847,2023,WI,Wisconsin,EU,Electric Utilities,HYC,Hydroelectric,368.2,megawatts
+848,2023,WI,Wisconsin,EU,Electric Utilities,NG,Natural Gas,7105.1,megawatts
+849,2023,WI,Wisconsin,EU,Electric Utilities,NGCC,Natural Gas - CC,3422.1,megawatts
+850,2023,WI,Wisconsin,EU,Electric Utilities,NGGT,Natural Gas - GT,3151.1,megawatts
+851,2023,WI,Wisconsin,EU,Electric Utilities,NGIC,Natural Gas - IC,150.5,megawatts
+852,2023,WI,Wisconsin,EU,Electric Utilities,NGST,Natural Gas - ST,381.4,megawatts
+853,2023,WI,Wisconsin,EU,Electric Utilities,PET,Petroleum,572,megawatts
+854,2023,WI,Wisconsin,EU,Electric Utilities,PETGT,Petroleum - GT,359.5,megawatts
+855,2023,WI,Wisconsin,EU,Electric Utilities,PETIC,Petroleum - IC,154.1,megawatts
+856,2023,WI,Wisconsin,EU,Electric Utilities,PETST,Petroleum - ST,58.4,megawatts
+857,2023,WI,Wisconsin,EU,Electric Utilities,SOL,Solar,1442.6,megawatts
+858,2023,WI,Wisconsin,EU,Electric Utilities,SOLPV,Solar - PV,1442.6,megawatts
+859,2023,WI,Wisconsin,EU,Electric Utilities,WND,Wind,636.5,megawatts
+860,2023,WI,Wisconsin,EU,Electric Utilities,WOO,Wood,124.6,megawatts
+861,2023,WI,Wisconsin,IPP,Independent Power Producers,ALL,All,2140.9,megawatts
+862,2023,WI,Wisconsin,IPP,Independent Power Producers,BAT,Battery,.3,megawatts
+863,2023,WI,Wisconsin,IPP,Independent Power Producers,COL,Coal,41.6,megawatts
+864,2023,WI,Wisconsin,IPP,Independent Power Producers,HYC,Hydroelectric,41.8,megawatts
+865,2023,WI,Wisconsin,IPP,Independent Power Producers,NG,Natural Gas,204,megawatts
+866,2023,WI,Wisconsin,IPP,Independent Power Producers,NGCC,Natural Gas - CC,51.9,megawatts
+867,2023,WI,Wisconsin,IPP,Independent Power Producers,NGGT,Natural Gas - GT,21.1,megawatts
+868,2023,WI,Wisconsin,IPP,Independent Power Producers,NGIC,Natural Gas - IC,3,megawatts
+869,2023,WI,Wisconsin,IPP,Independent Power Producers,NGST,Natural Gas - ST,128,megawatts
+870,2023,WI,Wisconsin,IPP,Independent Power Producers,NUC,Nuclear,1186.6,megawatts
+871,2023,AK,Alaska,EU,Electric Utilities,ALL,All,2606.5,megawatts
+872,2023,AK,Alaska,EU,Electric Utilities,BAT,Battery,91.7,megawatts
+873,2023,AK,Alaska,EU,Electric Utilities,COL,Coal,97.1,megawatts
+874,2023,AK,Alaska,EU,Electric Utilities,HYC,Hydroelectric,431,megawatts
+875,2023,AK,Alaska,EU,Electric Utilities,NG,Natural Gas,1236.6,megawatts
+876,2023,KY,Kentucky,EU,Electric Utilities,COL,Coal,9162,megawatts
+877,2023,KY,Kentucky,EU,Electric Utilities,HYC,Hydroelectric,1132.6,megawatts
+878,2023,KY,Kentucky,EU,Electric Utilities,NG,Natural Gas,7023.6,megawatts
+879,2023,KY,Kentucky,EU,Electric Utilities,NGCC,Natural Gas - CC,1789,megawatts
+880,2023,KY,Kentucky,EU,Electric Utilities,NGGT,Natural Gas - GT,4751.6,megawatts
+881,2023,KY,Kentucky,EU,Electric Utilities,NGST,Natural Gas - ST,483,megawatts
+882,2023,KY,Kentucky,EU,Electric Utilities,OBM,Other Biomass,13.6,megawatts
+883,2023,KY,Kentucky,EU,Electric Utilities,PET,Petroleum,11.9,megawatts
+884,2023,KY,Kentucky,EU,Electric Utilities,PETIC,Petroleum - IC,11.9,megawatts
+885,2023,KY,Kentucky,EU,Electric Utilities,SOL,Solar,28.9,megawatts
+886,2023,KY,Kentucky,EU,Electric Utilities,SOLPV,Solar - PV,28.9,megawatts
+887,2023,KY,Kentucky,IPP,Independent Power Producers,ALL,All,963.1,megawatts
+888,2023,KY,Kentucky,IPP,Independent Power Producers,HYC,Hydroelectric,4.8,megawatts
+889,2023,KY,Kentucky,IPP,Independent Power Producers,NG,Natural Gas,848,megawatts
+890,2023,KY,Kentucky,IPP,Independent Power Producers,NGGT,Natural Gas - GT,848,megawatts
+891,2023,KY,Kentucky,IPP,Independent Power Producers,OBM,Other Biomass,4.6,megawatts
+892,2023,KY,Kentucky,IPP,Independent Power Producers,SOL,Solar,53.4,megawatts
+893,2023,KY,Kentucky,IPP,Independent Power Producers,SOLPV,Solar - PV,53.4,megawatts
+894,2023,KY,Kentucky,IPP,Independent Power Producers,WOO,Wood,52.3,megawatts
+895,2023,KY,Kentucky,TOT,All sectors,ALL,All,18335.7,megawatts
+896,2023,KY,Kentucky,TOT,All sectors,COL,Coal,9162,megawatts
+897,2023,KY,Kentucky,TOT,All sectors,HYC,Hydroelectric,1137.4,megawatts
+898,2023,KY,Kentucky,TOT,All sectors,NG,Natural Gas,7871.6,megawatts
+899,2023,KY,Kentucky,TOT,All sectors,NGCC,Natural Gas - CC,1789,megawatts
+900,2023,KY,Kentucky,TOT,All sectors,NGGT,Natural Gas - GT,5599.6,megawatts
+901,2023,KY,Kentucky,TOT,All sectors,NGST,Natural Gas - ST,483,megawatts
+902,2023,KY,Kentucky,TOT,All sectors,OBM,Other Biomass,18.2,megawatts
+903,2023,KY,Kentucky,TOT,All sectors,PET,Petroleum,11.9,megawatts
+904,2023,KY,Kentucky,TOT,All sectors,PETIC,Petroleum - IC,11.9,megawatts
+905,2023,KY,Kentucky,TOT,All sectors,SOL,Solar,82.3,megawatts
+906,2023,KY,Kentucky,TOT,All sectors,SOLPV,Solar - PV,82.3,megawatts
+907,2023,KY,Kentucky,TOT,All sectors,WOO,Wood,52.3,megawatts
+908,2023,IN,Indiana,IPP,Independent Power Producers,NGGT,Natural Gas - GT,414.1,megawatts
+909,2023,IN,Indiana,IPP,Independent Power Producers,NGIC,Natural Gas - IC,10.1,megawatts
+910,2023,IN,Indiana,IPP,Independent Power Producers,NGST,Natural Gas - ST,184.6,megawatts
+911,2023,IN,Indiana,IPP,Independent Power Producers,OT,Other,88,megawatts
+912,2023,IN,Indiana,IPP,Independent Power Producers,OBM,Other Biomass,23.5,megawatts
+913,2023,IN,Indiana,IPP,Independent Power Producers,OOG,Other Gas,533.1,megawatts
+914,2023,IN,Indiana,IPP,Independent Power Producers,PET,Petroleum,25,megawatts
+915,2023,IN,Indiana,IPP,Independent Power Producers,PETIC,Petroleum - IC,25,megawatts
+916,2023,IN,Indiana,IPP,Independent Power Producers,SOL,Solar,515.5,megawatts
+917,2023,IN,Indiana,IPP,Independent Power Producers,SOLPV,Solar - PV,515.5,megawatts
+918,2023,IN,Indiana,IPP,Independent Power Producers,WND,Wind,3439.1,megawatts
+919,2023,IN,Indiana,TOT,All sectors,ALL,All,26578.3,megawatts
+920,2023,IN,Indiana,TOT,All sectors,BAT,Battery,36,megawatts
+921,2023,IN,Indiana,TOT,All sectors,COL,Coal,12847.2,megawatts
+922,2023,IN,Indiana,TOT,All sectors,HYC,Hydroelectric,71.6,megawatts
+923,2023,IN,Indiana,TOT,All sectors,NG,Natural Gas,8116.9,megawatts
+924,2023,IN,Indiana,TOT,All sectors,NGCC,Natural Gas - CC,3899.6,megawatts
+925,2023,IN,Indiana,TOT,All sectors,NGGT,Natural Gas - GT,3365.9,megawatts
+926,2023,IN,Indiana,TOT,All sectors,NGIC,Natural Gas - IC,48.8,megawatts
+927,2023,IN,Indiana,TOT,All sectors,NGST,Natural Gas - ST,802.6,megawatts
+928,2023,IN,Indiana,TOT,All sectors,OT,Other,88,megawatts
+929,2023,IN,Indiana,TOT,All sectors,OBM,Other Biomass,49.7,megawatts
+930,2023,IN,Indiana,TOT,All sectors,OOG,Other Gas,545.1,megawatts
+931,2023,IN,Indiana,TOT,All sectors,PET,Petroleum,95.8,megawatts
+932,2023,IN,Indiana,TOT,All sectors,PETGT,Petroleum - GT,37,megawatts
+933,2023,IN,Indiana,TOT,All sectors,PETIC,Petroleum - IC,58.8,megawatts
+934,2023,IN,Indiana,TOT,All sectors,SOL,Solar,1288.9,megawatts
+935,2023,IN,Indiana,TOT,All sectors,SOLPV,Solar - PV,1288.9,megawatts
+936,2023,IN,Indiana,TOT,All sectors,WND,Wind,3439.1,megawatts
+937,2023,KS,Kansas,EU,Electric Utilities,ALL,All,10902.5,megawatts
+938,2023,KS,Kansas,EU,Electric Utilities,COL,Coal,4524.7,megawatts
+939,2023,KS,Kansas,EU,Electric Utilities,NG,Natural Gas,3775.1,megawatts
+940,2023,KS,Kansas,EU,Electric Utilities,NGCC,Natural Gas - CC,247,megawatts
+941,2023,KS,Kansas,EU,Electric Utilities,NGGT,Natural Gas - GT,2137.5,megawatts
+942,2023,KS,Kansas,EU,Electric Utilities,NGIC,Natural Gas - IC,590.5,megawatts
+943,2023,KS,Kansas,EU,Electric Utilities,NGST,Natural Gas - ST,800.1,megawatts
+944,2023,KS,Kansas,EU,Electric Utilities,NUC,Nuclear,1176.7,megawatts
+945,2023,KS,Kansas,EU,Electric Utilities,PET,Petroleum,544.7,megawatts
+946,2023,KS,Kansas,EU,Electric Utilities,PETGT,Petroleum - GT,223.5,megawatts
+947,2023,KS,Kansas,EU,Electric Utilities,PETIC,Petroleum - IC,321.2,megawatts
+948,2023,KS,Kansas,EU,Electric Utilities,SOL,Solar,8.8,megawatts
+949,2023,KS,Kansas,EU,Electric Utilities,SOLPV,Solar - PV,8.8,megawatts
+950,2023,KS,Kansas,EU,Electric Utilities,WND,Wind,872.5,megawatts
+951,2023,KS,Kansas,IPP,Independent Power Producers,ALL,All,8294.9,megawatts
+952,2023,KS,Kansas,IPP,Independent Power Producers,HYC,Hydroelectric,7,megawatts
+953,2023,KS,Kansas,IPP,Independent Power Producers,NG,Natural Gas,76.6,megawatts
+954,2023,KS,Kansas,IPP,Independent Power Producers,NGGT,Natural Gas - GT,70.9,megawatts
+955,2023,KS,Kansas,IPP,Independent Power Producers,NGST,Natural Gas - ST,5.7,megawatts
+956,2023,KS,Kansas,IPP,Independent Power Producers,OT,Other,.8,megawatts
+957,2023,KS,Kansas,IPP,Independent Power Producers,OBM,Other Biomass,9,megawatts
+958,2023,KS,Kansas,IPP,Independent Power Producers,SOL,Solar,31.3,megawatts
+959,2023,KS,Kansas,IPP,Independent Power Producers,SOLPV,Solar - PV,31.3,megawatts
+960,2023,KS,Kansas,IPP,Independent Power Producers,WND,Wind,8170.2,megawatts
+961,2023,KS,Kansas,TOT,All sectors,ALL,All,19197.4,megawatts
+962,2023,KS,Kansas,TOT,All sectors,COL,Coal,4524.7,megawatts
+963,2023,KS,Kansas,TOT,All sectors,HYC,Hydroelectric,7,megawatts
+964,2023,KS,Kansas,TOT,All sectors,NG,Natural Gas,3851.7,megawatts
+965,2023,KS,Kansas,TOT,All sectors,NGCC,Natural Gas - CC,247,megawatts
+966,2023,KS,Kansas,TOT,All sectors,NGGT,Natural Gas - GT,2208.4,megawatts
+967,2023,KS,Kansas,TOT,All sectors,NGIC,Natural Gas - IC,590.5,megawatts
+968,2023,KS,Kansas,TOT,All sectors,NGST,Natural Gas - ST,805.8,megawatts
+969,2023,KS,Kansas,TOT,All sectors,NUC,Nuclear,1176.7,megawatts
+970,2023,KS,Kansas,TOT,All sectors,OT,Other,.8,megawatts
+971,2023,KS,Kansas,TOT,All sectors,OBM,Other Biomass,9,megawatts
+972,2023,KS,Kansas,TOT,All sectors,PET,Petroleum,544.7,megawatts
+973,2023,KS,Kansas,TOT,All sectors,PETGT,Petroleum - GT,223.5,megawatts
+974,2023,KS,Kansas,TOT,All sectors,PETIC,Petroleum - IC,321.2,megawatts
+975,2023,KS,Kansas,TOT,All sectors,SOL,Solar,40.1,megawatts
+976,2023,NE,Nebraska,IPP,Independent Power Producers,NG,Natural Gas,5.6,megawatts
+977,2023,NE,Nebraska,IPP,Independent Power Producers,NGST,Natural Gas - ST,5.6,megawatts
+978,2023,NE,Nebraska,IPP,Independent Power Producers,OBM,Other Biomass,4.5,megawatts
+979,2023,NE,Nebraska,IPP,Independent Power Producers,SOL,Solar,38,megawatts
+980,2023,NE,Nebraska,IPP,Independent Power Producers,SOLPV,Solar - PV,38,megawatts
+981,2023,NE,Nebraska,IPP,Independent Power Producers,WND,Wind,3457.5,megawatts
+982,2023,NE,Nebraska,TOT,All sectors,ALL,All,10780.9,megawatts
+983,2023,NE,Nebraska,TOT,All sectors,BAT,Battery,4.9,megawatts
+984,2023,NE,Nebraska,TOT,All sectors,COL,Coal,3825.8,megawatts
+985,2023,NE,Nebraska,TOT,All sectors,HYC,Hydroelectric,279.7,megawatts
+986,2023,NE,Nebraska,TOT,All sectors,NG,Natural Gas,1964,megawatts
+987,2023,NE,Nebraska,TOT,All sectors,NGCC,Natural Gas - CC,338,megawatts
+988,2023,NE,Nebraska,TOT,All sectors,NGGT,Natural Gas - GT,1107.6,megawatts
+989,2023,NE,Nebraska,TOT,All sectors,NGIC,Natural Gas - IC,135.6,megawatts
+990,2023,NE,Nebraska,TOT,All sectors,NGST,Natural Gas - ST,382.8,megawatts
+991,2023,NE,Nebraska,TOT,All sectors,NUC,Nuclear,768.5,megawatts
+992,2023,NE,Nebraska,TOT,All sectors,OBM,Other Biomass,15.5,megawatts
+993,2023,NE,Nebraska,TOT,All sectors,PET,Petroleum,363.6,megawatts
+994,2023,NE,Nebraska,TOT,All sectors,PETGT,Petroleum - GT,249.2,megawatts
+995,2023,NE,Nebraska,TOT,All sectors,PETIC,Petroleum - IC,114.4,megawatts
+996,2023,NE,Nebraska,TOT,All sectors,SOL,Solar,40.6,megawatts
+997,2023,NE,Nebraska,TOT,All sectors,SOLPV,Solar - PV,40.6,megawatts
+998,2023,NE,Nebraska,TOT,All sectors,WND,Wind,3518.3,megawatts
+999,2023,NH,New Hampshire,EU,Electric Utilities,ALL,All,5.1,megawatts
+1000,2023,NH,New Hampshire,EU,Electric Utilities,HYC,Hydroelectric,5.1,megawatts
+1001,2023,NH,New Hampshire,IPP,Independent Power Producers,ALL,All,4461.6,megawatts
+1002,2023,NH,New Hampshire,IPP,Independent Power Producers,BAT,Battery,14,megawatts
+1003,2023,NH,New Hampshire,IPP,Independent Power Producers,COL,Coal,533.9,megawatts
+1004,2023,NH,New Hampshire,IPP,Independent Power Producers,HYC,Hydroelectric,501.4,megawatts
+1005,2023,NH,New Hampshire,IPP,Independent Power Producers,NG,Natural Gas,1232.3,megawatts
+1006,2023,NH,New Hampshire,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1228.5,megawatts
+1007,2023,NH,New Hampshire,IPP,Independent Power Producers,NGGT,Natural Gas - GT,3.8,megawatts
+1008,2023,NH,New Hampshire,IPP,Independent Power Producers,NUC,Nuclear,1245.7,megawatts
+1009,2023,NH,New Hampshire,IPP,Independent Power Producers,OBM,Other Biomass,31.1,megawatts
+1010,2023,NH,New Hampshire,IPP,Independent Power Producers,PET,Petroleum,494.2,megawatts
+1011,2023,NH,New Hampshire,IPP,Independent Power Producers,PETGT,Petroleum - GT,82.1,megawatts
+1012,2023,NH,New Hampshire,IPP,Independent Power Producers,PETIC,Petroleum - IC,4.9,megawatts
+1013,2023,NH,New Hampshire,IPP,Independent Power Producers,PETST,Petroleum - ST,407.2,megawatts
+1014,2023,NH,New Hampshire,IPP,Independent Power Producers,SOL,Solar,2.4,megawatts
+1015,2023,NH,New Hampshire,IPP,Independent Power Producers,SOLPV,Solar - PV,2.4,megawatts
+1016,2023,NH,New Hampshire,IPP,Independent Power Producers,WND,Wind,211.9,megawatts
+1017,2023,NH,New Hampshire,IPP,Independent Power Producers,WOO,Wood,194.7,megawatts
+1018,2023,NH,New Hampshire,TOT,All sectors,ALL,All,4466.7,megawatts
+1019,2023,NH,New Hampshire,TOT,All sectors,BAT,Battery,14,megawatts
+1020,2023,NH,New Hampshire,TOT,All sectors,COL,Coal,533.9,megawatts
+1021,2023,NH,New Hampshire,TOT,All sectors,HYC,Hydroelectric,506.5,megawatts
+1022,2023,NH,New Hampshire,TOT,All sectors,NG,Natural Gas,1232.3,megawatts
+1023,2023,NH,New Hampshire,TOT,All sectors,NGCC,Natural Gas - CC,1228.5,megawatts
+1024,2023,NH,New Hampshire,TOT,All sectors,NGGT,Natural Gas - GT,3.8,megawatts
+1025,2023,NH,New Hampshire,TOT,All sectors,NUC,Nuclear,1245.7,megawatts
+1026,2023,NH,New Hampshire,TOT,All sectors,OBM,Other Biomass,31.1,megawatts
+1027,2023,NH,New Hampshire,TOT,All sectors,PET,Petroleum,494.2,megawatts
+1028,2023,NH,New Hampshire,TOT,All sectors,PETGT,Petroleum - GT,82.1,megawatts
+1029,2023,NH,New Hampshire,TOT,All sectors,PETIC,Petroleum - IC,4.9,megawatts
+1030,2023,NH,New Hampshire,TOT,All sectors,PETST,Petroleum - ST,407.2,megawatts
+1031,2023,NH,New Hampshire,TOT,All sectors,SOL,Solar,2.4,megawatts
+1032,2023,NH,New Hampshire,TOT,All sectors,SOLPV,Solar - PV,2.4,megawatts
+1033,2023,NH,New Hampshire,TOT,All sectors,WND,Wind,211.9,megawatts
+1034,2023,NH,New Hampshire,TOT,All sectors,WOO,Wood,194.7,megawatts
+1035,2023,NJ,New Jersey,EU,Electric Utilities,ALL,All,206,megawatts
+1036,2023,NJ,New Jersey,EU,Electric Utilities,BAT,Battery,2.1,megawatts
+1037,2023,NJ,New Jersey,EU,Electric Utilities,NG,Natural Gas,110,megawatts
+1038,2023,NJ,New Jersey,EU,Electric Utilities,NGGT,Natural Gas - GT,110,megawatts
+1039,2023,NJ,New Jersey,EU,Electric Utilities,PET,Petroleum,6,megawatts
+1040,2023,NJ,New Jersey,EU,Electric Utilities,PETIC,Petroleum - IC,6,megawatts
+1041,2023,NJ,New Jersey,EU,Electric Utilities,SOL,Solar,87.9,megawatts
+1042,2023,NJ,New Jersey,EU,Electric Utilities,SOLPV,Solar - PV,87.9,megawatts
+1043,2023,NJ,New Jersey,IPP,Independent Power Producers,ALL,All,16632.2,megawatts
+1044,2023,NJ,New Jersey,IPP,Independent Power Producers,BAT,Battery,67.6,megawatts
+1045,2023,NJ,New Jersey,IPP,Independent Power Producers,HYC,Hydroelectric,12.3,megawatts
+1046,2023,NJ,New Jersey,IPP,Independent Power Producers,NG,Natural Gas,11068.4,megawatts
+1047,2023,NJ,New Jersey,IPP,Independent Power Producers,NGCC,Natural Gas - CC,8374,megawatts
+1048,2023,NJ,New Jersey,IPP,Independent Power Producers,NGGT,Natural Gas - GT,2624.5,megawatts
+1049,2023,NJ,New Jersey,IPP,Independent Power Producers,NGIC,Natural Gas - IC,35.8,megawatts
+1050,2023,NJ,New Jersey,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,12.6,megawatts
+1051,2023,NJ,New Jersey,IPP,Independent Power Producers,NGST,Natural Gas - ST,21.5,megawatts
+1052,2023,NJ,New Jersey,IPP,Independent Power Producers,NUC,Nuclear,3456.7,megawatts
+1053,2023,NJ,New Jersey,IPP,Independent Power Producers,OT,Other,11.2,megawatts
+1054,2023,NJ,New Jersey,IPP,Independent Power Producers,OBM,Other Biomass,188.7,megawatts
+1055,2023,NJ,New Jersey,IPP,Independent Power Producers,OOG,Other Gas,29,megawatts
+1056,2023,NJ,New Jersey,IPP,Independent Power Producers,PET,Petroleum,295.7,megawatts
+1057,2023,NJ,New Jersey,IPP,Independent Power Producers,PETGT,Petroleum - GT,255.3,megawatts
+1058,2023,NJ,New Jersey,IPP,Independent Power Producers,PETIC,Petroleum - IC,28.8,megawatts
+1059,2023,NJ,New Jersey,IPP,Independent Power Producers,PETOTH,Petroleum - OTH,11.6,megawatts
+1060,2023,NJ,New Jersey,IPP,Independent Power Producers,HPS,Pumped Storage,415.4,megawatts
+1061,2023,NJ,New Jersey,IPP,Independent Power Producers,SOL,Solar,1079.6,megawatts
+1062,2023,NJ,New Jersey,IPP,Independent Power Producers,SOLPV,Solar - PV,1079.6,megawatts
+1063,2023,NJ,New Jersey,IPP,Independent Power Producers,WND,Wind,7.6,megawatts
+1064,2023,NJ,New Jersey,TOT,All sectors,ALL,All,16838.2,megawatts
+1065,2023,NJ,New Jersey,TOT,All sectors,BAT,Battery,69.7,megawatts
+1066,2023,NJ,New Jersey,TOT,All sectors,HYC,Hydroelectric,12.3,megawatts
+1067,2023,NJ,New Jersey,TOT,All sectors,NG,Natural Gas,11178.4,megawatts
+1068,2023,NJ,New Jersey,TOT,All sectors,NGCC,Natural Gas - CC,8374,megawatts
+1069,2023,NJ,New Jersey,TOT,All sectors,NGGT,Natural Gas - GT,2734.5,megawatts
+1070,2023,NJ,New Jersey,TOT,All sectors,NGIC,Natural Gas - IC,35.8,megawatts
+1071,2023,NJ,New Jersey,TOT,All sectors,NGOTH,Natural Gas - OTH,12.6,megawatts
+1072,2023,NJ,New Jersey,TOT,All sectors,NGST,Natural Gas - ST,21.5,megawatts
+1073,2023,NJ,New Jersey,TOT,All sectors,NUC,Nuclear,3456.7,megawatts
+1074,2023,NJ,New Jersey,TOT,All sectors,OT,Other,11.2,megawatts
+1075,2023,NJ,New Jersey,TOT,All sectors,OBM,Other Biomass,188.7,megawatts
+1076,2023,NJ,New Jersey,TOT,All sectors,OOG,Other Gas,29,megawatts
+1077,2023,NJ,New Jersey,TOT,All sectors,PET,Petroleum,301.7,megawatts
+1078,2023,NJ,New Jersey,TOT,All sectors,PETGT,Petroleum - GT,255.3,megawatts
+1079,2023,NJ,New Jersey,TOT,All sectors,PETIC,Petroleum - IC,34.8,megawatts
+1080,2023,NJ,New Jersey,TOT,All sectors,PETOTH,Petroleum - OTH,11.6,megawatts
+1081,2023,NJ,New Jersey,TOT,All sectors,HPS,Pumped Storage,415.4,megawatts
+1082,2023,NJ,New Jersey,TOT,All sectors,SOL,Solar,1167.5,megawatts
+1083,2023,NJ,New Jersey,TOT,All sectors,SOLPV,Solar - PV,1167.5,megawatts
+1084,2023,NJ,New Jersey,TOT,All sectors,WND,Wind,7.6,megawatts
+1085,2023,NM,New Mexico,EU,Electric Utilities,ALL,All,5089.4,megawatts
+1086,2023,NM,New Mexico,EU,Electric Utilities,BAT,Battery,18,megawatts
+1087,2023,NM,New Mexico,EU,Electric Utilities,COL,Coal,1540,megawatts
+1088,2023,NM,New Mexico,EU,Electric Utilities,HYC,Hydroelectric,82.7,megawatts
+1089,2023,NM,New Mexico,EU,Electric Utilities,NG,Natural Gas,2470.4,megawatts
+1090,2023,NM,New Mexico,EU,Electric Utilities,NGCC,Natural Gas - CC,855.6,megawatts
+1091,2023,NM,New Mexico,EU,Electric Utilities,NGGT,Natural Gas - GT,784.3,megawatts
+1092,2023,NM,New Mexico,EU,Electric Utilities,NGIC,Natural Gas - IC,43.5,megawatts
+1093,2023,NM,New Mexico,EU,Electric Utilities,NGST,Natural Gas - ST,787,megawatts
+1094,2023,NM,New Mexico,EU,Electric Utilities,PET,Petroleum,17,megawatts
+1095,2023,NM,New Mexico,EU,Electric Utilities,PETGT,Petroleum - GT,17,megawatts
+1096,2023,NM,New Mexico,EU,Electric Utilities,SOL,Solar,189.5,megawatts
+1097,2023,NM,New Mexico,EU,Electric Utilities,SOLPV,Solar - PV,189.5,megawatts
+1098,2023,NM,New Mexico,EU,Electric Utilities,WND,Wind,771.8,megawatts
+1099,2023,NM,New Mexico,IPP,Independent Power Producers,ALL,All,5634.8,megawatts
+1100,2023,NM,New Mexico,IPP,Independent Power Producers,BAT,Battery,221,megawatts
+1101,2023,NM,New Mexico,IPP,Independent Power Producers,GEO,Geothermal,8.6,megawatts
+1102,2023,NM,New Mexico,IPP,Independent Power Producers,NG,Natural Gas,792.7,megawatts
+1103,2023,NM,New Mexico,IPP,Independent Power Producers,NGCC,Natural Gas - CC,628.5,megawatts
+1104,2023,NM,New Mexico,IPP,Independent Power Producers,NGGT,Natural Gas - GT,161,megawatts
+1105,2023,NM,New Mexico,IPP,Independent Power Producers,NGIC,Natural Gas - IC,3.2,megawatts
+1106,2023,NM,New Mexico,IPP,Independent Power Producers,OT,Other,.7,megawatts
+1107,2023,NM,New Mexico,IPP,Independent Power Producers,OBM,Other Biomass,3.2,megawatts
+1108,2023,NM,New Mexico,IPP,Independent Power Producers,PET,Petroleum,29,megawatts
+1109,2023,NM,New Mexico,IPP,Independent Power Producers,PETIC,Petroleum - IC,29,megawatts
+1110,2023,NM,New Mexico,IPP,Independent Power Producers,SOL,Solar,942.4,megawatts
+1111,2023,NM,New Mexico,IPP,Independent Power Producers,SOLPV,Solar - PV,942.4,megawatts
+1112,2023,NM,New Mexico,IPP,Independent Power Producers,WND,Wind,3637.2,megawatts
+1113,2023,NM,New Mexico,TOT,All sectors,ALL,All,10724.2,megawatts
+1114,2023,NM,New Mexico,TOT,All sectors,BAT,Battery,239,megawatts
+1115,2023,NM,New Mexico,TOT,All sectors,COL,Coal,1540,megawatts
+1116,2023,NM,New Mexico,TOT,All sectors,GEO,Geothermal,8.6,megawatts
+1117,2023,NM,New Mexico,TOT,All sectors,HYC,Hydroelectric,82.7,megawatts
+1118,2023,NM,New Mexico,TOT,All sectors,NG,Natural Gas,3263.1,megawatts
+1119,2023,NM,New Mexico,TOT,All sectors,NGCC,Natural Gas - CC,1484.1,megawatts
+1120,2023,NM,New Mexico,TOT,All sectors,NGGT,Natural Gas - GT,945.3,megawatts
+1121,2023,NM,New Mexico,TOT,All sectors,NGIC,Natural Gas - IC,46.7,megawatts
+1122,2023,NM,New Mexico,TOT,All sectors,NGST,Natural Gas - ST,787,megawatts
+1123,2023,NM,New Mexico,TOT,All sectors,OT,Other,.7,megawatts
+1124,2023,NM,New Mexico,TOT,All sectors,OBM,Other Biomass,3.2,megawatts
+1125,2023,NM,New Mexico,TOT,All sectors,PET,Petroleum,46,megawatts
+1126,2023,NM,New Mexico,TOT,All sectors,PETGT,Petroleum - GT,17,megawatts
+1127,2023,NM,New Mexico,TOT,All sectors,PETIC,Petroleum - IC,29,megawatts
+1128,2023,NM,New Mexico,TOT,All sectors,SOL,Solar,1131.9,megawatts
+1129,2023,NM,New Mexico,TOT,All sectors,SOLPV,Solar - PV,1131.9,megawatts
+1130,2023,NM,New Mexico,TOT,All sectors,WND,Wind,4409,megawatts
+1131,2023,NV,Nevada,EU,Electric Utilities,ALL,All,8813.9,megawatts
+1132,2023,NV,Nevada,EU,Electric Utilities,BAT,Battery,230,megawatts
+1133,2023,NV,Nevada,EU,Electric Utilities,COL,Coal,522,megawatts
+1134,2023,NV,Nevada,EU,Electric Utilities,HYC,Hydroelectric,1039.4,megawatts
+1135,2023,NV,Nevada,EU,Electric Utilities,NG,Natural Gas,6935,megawatts
+1136,2023,NV,Nevada,EU,Electric Utilities,NGCC,Natural Gas - CC,5423.4,megawatts
+1137,2023,NV,Nevada,EU,Electric Utilities,NGGT,Natural Gas - GT,1177.6,megawatts
+1138,2023,NV,Nevada,EU,Electric Utilities,NGST,Natural Gas - ST,334,megawatts
+1139,2023,NC,North Carolina,IPP,Independent Power Producers,OBM,Other Biomass,74.1,megawatts
+1140,2023,NC,North Carolina,IPP,Independent Power Producers,PET,Petroleum,65.3,megawatts
+1141,2023,NC,North Carolina,IPP,Independent Power Producers,PETIC,Petroleum - IC,65.3,megawatts
+1142,2023,NC,North Carolina,IPP,Independent Power Producers,SOL,Solar,6006.5,megawatts
+1143,2023,NC,North Carolina,IPP,Independent Power Producers,SOLPV,Solar - PV,6006.5,megawatts
+1144,2023,NC,North Carolina,IPP,Independent Power Producers,WND,Wind,208,megawatts
+1145,2023,NC,North Carolina,IPP,Independent Power Producers,WOO,Wood,307,megawatts
+1146,2023,NC,North Carolina,TOT,All sectors,ALL,All,35863.5,megawatts
+1147,2023,NC,North Carolina,TOT,All sectors,BAT,Battery,58.3,megawatts
+1148,2023,NC,North Carolina,TOT,All sectors,COL,Coal,4552,megawatts
+1149,2023,NC,North Carolina,TOT,All sectors,HYC,Hydroelectric,2010.5,megawatts
+1150,2023,NC,North Carolina,TOT,All sectors,NG,Natural Gas,16275.2,megawatts
+1151,2023,NC,North Carolina,TOT,All sectors,NGCC,Natural Gas - CC,5579,megawatts
+1152,2023,NC,North Carolina,TOT,All sectors,NGGT,Natural Gas - GT,6030.5,megawatts
+1153,2023,NC,North Carolina,TOT,All sectors,NGST,Natural Gas - ST,4665.7,megawatts
+1154,2023,NC,North Carolina,TOT,All sectors,NUC,Nuclear,5149.6,megawatts
+1155,2023,NC,North Carolina,TOT,All sectors,OT,Other,54,megawatts
+1156,2023,NC,North Carolina,TOT,All sectors,OBM,Other Biomass,74.1,megawatts
+1157,2023,NC,North Carolina,TOT,All sectors,PET,Petroleum,491,megawatts
+1158,2023,NC,North Carolina,TOT,All sectors,PETGT,Petroleum - GT,176,megawatts
+1159,2023,NC,North Carolina,TOT,All sectors,PETIC,Petroleum - IC,160.4,megawatts
+1160,2023,NC,North Carolina,TOT,All sectors,PETOTH,Petroleum - OTH,154.6,megawatts
+1161,2023,NC,North Carolina,TOT,All sectors,HPS,Pumped Storage,86,megawatts
+1162,2023,NC,North Carolina,TOT,All sectors,SOL,Solar,6597.8,megawatts
+1163,2023,NC,North Carolina,TOT,All sectors,SOLPV,Solar - PV,6597.8,megawatts
+1164,2023,NC,North Carolina,TOT,All sectors,WND,Wind,208,megawatts
+1165,2023,NC,North Carolina,TOT,All sectors,WOO,Wood,307,megawatts
+1166,2023,ND,North Dakota,EU,Electric Utilities,ALL,All,6673,megawatts
+1167,2023,ND,North Dakota,EU,Electric Utilities,COL,Coal,3813.2,megawatts
+1168,2023,ND,North Dakota,EU,Electric Utilities,HYC,Hydroelectric,510,megawatts
+1169,2023,ND,North Dakota,EU,Electric Utilities,NG,Natural Gas,657.9,megawatts
+1170,2023,ND,North Dakota,EU,Electric Utilities,NGGT,Natural Gas - GT,454,megawatts
+1171,2023,ND,North Dakota,EU,Electric Utilities,NGIC,Natural Gas - IC,106.8,megawatts
+1172,2023,ND,North Dakota,EU,Electric Utilities,NGST,Natural Gas - ST,97.1,megawatts
+1173,2023,ND,North Dakota,EU,Electric Utilities,OT,Other,5.3,megawatts
+1174,2023,ND,North Dakota,EU,Electric Utilities,PET,Petroleum,54.6,megawatts
+1175,2023,ND,North Dakota,EU,Electric Utilities,PETGT,Petroleum - GT,40.6,megawatts
+1176,2023,ND,North Dakota,EU,Electric Utilities,PETIC,Petroleum - IC,14,megawatts
+1177,2023,ND,North Dakota,EU,Electric Utilities,WND,Wind,1632,megawatts
+1178,2023,ND,North Dakota,IPP,Independent Power Producers,ALL,All,2729.1,megawatts
+1179,2023,ND,North Dakota,IPP,Independent Power Producers,COL,Coal,19.3,megawatts
+1180,2023,ND,North Dakota,IPP,Independent Power Producers,OBM,Other Biomass,9.8,megawatts
+1181,2023,ND,North Dakota,IPP,Independent Power Producers,OOG,Other Gas,8.4,megawatts
+1182,2023,ND,North Dakota,IPP,Independent Power Producers,PET,Petroleum,3.5,megawatts
+1183,2023,ND,North Dakota,IPP,Independent Power Producers,PETIC,Petroleum - IC,3.5,megawatts
+1184,2023,ND,North Dakota,IPP,Independent Power Producers,WND,Wind,2688.1,megawatts
+1185,2023,ND,North Dakota,TOT,All sectors,ALL,All,9402.1,megawatts
+1186,2023,ND,North Dakota,TOT,All sectors,COL,Coal,3832.5,megawatts
+1187,2023,ND,North Dakota,TOT,All sectors,HYC,Hydroelectric,510,megawatts
+1188,2023,ND,North Dakota,TOT,All sectors,NG,Natural Gas,657.9,megawatts
+1189,2023,ND,North Dakota,TOT,All sectors,NGGT,Natural Gas - GT,454,megawatts
+1190,2023,ND,North Dakota,TOT,All sectors,NGIC,Natural Gas - IC,106.8,megawatts
+1191,2023,ND,North Dakota,TOT,All sectors,NGST,Natural Gas - ST,97.1,megawatts
+1192,2023,ND,North Dakota,TOT,All sectors,OT,Other,5.3,megawatts
+1193,2023,ND,North Dakota,TOT,All sectors,OBM,Other Biomass,9.8,megawatts
+1194,2023,ND,North Dakota,TOT,All sectors,OOG,Other Gas,8.4,megawatts
+1195,2023,ND,North Dakota,TOT,All sectors,PET,Petroleum,58.1,megawatts
+1196,2023,ND,North Dakota,TOT,All sectors,PETGT,Petroleum - GT,40.6,megawatts
+1197,2023,ND,North Dakota,TOT,All sectors,PETIC,Petroleum - IC,17.5,megawatts
+1198,2023,ND,North Dakota,TOT,All sectors,WND,Wind,4320.1,megawatts
+1199,2023,NE,Nebraska,EU,Electric Utilities,ALL,All,7202.5,megawatts
+1200,2023,NE,Nebraska,EU,Electric Utilities,BAT,Battery,1,megawatts
+1201,2023,NE,Nebraska,EU,Electric Utilities,COL,Coal,3756.9,megawatts
+1202,2023,NE,Nebraska,EU,Electric Utilities,HYC,Hydroelectric,279.7,megawatts
+1203,2023,NE,Nebraska,EU,Electric Utilities,NG,Natural Gas,1958.4,megawatts
+1204,2023,NE,Nebraska,EU,Electric Utilities,NGCC,Natural Gas - CC,338,megawatts
+1205,2023,NE,Nebraska,EU,Electric Utilities,NGGT,Natural Gas - GT,1107.6,megawatts
+1206,2023,NE,Nebraska,EU,Electric Utilities,NGIC,Natural Gas - IC,135.6,megawatts
+1207,2023,NE,Nebraska,EU,Electric Utilities,NGST,Natural Gas - ST,377.2,megawatts
+1208,2023,NE,Nebraska,EU,Electric Utilities,NUC,Nuclear,768.5,megawatts
+1209,2023,NE,Nebraska,EU,Electric Utilities,OBM,Other Biomass,11,megawatts
+1210,2023,NE,Nebraska,EU,Electric Utilities,PET,Petroleum,363.6,megawatts
+1211,2023,NE,Nebraska,EU,Electric Utilities,PETGT,Petroleum - GT,249.2,megawatts
+1212,2023,NE,Nebraska,EU,Electric Utilities,PETIC,Petroleum - IC,114.4,megawatts
+1213,2023,NE,Nebraska,EU,Electric Utilities,SOL,Solar,2.6,megawatts
+1214,2023,NE,Nebraska,EU,Electric Utilities,SOLPV,Solar - PV,2.6,megawatts
+1215,2023,NE,Nebraska,EU,Electric Utilities,WND,Wind,60.8,megawatts
+1216,2023,NE,Nebraska,IPP,Independent Power Producers,ALL,All,3578.4,megawatts
+1217,2023,NE,Nebraska,IPP,Independent Power Producers,BAT,Battery,3.9,megawatts
+1218,2023,NE,Nebraska,IPP,Independent Power Producers,COL,Coal,68.9,megawatts
+1219,2023,NV,Nevada,EU,Electric Utilities,OT,Other,6.5,megawatts
+1220,2023,NV,Nevada,EU,Electric Utilities,PET,Petroleum,6,megawatts
+1221,2023,NV,Nevada,EU,Electric Utilities,PETIC,Petroleum - IC,6,megawatts
+1222,2023,NV,Nevada,EU,Electric Utilities,SOL,Solar,75,megawatts
+1223,2023,NV,Nevada,EU,Electric Utilities,SOLPV,Solar - PV,75,megawatts
+1224,2023,NV,Nevada,IPP,Independent Power Producers,ALL,All,5722,megawatts
+1225,2023,NV,Nevada,IPP,Independent Power Producers,BAT,Battery,313.8,megawatts
+1226,2023,NV,Nevada,IPP,Independent Power Producers,COL,Coal,218.4,megawatts
+1227,2023,NV,Nevada,IPP,Independent Power Producers,GEO,Geothermal,659,megawatts
+1228,2023,NV,Nevada,IPP,Independent Power Producers,HYC,Hydroelectric,12.3,megawatts
+1229,2023,NV,Nevada,IPP,Independent Power Producers,NG,Natural Gas,400.9,megawatts
+1230,2023,NV,Nevada,IPP,Independent Power Producers,NGCC,Natural Gas - CC,279.6,megawatts
+1231,2023,NV,Nevada,IPP,Independent Power Producers,NGGT,Natural Gas - GT,8,megawatts
+1232,2023,NV,Nevada,IPP,Independent Power Producers,NGIC,Natural Gas - IC,113.3,megawatts
+1233,2023,NV,Nevada,IPP,Independent Power Producers,OBM,Other Biomass,9.8,megawatts
+1234,2023,NV,Nevada,IPP,Independent Power Producers,SOL,Solar,3957.8,megawatts
+1235,2023,NV,Nevada,IPP,Independent Power Producers,SOLPV,Solar - PV,3779.3,megawatts
+1236,2023,NV,Nevada,IPP,Independent Power Producers,SOLTH,Solar - TH,178.5,megawatts
+1237,2023,NV,Nevada,IPP,Independent Power Producers,WND,Wind,150,megawatts
+1238,2023,NV,Nevada,TOT,All sectors,ALL,All,14535.9,megawatts
+1239,2023,NV,Nevada,TOT,All sectors,BAT,Battery,543.8,megawatts
+1240,2023,NV,Nevada,TOT,All sectors,COL,Coal,740.4,megawatts
+1241,2023,NV,Nevada,TOT,All sectors,GEO,Geothermal,659,megawatts
+1242,2023,NV,Nevada,TOT,All sectors,HYC,Hydroelectric,1051.7,megawatts
+1243,2023,NV,Nevada,TOT,All sectors,NG,Natural Gas,7335.9,megawatts
+1244,2023,NV,Nevada,TOT,All sectors,NGCC,Natural Gas - CC,5703,megawatts
+1245,2023,NV,Nevada,TOT,All sectors,NGGT,Natural Gas - GT,1185.6,megawatts
+1246,2023,NV,Nevada,TOT,All sectors,NGIC,Natural Gas - IC,113.3,megawatts
+1247,2023,NV,Nevada,TOT,All sectors,NGST,Natural Gas - ST,334,megawatts
+1248,2023,NV,Nevada,TOT,All sectors,OT,Other,6.5,megawatts
+1249,2023,NV,Nevada,TOT,All sectors,OBM,Other Biomass,9.8,megawatts
+1250,2023,NV,Nevada,TOT,All sectors,PET,Petroleum,6,megawatts
+1251,2023,NV,Nevada,TOT,All sectors,PETIC,Petroleum - IC,6,megawatts
+1252,2023,NV,Nevada,TOT,All sectors,SOL,Solar,4032.8,megawatts
+1253,2023,NV,Nevada,TOT,All sectors,SOLPV,Solar - PV,3854.3,megawatts
+1254,2023,NV,Nevada,TOT,All sectors,SOLTH,Solar - TH,178.5,megawatts
+1255,2023,NV,Nevada,TOT,All sectors,WND,Wind,150,megawatts
+1256,2023,NY,New York,EU,Electric Utilities,ALL,All,10923,megawatts
+1257,2023,NY,New York,EU,Electric Utilities,BAT,Battery,34.3,megawatts
+1258,2023,NY,New York,EU,Electric Utilities,HYC,Hydroelectric,3521.8,megawatts
+1259,2023,NY,New York,EU,Electric Utilities,NG,Natural Gas,4695.3,megawatts
+1260,2023,NY,New York,EU,Electric Utilities,NGCC,Natural Gas - CC,611.5,megawatts
+1261,2023,NY,New York,EU,Electric Utilities,NGGT,Natural Gas - GT,1336.8,megawatts
+1262,2023,NY,New York,EU,Electric Utilities,NGIC,Natural Gas - IC,28.8,megawatts
+1263,2023,NY,New York,EU,Electric Utilities,NGST,Natural Gas - ST,2718.2,megawatts
+1264,2023,NY,New York,EU,Electric Utilities,PET,Petroleum,1165.3,megawatts
+1265,2023,NY,New York,EU,Electric Utilities,PETGT,Petroleum - GT,1140.1,megawatts
+1266,2023,NY,New York,EU,Electric Utilities,PETIC,Petroleum - IC,25.2,megawatts
+1267,2023,NY,New York,EU,Electric Utilities,HPS,Pumped Storage,1405.1,megawatts
+1268,2023,NY,New York,EU,Electric Utilities,WND,Wind,101.2,megawatts
+1269,2023,NY,New York,IPP,Independent Power Producers,ALL,All,29306.8,megawatts
+1270,2023,NY,New York,IPP,Independent Power Producers,BAT,Battery,171.9,megawatts
+1271,2023,NY,New York,IPP,Independent Power Producers,HYC,Hydroelectric,1039,megawatts
+1272,2023,NY,New York,IPP,Independent Power Producers,NG,Natural Gas,17634.8,megawatts
+1273,2023,NY,New York,IPP,Independent Power Producers,NGCC,Natural Gas - CC,9296.7,megawatts
+1274,2023,NY,New York,IPP,Independent Power Producers,NGGT,Natural Gas - GT,1122.4,megawatts
+1275,2023,NY,New York,IPP,Independent Power Producers,NGIC,Natural Gas - IC,51.6,megawatts
+1276,2023,NY,New York,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,57.7,megawatts
+1277,2023,NY,New York,IPP,Independent Power Producers,NGST,Natural Gas - ST,7106.4,megawatts
+1278,2023,NY,New York,IPP,Independent Power Producers,NUC,Nuclear,3304.6,megawatts
+1279,2023,NY,New York,IPP,Independent Power Producers,OT,Other,20,megawatts
+1280,2023,NY,New York,IPP,Independent Power Producers,OBM,Other Biomass,377.3,megawatts
+1281,2023,NY,New York,IPP,Independent Power Producers,PET,Petroleum,2316.5,megawatts
+1282,2023,NY,New York,IPP,Independent Power Producers,PETGT,Petroleum - GT,419,megawatts
+1283,2023,NY,New York,IPP,Independent Power Producers,PETIC,Petroleum - IC,282.3,megawatts
+1284,2023,NY,New York,IPP,Independent Power Producers,PETST,Petroleum - ST,1615.2,megawatts
+1285,2023,NY,New York,IPP,Independent Power Producers,SOL,Solar,1719.6,megawatts
+1286,2023,NY,New York,IPP,Independent Power Producers,SOLPV,Solar - PV,1719.6,megawatts
+1287,2023,NY,New York,IPP,Independent Power Producers,WND,Wind,2645.1,megawatts
+1288,2023,NY,New York,IPP,Independent Power Producers,WOO,Wood,78,megawatts
+1289,2023,NY,New York,TOT,All sectors,ALL,All,40229.8,megawatts
+1290,2023,NY,New York,TOT,All sectors,BAT,Battery,206.2,megawatts
+1291,2023,NY,New York,TOT,All sectors,HYC,Hydroelectric,4560.8,megawatts
+1292,2023,NY,New York,TOT,All sectors,NG,Natural Gas,22330.1,megawatts
+1293,2023,NY,New York,TOT,All sectors,NGCC,Natural Gas - CC,9908.2,megawatts
+1294,2023,NY,New York,TOT,All sectors,NGGT,Natural Gas - GT,2459.2,megawatts
+1295,2023,NY,New York,TOT,All sectors,NGIC,Natural Gas - IC,80.4,megawatts
+1296,2023,NY,New York,TOT,All sectors,NGOTH,Natural Gas - OTH,57.7,megawatts
+1297,2023,NY,New York,TOT,All sectors,NGST,Natural Gas - ST,9824.6,megawatts
+1298,2023,NY,New York,TOT,All sectors,NUC,Nuclear,3304.6,megawatts
+1299,2023,NY,New York,TOT,All sectors,OT,Other,20,megawatts
+1300,2023,NY,New York,TOT,All sectors,OBM,Other Biomass,377.3,megawatts
+1301,2023,NY,New York,TOT,All sectors,PET,Petroleum,3481.8,megawatts
+1302,2023,NY,New York,TOT,All sectors,PETGT,Petroleum - GT,1559.1,megawatts
+1303,2023,NY,New York,TOT,All sectors,PETIC,Petroleum - IC,307.5,megawatts
+1304,2023,NY,New York,TOT,All sectors,PETST,Petroleum - ST,1615.2,megawatts
+1305,2023,NY,New York,TOT,All sectors,HPS,Pumped Storage,1405.1,megawatts
+1306,2023,NY,New York,TOT,All sectors,SOL,Solar,1719.6,megawatts
+1307,2023,NY,New York,TOT,All sectors,SOLPV,Solar - PV,1719.6,megawatts
+1308,2023,NY,New York,TOT,All sectors,WND,Wind,2746.3,megawatts
+1309,2023,NY,New York,TOT,All sectors,WOO,Wood,78,megawatts
+1310,2023,OH,Ohio,EU,Electric Utilities,ALL,All,4648.5,megawatts
+1311,2023,OH,Ohio,EU,Electric Utilities,BAT,Battery,4,megawatts
+1312,2023,OH,Ohio,EU,Electric Utilities,COL,Coal,1088.5,megawatts
+1313,2023,OH,Ohio,EU,Electric Utilities,HYC,Hydroelectric,81.9,megawatts
+1314,2023,OH,Ohio,EU,Electric Utilities,NG,Natural Gas,3225.2,megawatts
+1315,2023,OH,Ohio,EU,Electric Utilities,NGCC,Natural Gas - CC,1225.1,megawatts
+1316,2023,OH,Ohio,EU,Electric Utilities,NGGT,Natural Gas - GT,1949.7,megawatts
+1317,2023,OH,Ohio,EU,Electric Utilities,NGIC,Natural Gas - IC,27.4,megawatts
+1318,2023,OH,Ohio,EU,Electric Utilities,NGST,Natural Gas - ST,23,megawatts
+1319,2023,OH,Ohio,EU,Electric Utilities,OBM,Other Biomass,8.4,megawatts
+1320,2023,OH,Ohio,EU,Electric Utilities,PET,Petroleum,228,megawatts
+1321,2023,OH,Ohio,EU,Electric Utilities,PETGT,Petroleum - GT,64.5,megawatts
+1322,2023,OH,Ohio,EU,Electric Utilities,PETIC,Petroleum - IC,163.5,megawatts
+1323,2023,OH,Ohio,EU,Electric Utilities,SOL,Solar,5.3,megawatts
+1324,2023,OH,Ohio,EU,Electric Utilities,SOLPV,Solar - PV,5.3,megawatts
+1325,2023,OH,Ohio,EU,Electric Utilities,WND,Wind,7.2,megawatts
+1326,2023,OH,Ohio,IPP,Independent Power Producers,ALL,All,24455.2,megawatts
+1327,2023,OH,Ohio,IPP,Independent Power Producers,BAT,Battery,30.8,megawatts
+1328,2023,OH,Ohio,IPP,Independent Power Producers,COL,Coal,5519,megawatts
+1329,2023,OH,Ohio,IPP,Independent Power Producers,HYC,Hydroelectric,20,megawatts
+1330,2023,OH,Ohio,IPP,Independent Power Producers,NG,Natural Gas,13152.5,megawatts
+1331,2023,OH,Ohio,IPP,Independent Power Producers,NGCC,Natural Gas - CC,9329.1,megawatts
+1332,2023,OH,Ohio,IPP,Independent Power Producers,NGGT,Natural Gas - GT,3771.6,megawatts
+1333,2023,OH,Ohio,IPP,Independent Power Producers,NGIC,Natural Gas - IC,10,megawatts
+1334,2023,OH,Ohio,IPP,Independent Power Producers,NGST,Natural Gas - ST,41.8,megawatts
+1335,2023,OH,Ohio,IPP,Independent Power Producers,NUC,Nuclear,2134,megawatts
+1336,2023,OH,Ohio,IPP,Independent Power Producers,OBM,Other Biomass,28.9,megawatts
+1337,2023,OH,Ohio,IPP,Independent Power Producers,OOG,Other Gas,211.4,megawatts
+1338,2023,OH,Ohio,IPP,Independent Power Producers,PET,Petroleum,420.5,megawatts
+1339,2023,OH,Ohio,IPP,Independent Power Producers,PETGT,Petroleum - GT,225.2,megawatts
+1340,2023,OH,Ohio,IPP,Independent Power Producers,PETIC,Petroleum - IC,49.8,megawatts
+1341,2023,OH,Ohio,IPP,Independent Power Producers,PETOTH,Petroleum - OTH,6,megawatts
+1342,2023,OH,Ohio,IPP,Independent Power Producers,PETST,Petroleum - ST,139.5,megawatts
+1343,2023,OH,Ohio,IPP,Independent Power Producers,SOL,Solar,1803,megawatts
+1344,2023,OH,Ohio,IPP,Independent Power Producers,SOLPV,Solar - PV,1803,megawatts
+1345,2023,OH,Ohio,IPP,Independent Power Producers,WND,Wind,1094.6,megawatts
+1346,2023,OH,Ohio,IPP,Independent Power Producers,WOO,Wood,40.5,megawatts
+1347,2023,OH,Ohio,TOT,All sectors,ALL,All,29103.7,megawatts
+1348,2023,OH,Ohio,TOT,All sectors,BAT,Battery,34.8,megawatts
+1349,2023,OH,Ohio,TOT,All sectors,COL,Coal,6607.5,megawatts
+1350,2023,OH,Ohio,TOT,All sectors,HYC,Hydroelectric,101.9,megawatts
+1351,2023,OH,Ohio,TOT,All sectors,NG,Natural Gas,16377.7,megawatts
+1352,2023,OH,Ohio,TOT,All sectors,NGCC,Natural Gas - CC,10554.2,megawatts
+1353,2023,OH,Ohio,TOT,All sectors,NGGT,Natural Gas - GT,5721.3,megawatts
+1354,2023,OH,Ohio,TOT,All sectors,NGIC,Natural Gas - IC,37.4,megawatts
+1355,2023,OH,Ohio,TOT,All sectors,NGST,Natural Gas - ST,64.8,megawatts
+1356,2023,OH,Ohio,TOT,All sectors,NUC,Nuclear,2134,megawatts
+1357,2023,OH,Ohio,TOT,All sectors,OBM,Other Biomass,37.3,megawatts
+1358,2023,OH,Ohio,TOT,All sectors,OOG,Other Gas,211.4,megawatts
+1359,2023,OH,Ohio,TOT,All sectors,PET,Petroleum,648.5,megawatts
+1360,2023,OH,Ohio,TOT,All sectors,PETGT,Petroleum - GT,289.7,megawatts
+1361,2023,OH,Ohio,TOT,All sectors,PETIC,Petroleum - IC,213.3,megawatts
+1362,2023,OH,Ohio,TOT,All sectors,PETOTH,Petroleum - OTH,6,megawatts
+1363,2023,OH,Ohio,TOT,All sectors,PETST,Petroleum - ST,139.5,megawatts
+1364,2023,OH,Ohio,TOT,All sectors,SOL,Solar,1808.3,megawatts
+1365,2023,OH,Ohio,TOT,All sectors,SOLPV,Solar - PV,1808.3,megawatts
+1366,2023,OH,Ohio,TOT,All sectors,WND,Wind,1101.8,megawatts
+1367,2023,OH,Ohio,TOT,All sectors,WOO,Wood,40.5,megawatts
+1368,2023,OK,Oklahoma,EU,Electric Utilities,ALL,All,18447.7,megawatts
+1369,2023,OK,Oklahoma,EU,Electric Utilities,COL,Coal,3272.5,megawatts
+1370,2023,OK,Oklahoma,EU,Electric Utilities,HYC,Hydroelectric,840.6,megawatts
+1371,2023,OK,Oklahoma,EU,Electric Utilities,NG,Natural Gas,11698.7,megawatts
+1372,2023,OK,Oklahoma,EU,Electric Utilities,NGCC,Natural Gas - CC,4228.6,megawatts
+1373,2023,OK,Oklahoma,EU,Electric Utilities,NGGT,Natural Gas - GT,1649.2,megawatts
+1374,2023,OK,Oklahoma,EU,Electric Utilities,NGIC,Natural Gas - IC,82.4,megawatts
+1375,2023,OK,Oklahoma,EU,Electric Utilities,NGST,Natural Gas - ST,5738.5,megawatts
+1376,2023,OK,Oklahoma,EU,Electric Utilities,PET,Petroleum,44.6,megawatts
+1377,2023,OK,Oklahoma,EU,Electric Utilities,PETIC,Petroleum - IC,44.6,megawatts
+1378,2023,OK,Oklahoma,EU,Electric Utilities,HPS,Pumped Storage,258,megawatts
+1379,2023,OK,Oklahoma,EU,Electric Utilities,SOL,Solar,45.5,megawatts
+1380,2023,OK,Oklahoma,EU,Electric Utilities,SOLPV,Solar - PV,45.5,megawatts
+1381,2023,OK,Oklahoma,EU,Electric Utilities,WND,Wind,2287.8,megawatts
+1382,2023,OK,Oklahoma,IPP,Independent Power Producers,ALL,All,13242.1,megawatts
+1383,2023,OK,Oklahoma,IPP,Independent Power Producers,BAT,Battery,10,megawatts
+1384,2023,OK,Oklahoma,IPP,Independent Power Producers,NG,Natural Gas,3187.2,megawatts
+1385,2023,OK,Oklahoma,IPP,Independent Power Producers,NGCC,Natural Gas - CC,3099,megawatts
+1386,2023,OK,Oklahoma,IPP,Independent Power Producers,NGIC,Natural Gas - IC,3.9,megawatts
+1387,2023,OK,Oklahoma,IPP,Independent Power Producers,NGST,Natural Gas - ST,84.3,megawatts
+1388,2023,OK,Oklahoma,IPP,Independent Power Producers,OBM,Other Biomass,18.4,megawatts
+1389,2023,OK,Oklahoma,IPP,Independent Power Producers,PET,Petroleum,9.3,megawatts
+1390,2023,OK,Oklahoma,IPP,Independent Power Producers,PETIC,Petroleum - IC,9.3,megawatts
+1391,2023,OK,Oklahoma,IPP,Independent Power Producers,SOL,Solar,2,megawatts
+1392,2023,OK,Oklahoma,IPP,Independent Power Producers,SOLPV,Solar - PV,2,megawatts
+1393,2023,OK,Oklahoma,IPP,Independent Power Producers,WND,Wind,9957.4,megawatts
+1394,2023,OK,Oklahoma,IPP,Independent Power Producers,WOO,Wood,57.8,megawatts
+1395,2023,OK,Oklahoma,TOT,All sectors,ALL,All,31689.8,megawatts
+1396,2023,OK,Oklahoma,TOT,All sectors,BAT,Battery,10,megawatts
+1397,2023,OK,Oklahoma,TOT,All sectors,COL,Coal,3272.5,megawatts
+1398,2023,OK,Oklahoma,TOT,All sectors,HYC,Hydroelectric,840.6,megawatts
+1399,2023,OK,Oklahoma,TOT,All sectors,NG,Natural Gas,14885.9,megawatts
+1400,2023,OK,Oklahoma,TOT,All sectors,NGCC,Natural Gas - CC,7327.6,megawatts
+1401,2023,OK,Oklahoma,TOT,All sectors,NGGT,Natural Gas - GT,1649.2,megawatts
+1402,2023,OK,Oklahoma,TOT,All sectors,NGIC,Natural Gas - IC,86.3,megawatts
+1403,2023,OK,Oklahoma,TOT,All sectors,NGST,Natural Gas - ST,5822.8,megawatts
+1404,2023,OK,Oklahoma,TOT,All sectors,OBM,Other Biomass,18.4,megawatts
+1405,2023,OK,Oklahoma,TOT,All sectors,PET,Petroleum,53.9,megawatts
+1406,2023,OK,Oklahoma,TOT,All sectors,PETIC,Petroleum - IC,53.9,megawatts
+1407,2023,OK,Oklahoma,TOT,All sectors,HPS,Pumped Storage,258,megawatts
+1408,2023,OK,Oklahoma,TOT,All sectors,SOL,Solar,47.5,megawatts
+1409,2023,OK,Oklahoma,TOT,All sectors,SOLPV,Solar - PV,47.5,megawatts
+1410,2023,OK,Oklahoma,TOT,All sectors,WND,Wind,12245.2,megawatts
+1411,2023,OK,Oklahoma,TOT,All sectors,WOO,Wood,57.8,megawatts
+1412,2023,OR,Oregon,EU,Electric Utilities,ALL,All,11023.6,megawatts
+1413,2023,OR,Oregon,EU,Electric Utilities,BAT,Battery,5,megawatts
+1414,2023,OR,Oregon,EU,Electric Utilities,GEO,Geothermal,1.8,megawatts
+1415,2023,OR,Oregon,EU,Electric Utilities,HYC,Hydroelectric,8294.5,megawatts
+1416,2023,OR,Oregon,EU,Electric Utilities,NG,Natural Gas,2059.9,megawatts
+1417,2023,OR,Oregon,EU,Electric Utilities,NGCC,Natural Gas - CC,1811.5,megawatts
+1418,2023,OR,Oregon,EU,Electric Utilities,NGGT,Natural Gas - GT,24,megawatts
+1419,2023,OR,Oregon,EU,Electric Utilities,NGIC,Natural Gas - IC,224.4,megawatts
+1420,2023,OR,Oregon,EU,Electric Utilities,OBM,Other Biomass,8.8,megawatts
+1421,2023,OR,Oregon,EU,Electric Utilities,SOL,Solar,3.4,megawatts
+1422,2023,OR,Oregon,EU,Electric Utilities,SOLPV,Solar - PV,3.4,megawatts
+1423,2023,OR,Oregon,EU,Electric Utilities,WND,Wind,650.2,megawatts
+1424,2023,OR,Oregon,IPP,Independent Power Producers,ALL,All,6445.2,megawatts
+1425,2023,OR,Oregon,IPP,Independent Power Producers,BAT,Battery,30,megawatts
+1426,2023,OR,Oregon,IPP,Independent Power Producers,GEO,Geothermal,17.7,megawatts
+1427,2023,OR,Oregon,IPP,Independent Power Producers,HYC,Hydroelectric,68.7,megawatts
+1428,2023,OR,Oregon,IPP,Independent Power Producers,NG,Natural Gas,1702.5,megawatts
+1429,2023,OR,Oregon,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1597.7,megawatts
+1430,2023,OR,Oregon,IPP,Independent Power Producers,NGGT,Natural Gas - GT,100,megawatts
+1431,2023,OR,Oregon,IPP,Independent Power Producers,NGIC,Natural Gas - IC,4.8,megawatts
+1432,2023,OR,Oregon,IPP,Independent Power Producers,OBM,Other Biomass,43.8,megawatts
+1433,2023,OR,Oregon,IPP,Independent Power Producers,PET,Petroleum,6.6,megawatts
+1434,2023,OR,Oregon,IPP,Independent Power Producers,PETIC,Petroleum - IC,6.6,megawatts
+1435,2023,OR,Oregon,IPP,Independent Power Producers,SOL,Solar,1007.3,megawatts
+1436,2023,OR,Oregon,IPP,Independent Power Producers,SOLPV,Solar - PV,1007.3,megawatts
+1437,2023,OR,Oregon,IPP,Independent Power Producers,WND,Wind,3326.3,megawatts
+1438,2023,OR,Oregon,IPP,Independent Power Producers,WOO,Wood,242.3,megawatts
+1439,2023,OR,Oregon,TOT,All sectors,ALL,All,17468.8,megawatts
+1440,2023,OR,Oregon,TOT,All sectors,BAT,Battery,35,megawatts
+1441,2023,OR,Oregon,TOT,All sectors,GEO,Geothermal,19.5,megawatts
+1442,2023,OR,Oregon,TOT,All sectors,HYC,Hydroelectric,8363.2,megawatts
+1443,2023,OR,Oregon,TOT,All sectors,NG,Natural Gas,3762.4,megawatts
+1444,2023,OR,Oregon,TOT,All sectors,NGCC,Natural Gas - CC,3409.2,megawatts
+1445,2023,SC,South Carolina,EU,Electric Utilities,PET,Petroleum,207,megawatts
+1446,2023,SC,South Carolina,EU,Electric Utilities,PETGT,Petroleum - GT,157,megawatts
+1447,2023,SC,South Carolina,EU,Electric Utilities,PETIC,Petroleum - IC,50,megawatts
+1448,2023,SC,South Carolina,EU,Electric Utilities,HPS,Pumped Storage,2956,megawatts
+1449,2023,SC,South Carolina,EU,Electric Utilities,SOL,Solar,4.8,megawatts
+1450,2023,SC,South Carolina,EU,Electric Utilities,SOLPV,Solar - PV,4.8,megawatts
+1451,2023,SC,South Carolina,IPP,Independent Power Producers,ALL,All,3028,megawatts
+1452,2023,SC,South Carolina,IPP,Independent Power Producers,BAT,Battery,22,megawatts
+1453,2023,SC,South Carolina,IPP,Independent Power Producers,HYC,Hydroelectric,31.3,megawatts
+1454,2023,SC,South Carolina,IPP,Independent Power Producers,NG,Natural Gas,976.8,megawatts
+1455,2023,SC,South Carolina,IPP,Independent Power Producers,NGCC,Natural Gas - CC,86,megawatts
+1456,2023,SC,South Carolina,IPP,Independent Power Producers,NGGT,Natural Gas - GT,870.8,megawatts
+1457,2023,SC,South Carolina,IPP,Independent Power Producers,NGST,Natural Gas - ST,20,megawatts
+1458,2023,SC,South Carolina,IPP,Independent Power Producers,OBM,Other Biomass,13,megawatts
+1459,2023,SC,South Carolina,IPP,Independent Power Producers,PET,Petroleum,9.6,megawatts
+1460,2023,SC,South Carolina,IPP,Independent Power Producers,PETIC,Petroleum - IC,9.6,megawatts
+1461,2023,SC,South Carolina,IPP,Independent Power Producers,SOL,Solar,1552.7,megawatts
+1462,2023,SC,South Carolina,IPP,Independent Power Producers,SOLPV,Solar - PV,1552.7,megawatts
+1463,2023,SC,South Carolina,IPP,Independent Power Producers,WOO,Wood,422.6,megawatts
+1464,2023,SC,South Carolina,TOT,All sectors,ALL,All,24421.8,megawatts
+1465,2023,SC,South Carolina,TOT,All sectors,BAT,Battery,22,megawatts
+1466,2023,SC,South Carolina,TOT,All sectors,COL,Coal,4749,megawatts
+1467,2023,SC,South Carolina,TOT,All sectors,HYC,Hydroelectric,1294,megawatts
+1468,2023,SC,South Carolina,TOT,All sectors,NG,Natural Gas,6560.7,megawatts
+1469,2023,SC,South Carolina,TOT,All sectors,NGCC,Natural Gas - CC,3252,megawatts
+1470,2023,SC,South Carolina,TOT,All sectors,NGGT,Natural Gas - GT,2528.7,megawatts
+1471,2023,SC,South Carolina,TOT,All sectors,NGST,Natural Gas - ST,780,megawatts
+1472,2023,SC,South Carolina,TOT,All sectors,NUC,Nuclear,6600.3,megawatts
+1473,2023,SC,South Carolina,TOT,All sectors,OBM,Other Biomass,43.1,megawatts
+1474,2023,SC,South Carolina,TOT,All sectors,PET,Petroleum,216.6,megawatts
+1475,2023,SC,South Carolina,TOT,All sectors,PETGT,Petroleum - GT,157,megawatts
+1476,2023,SC,South Carolina,TOT,All sectors,PETIC,Petroleum - IC,59.6,megawatts
+1477,2023,SC,South Carolina,TOT,All sectors,HPS,Pumped Storage,2956,megawatts
+1478,2023,SC,South Carolina,TOT,All sectors,SOL,Solar,1557.5,megawatts
+1479,2023,SC,South Carolina,TOT,All sectors,SOLPV,Solar - PV,1557.5,megawatts
+1480,2023,SC,South Carolina,TOT,All sectors,WOO,Wood,422.6,megawatts
+1481,2023,SD,South Dakota,EU,Electric Utilities,ALL,All,3989.1,megawatts
+1482,2023,SD,South Dakota,EU,Electric Utilities,COL,Coal,475,megawatts
+1483,2023,SD,South Dakota,EU,Electric Utilities,HYC,Hydroelectric,1598,megawatts
+1484,2023,SD,South Dakota,EU,Electric Utilities,NG,Natural Gas,1252.6,megawatts
+1485,2023,SD,South Dakota,EU,Electric Utilities,NGCC,Natural Gas - CC,295,megawatts
+1486,2023,SD,South Dakota,EU,Electric Utilities,NGGT,Natural Gas - GT,893.7,megawatts
+1487,2023,SD,South Dakota,EU,Electric Utilities,NGIC,Natural Gas - IC,63.9,megawatts
+1488,2023,SD,South Dakota,EU,Electric Utilities,PET,Petroleum,210.9,megawatts
+1489,2023,SD,South Dakota,EU,Electric Utilities,PETGT,Petroleum - GT,184.4,megawatts
+1490,2023,SD,South Dakota,EU,Electric Utilities,PETIC,Petroleum - IC,26.5,megawatts
+1491,2023,SD,South Dakota,EU,Electric Utilities,WND,Wind,452.6,megawatts
+1492,2023,SD,South Dakota,IPP,Independent Power Producers,ALL,All,2809.9,megawatts
+1493,2023,SD,South Dakota,IPP,Independent Power Producers,BAT,Battery,.8,megawatts
+1494,2023,SD,South Dakota,IPP,Independent Power Producers,NG,Natural Gas,7.5,megawatts
+1495,2023,SD,South Dakota,IPP,Independent Power Producers,NGST,Natural Gas - ST,7.5,megawatts
+1496,2023,SD,South Dakota,IPP,Independent Power Producers,PET,Petroleum,3.2,megawatts
+1497,2023,SD,South Dakota,IPP,Independent Power Producers,PETIC,Petroleum - IC,3.2,megawatts
+1498,2023,SD,South Dakota,IPP,Independent Power Producers,SOL,Solar,81,megawatts
+1499,2023,SD,South Dakota,IPP,Independent Power Producers,SOLPV,Solar - PV,81,megawatts
+1500,2023,SD,South Dakota,IPP,Independent Power Producers,WND,Wind,2712,megawatts
+1501,2023,SD,South Dakota,IPP,Independent Power Producers,WOO,Wood,5.4,megawatts
+1502,2023,SD,South Dakota,TOT,All sectors,ALL,All,6799,megawatts
+1503,2023,SD,South Dakota,TOT,All sectors,BAT,Battery,.8,megawatts
+1504,2023,SD,South Dakota,TOT,All sectors,COL,Coal,475,megawatts
+1505,2023,SD,South Dakota,TOT,All sectors,HYC,Hydroelectric,1598,megawatts
+1506,2023,SD,South Dakota,TOT,All sectors,NG,Natural Gas,1260.1,megawatts
+1507,2023,SD,South Dakota,TOT,All sectors,NGCC,Natural Gas - CC,295,megawatts
+1508,2023,SD,South Dakota,TOT,All sectors,NGGT,Natural Gas - GT,893.7,megawatts
+1509,2023,SD,South Dakota,TOT,All sectors,NGIC,Natural Gas - IC,63.9,megawatts
+1510,2023,SD,South Dakota,TOT,All sectors,NGST,Natural Gas - ST,7.5,megawatts
+1511,2023,SD,South Dakota,TOT,All sectors,PET,Petroleum,214.1,megawatts
+1512,2023,SD,South Dakota,TOT,All sectors,PETGT,Petroleum - GT,184.4,megawatts
+1513,2023,SD,South Dakota,TOT,All sectors,PETIC,Petroleum - IC,29.7,megawatts
+1514,2023,SD,South Dakota,TOT,All sectors,SOL,Solar,81,megawatts
+1515,2023,SD,South Dakota,TOT,All sectors,SOLPV,Solar - PV,81,megawatts
+1516,2023,SD,South Dakota,TOT,All sectors,WND,Wind,3164.6,megawatts
+1517,2023,SD,South Dakota,TOT,All sectors,WOO,Wood,5.4,megawatts
+1518,2023,TN,Tennessee,EU,Electric Utilities,ALL,All,19634.2,megawatts
+1519,2023,TN,Tennessee,EU,Electric Utilities,COL,Coal,4844,megawatts
+1520,2023,TN,Tennessee,EU,Electric Utilities,HYC,Hydroelectric,2401.6,megawatts
+1521,2023,TN,Tennessee,EU,Electric Utilities,NG,Natural Gas,5777.5,megawatts
+1522,2023,TN,Tennessee,EU,Electric Utilities,NGCC,Natural Gas - CC,2455.1,megawatts
+1523,2023,TN,Tennessee,EU,Electric Utilities,NGGT,Natural Gas - GT,3322.4,megawatts
+1524,2023,TN,Tennessee,EU,Electric Utilities,NUC,Nuclear,4522.7,megawatts
+1525,2023,TN,Tennessee,EU,Electric Utilities,OBM,Other Biomass,1.8,megawatts
+1526,2023,TN,Tennessee,EU,Electric Utilities,PET,Petroleum,466.8,megawatts
+1527,2023,TN,Tennessee,EU,Electric Utilities,PETGT,Petroleum - GT,427.2,megawatts
+1528,2023,TN,Tennessee,EU,Electric Utilities,PETIC,Petroleum - IC,39.6,megawatts
+1529,2023,TN,Tennessee,EU,Electric Utilities,HPS,Pumped Storage,1616.3,megawatts
+1530,2023,TN,Tennessee,EU,Electric Utilities,SOL,Solar,1.4,megawatts
+1531,2023,TN,Tennessee,EU,Electric Utilities,SOLPV,Solar - PV,1.4,megawatts
+1532,2023,TN,Tennessee,EU,Electric Utilities,WND,Wind,2.1,megawatts
+1533,2023,TN,Tennessee,IPP,Independent Power Producers,ALL,All,1289.7,megawatts
+1534,2023,TN,Tennessee,IPP,Independent Power Producers,COL,Coal,110.5,megawatts
+1535,2023,TN,Tennessee,IPP,Independent Power Producers,HYC,Hydroelectric,207,megawatts
+1536,2023,TN,Tennessee,IPP,Independent Power Producers,NG,Natural Gas,216.4,megawatts
+1537,2023,TN,Tennessee,IPP,Independent Power Producers,NGGT,Natural Gas - GT,82.9,megawatts
+1538,2023,TN,Tennessee,IPP,Independent Power Producers,NGIC,Natural Gas - IC,3.2,megawatts
+1539,2023,TN,Tennessee,IPP,Independent Power Producers,NGST,Natural Gas - ST,130.3,megawatts
+1540,2023,TN,Tennessee,IPP,Independent Power Producers,OBM,Other Biomass,7.6,megawatts
+1541,2023,TN,Tennessee,IPP,Independent Power Producers,PET,Petroleum,3.6,megawatts
+1542,2023,TN,Tennessee,IPP,Independent Power Producers,PETIC,Petroleum - IC,3.6,megawatts
+1543,2023,TN,Tennessee,IPP,Independent Power Producers,SOL,Solar,582.1,megawatts
+1544,2023,TN,Tennessee,IPP,Independent Power Producers,SOLPV,Solar - PV,582.1,megawatts
+1545,2023,TN,Tennessee,IPP,Independent Power Producers,WND,Wind,27,megawatts
+1546,2023,TN,Tennessee,IPP,Independent Power Producers,WOO,Wood,135.5,megawatts
+1547,2023,TN,Tennessee,TOT,All sectors,ALL,All,20923.9,megawatts
+1548,2023,TN,Tennessee,TOT,All sectors,COL,Coal,4954.5,megawatts
+1549,2023,TN,Tennessee,TOT,All sectors,HYC,Hydroelectric,2608.6,megawatts
+1550,2023,TN,Tennessee,TOT,All sectors,NG,Natural Gas,5993.9,megawatts
+1551,2023,TN,Tennessee,TOT,All sectors,NGCC,Natural Gas - CC,2455.1,megawatts
+1552,2023,TN,Tennessee,TOT,All sectors,NGGT,Natural Gas - GT,3405.3,megawatts
+1553,2023,TN,Tennessee,TOT,All sectors,NGIC,Natural Gas - IC,3.2,megawatts
+1554,2023,TN,Tennessee,TOT,All sectors,NGST,Natural Gas - ST,130.3,megawatts
+1555,2023,TN,Tennessee,TOT,All sectors,NUC,Nuclear,4522.7,megawatts
+1556,2023,TN,Tennessee,TOT,All sectors,OBM,Other Biomass,9.4,megawatts
+1557,2023,TN,Tennessee,TOT,All sectors,PET,Petroleum,470.4,megawatts
+1558,2023,TN,Tennessee,TOT,All sectors,PETGT,Petroleum - GT,427.2,megawatts
+1559,2023,TN,Tennessee,TOT,All sectors,PETIC,Petroleum - IC,43.2,megawatts
+1560,2023,TN,Tennessee,TOT,All sectors,HPS,Pumped Storage,1616.3,megawatts
+1561,2023,TN,Tennessee,TOT,All sectors,SOL,Solar,583.5,megawatts
+1562,2023,TN,Tennessee,TOT,All sectors,SOLPV,Solar - PV,583.5,megawatts
+1563,2023,TN,Tennessee,TOT,All sectors,WND,Wind,29.1,megawatts
+1564,2023,TN,Tennessee,TOT,All sectors,WOO,Wood,135.5,megawatts
+1565,2023,TX,Texas,EU,Electric Utilities,ALL,All,27114.8,megawatts
+1566,2023,TX,Texas,EU,Electric Utilities,BAT,Battery,11.5,megawatts
+1567,2023,TX,Texas,EU,Electric Utilities,COL,Coal,6436,megawatts
+1568,2023,TX,Texas,EU,Electric Utilities,HYC,Hydroelectric,707.9,megawatts
+1569,2023,TX,Texas,EU,Electric Utilities,NG,Natural Gas,19648.4,megawatts
+1570,2023,TX,Texas,EU,Electric Utilities,NGCC,Natural Gas - CC,6913.7,megawatts
+1571,2023,TX,Texas,EU,Electric Utilities,NGGT,Natural Gas - GT,3849.1,megawatts
+1572,2023,TX,Texas,EU,Electric Utilities,NGIC,Natural Gas - IC,835.8,megawatts
+1573,2023,TX,Texas,EU,Electric Utilities,NGST,Natural Gas - ST,8049.8,megawatts
+1574,2023,TX,Texas,EU,Electric Utilities,OT,Other,5,megawatts
+1575,2023,TX,Texas,EU,Electric Utilities,PET,Petroleum,72.3,megawatts
+1576,2023,TX,Texas,EU,Electric Utilities,PETIC,Petroleum - IC,8.3,megawatts
+1577,2023,TX,Texas,EU,Electric Utilities,PETST,Petroleum - ST,64,megawatts
+1578,2023,TX,Texas,EU,Electric Utilities,SOL,Solar,9,megawatts
+1579,2023,TX,Texas,EU,Electric Utilities,SOLPV,Solar - PV,9,megawatts
+1580,2023,TX,Texas,EU,Electric Utilities,WND,Wind,78.2,megawatts
+1581,2023,TX,Texas,EU,Electric Utilities,WOO,Wood,146.5,megawatts
+1582,2023,TX,Texas,IPP,Independent Power Producers,ALL,All,127894.9,megawatts
+1583,2023,TX,Texas,IPP,Independent Power Producers,BAT,Battery,3782.1,megawatts
+1584,2023,TX,Texas,IPP,Independent Power Producers,COL,Coal,10186.6,megawatts
+1585,2023,TX,Texas,IPP,Independent Power Producers,HYC,Hydroelectric,7.3,megawatts
+1586,2023,TX,Texas,IPP,Independent Power Producers,NG,Natural Gas,52457,megawatts
+1587,2023,TX,Texas,IPP,Independent Power Producers,NGCC,Natural Gas - CC,36322.3,megawatts
+1588,2023,TX,Texas,IPP,Independent Power Producers,NGGT,Natural Gas - GT,7864.5,megawatts
+1589,2023,TX,Texas,IPP,Independent Power Producers,NGIC,Natural Gas - IC,279.5,megawatts
+1590,2023,TX,Texas,IPP,Independent Power Producers,NGST,Natural Gas - ST,7990.7,megawatts
+1591,2023,TX,Texas,IPP,Independent Power Producers,NUC,Nuclear,4980,megawatts
+1592,2023,TX,Texas,IPP,Independent Power Producers,OT,Other,219,megawatts
+1593,2023,TX,Texas,IPP,Independent Power Producers,OBM,Other Biomass,43.9,megawatts
+1594,2023,TX,Texas,IPP,Independent Power Producers,OOG,Other Gas,177.1,megawatts
+1595,2023,TX,Texas,IPP,Independent Power Producers,PET,Petroleum,633.1,megawatts
+1596,2023,TX,Texas,IPP,Independent Power Producers,PETGT,Petroleum - GT,397,megawatts
+1597,2023,OR,Oregon,TOT,All sectors,NGGT,Natural Gas - GT,124,megawatts
+1598,2023,OR,Oregon,TOT,All sectors,NGIC,Natural Gas - IC,229.2,megawatts
+1599,2023,OR,Oregon,TOT,All sectors,OBM,Other Biomass,52.6,megawatts
+1600,2023,OR,Oregon,TOT,All sectors,PET,Petroleum,6.6,megawatts
+1601,2023,OR,Oregon,TOT,All sectors,PETIC,Petroleum - IC,6.6,megawatts
+1602,2023,OR,Oregon,TOT,All sectors,SOL,Solar,1010.7,megawatts
+1603,2023,OR,Oregon,TOT,All sectors,SOLPV,Solar - PV,1010.7,megawatts
+1604,2023,OR,Oregon,TOT,All sectors,WND,Wind,3976.5,megawatts
+1605,2023,OR,Oregon,TOT,All sectors,WOO,Wood,242.3,megawatts
+1606,2023,PA,Pennsylvania,EU,Electric Utilities,ALL,All,80.9,megawatts
+1607,2023,PA,Pennsylvania,EU,Electric Utilities,HYC,Hydroelectric,8.4,megawatts
+1608,2023,PA,Pennsylvania,EU,Electric Utilities,NG,Natural Gas,30.3,megawatts
+1609,2023,PA,Pennsylvania,EU,Electric Utilities,NGIC,Natural Gas - IC,30.3,megawatts
+1610,2023,PA,Pennsylvania,EU,Electric Utilities,PET,Petroleum,42.2,megawatts
+1611,2023,PA,Pennsylvania,EU,Electric Utilities,PETIC,Petroleum - IC,42.2,megawatts
+1612,2023,PA,Pennsylvania,IPP,Independent Power Producers,ALL,All,48445.2,megawatts
+1613,2023,PA,Pennsylvania,IPP,Independent Power Producers,BAT,Battery,34.6,megawatts
+1614,2023,PA,Pennsylvania,IPP,Independent Power Producers,COL,Coal,6008.7,megawatts
+1615,2023,PA,Pennsylvania,IPP,Independent Power Producers,HYC,Hydroelectric,921.1,megawatts
+1616,2023,PA,Pennsylvania,IPP,Independent Power Producers,NG,Natural Gas,26827,megawatts
+1617,2023,PA,Pennsylvania,IPP,Independent Power Producers,NGCC,Natural Gas - CC,19054.8,megawatts
+1618,2023,PA,Pennsylvania,IPP,Independent Power Producers,NGGT,Natural Gas - GT,1898.3,megawatts
+1619,2023,PA,Pennsylvania,IPP,Independent Power Producers,NGIC,Natural Gas - IC,226.8,megawatts
+1620,2023,PA,Pennsylvania,IPP,Independent Power Producers,NGST,Natural Gas - ST,5647.1,megawatts
+1621,2023,PA,Pennsylvania,IPP,Independent Power Producers,NUC,Nuclear,9093.2,megawatts
+1622,2023,PA,Pennsylvania,IPP,Independent Power Producers,OT,Other,20,megawatts
+1623,2023,PA,Pennsylvania,IPP,Independent Power Producers,OBM,Other Biomass,343,megawatts
+1624,2023,PA,Pennsylvania,IPP,Independent Power Producers,OOG,Other Gas,85.9,megawatts
+1625,2023,PA,Pennsylvania,IPP,Independent Power Producers,PET,Petroleum,1297.9,megawatts
+1626,2023,PA,Pennsylvania,IPP,Independent Power Producers,PETGT,Petroleum - GT,1233.2,megawatts
+1627,2023,PA,Pennsylvania,IPP,Independent Power Producers,PETIC,Petroleum - IC,64.7,megawatts
+1628,2023,PA,Pennsylvania,IPP,Independent Power Producers,HPS,Pumped Storage,1491.5,megawatts
+1629,2023,PA,Pennsylvania,IPP,Independent Power Producers,SOL,Solar,689.5,megawatts
+1630,2023,PA,Pennsylvania,IPP,Independent Power Producers,SOLPV,Solar - PV,689.5,megawatts
+1631,2023,PA,Pennsylvania,IPP,Independent Power Producers,WND,Wind,1552.6,megawatts
+1632,2023,PA,Pennsylvania,IPP,Independent Power Producers,WOO,Wood,80.2,megawatts
+1633,2023,PA,Pennsylvania,TOT,All sectors,ALL,All,48526.1,megawatts
+1634,2023,PA,Pennsylvania,TOT,All sectors,BAT,Battery,34.6,megawatts
+1635,2023,PA,Pennsylvania,TOT,All sectors,COL,Coal,6008.7,megawatts
+1636,2023,PA,Pennsylvania,TOT,All sectors,HYC,Hydroelectric,929.5,megawatts
+1637,2023,PA,Pennsylvania,TOT,All sectors,NG,Natural Gas,26857.3,megawatts
+1638,2023,PA,Pennsylvania,TOT,All sectors,NGCC,Natural Gas - CC,19054.8,megawatts
+1639,2023,PA,Pennsylvania,TOT,All sectors,NGGT,Natural Gas - GT,1898.3,megawatts
+1640,2023,PA,Pennsylvania,TOT,All sectors,NGIC,Natural Gas - IC,257.1,megawatts
+1641,2023,PA,Pennsylvania,TOT,All sectors,NGST,Natural Gas - ST,5647.1,megawatts
+1642,2023,PA,Pennsylvania,TOT,All sectors,NUC,Nuclear,9093.2,megawatts
+1643,2023,PA,Pennsylvania,TOT,All sectors,OT,Other,20,megawatts
+1644,2023,PA,Pennsylvania,TOT,All sectors,OBM,Other Biomass,343,megawatts
+1645,2023,PA,Pennsylvania,TOT,All sectors,OOG,Other Gas,85.9,megawatts
+1646,2023,PA,Pennsylvania,TOT,All sectors,PET,Petroleum,1340.1,megawatts
+1647,2023,PA,Pennsylvania,TOT,All sectors,PETGT,Petroleum - GT,1233.2,megawatts
+1648,2023,PA,Pennsylvania,TOT,All sectors,PETIC,Petroleum - IC,106.9,megawatts
+1649,2023,PA,Pennsylvania,TOT,All sectors,HPS,Pumped Storage,1491.5,megawatts
+1650,2023,PA,Pennsylvania,TOT,All sectors,SOL,Solar,689.5,megawatts
+1651,2023,PA,Pennsylvania,TOT,All sectors,SOLPV,Solar - PV,689.5,megawatts
+1652,2023,PA,Pennsylvania,TOT,All sectors,WND,Wind,1552.6,megawatts
+1653,2023,PA,Pennsylvania,TOT,All sectors,WOO,Wood,80.2,megawatts
+1654,2023,RI,Rhode Island,EU,Electric Utilities,ALL,All,7.1,megawatts
+1655,2023,RI,Rhode Island,EU,Electric Utilities,PET,Petroleum,7.1,megawatts
+1656,2023,RI,Rhode Island,EU,Electric Utilities,PETIC,Petroleum - IC,7.1,megawatts
+1657,2023,RI,Rhode Island,IPP,Independent Power Producers,ALL,All,2281.4,megawatts
+1658,2023,RI,Rhode Island,IPP,Independent Power Producers,BAT,Battery,3,megawatts
+1659,2023,RI,Rhode Island,IPP,Independent Power Producers,HYC,Hydroelectric,2.7,megawatts
+1660,2023,RI,Rhode Island,IPP,Independent Power Producers,NG,Natural Gas,1773,megawatts
+1661,2023,RI,Rhode Island,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1735.2,megawatts
+1662,2023,RI,Rhode Island,IPP,Independent Power Producers,NGGT,Natural Gas - GT,12.4,megawatts
+1663,2023,RI,Rhode Island,IPP,Independent Power Producers,NGIC,Natural Gas - IC,14.5,megawatts
+1664,2023,RI,Rhode Island,IPP,Independent Power Producers,NGST,Natural Gas - ST,10.9,megawatts
+1665,2023,RI,Rhode Island,IPP,Independent Power Producers,OBM,Other Biomass,40.1,megawatts
+1666,2023,RI,Rhode Island,IPP,Independent Power Producers,SOL,Solar,385.3,megawatts
+1667,2023,RI,Rhode Island,IPP,Independent Power Producers,SOLPV,Solar - PV,385.3,megawatts
+1668,2023,RI,Rhode Island,IPP,Independent Power Producers,WND,Wind,77.3,megawatts
+1669,2023,RI,Rhode Island,TOT,All sectors,ALL,All,2288.5,megawatts
+1670,2023,RI,Rhode Island,TOT,All sectors,BAT,Battery,3,megawatts
+1671,2023,RI,Rhode Island,TOT,All sectors,HYC,Hydroelectric,2.7,megawatts
+1672,2023,RI,Rhode Island,TOT,All sectors,NG,Natural Gas,1773,megawatts
+1673,2023,RI,Rhode Island,TOT,All sectors,NGCC,Natural Gas - CC,1735.2,megawatts
+1674,2023,RI,Rhode Island,TOT,All sectors,NGGT,Natural Gas - GT,12.4,megawatts
+1675,2023,RI,Rhode Island,TOT,All sectors,NGIC,Natural Gas - IC,14.5,megawatts
+1676,2023,RI,Rhode Island,TOT,All sectors,NGST,Natural Gas - ST,10.9,megawatts
+1677,2023,RI,Rhode Island,TOT,All sectors,OBM,Other Biomass,40.1,megawatts
+1678,2023,RI,Rhode Island,TOT,All sectors,PET,Petroleum,7.1,megawatts
+1679,2023,RI,Rhode Island,TOT,All sectors,PETIC,Petroleum - IC,7.1,megawatts
+1680,2023,RI,Rhode Island,TOT,All sectors,SOL,Solar,385.3,megawatts
+1681,2023,RI,Rhode Island,TOT,All sectors,SOLPV,Solar - PV,385.3,megawatts
+1682,2023,RI,Rhode Island,TOT,All sectors,WND,Wind,77.3,megawatts
+1683,2023,SC,South Carolina,EU,Electric Utilities,ALL,All,21393.8,megawatts
+1684,2023,SC,South Carolina,EU,Electric Utilities,COL,Coal,4749,megawatts
+1685,2023,SC,South Carolina,EU,Electric Utilities,HYC,Hydroelectric,1262.7,megawatts
+1686,2023,SC,South Carolina,EU,Electric Utilities,NG,Natural Gas,5583.9,megawatts
+1687,2023,SC,South Carolina,EU,Electric Utilities,NGCC,Natural Gas - CC,3166,megawatts
+1688,2023,SC,South Carolina,EU,Electric Utilities,NGGT,Natural Gas - GT,1657.9,megawatts
+1689,2023,SC,South Carolina,EU,Electric Utilities,NGST,Natural Gas - ST,760,megawatts
+1690,2023,SC,South Carolina,EU,Electric Utilities,NUC,Nuclear,6600.3,megawatts
+1691,2023,SC,South Carolina,EU,Electric Utilities,OBM,Other Biomass,30.1,megawatts
+1692,2023,TX,Texas,IPP,Independent Power Producers,PETIC,Petroleum - IC,172.3,megawatts
+1693,2023,TX,Texas,IPP,Independent Power Producers,PETST,Petroleum - ST,63.8,megawatts
+1694,2023,TX,Texas,IPP,Independent Power Producers,SOL,Solar,14997.2,megawatts
+1695,2023,TX,Texas,IPP,Independent Power Producers,SOLPV,Solar - PV,14997.2,megawatts
+1696,2023,TX,Texas,IPP,Independent Power Producers,WND,Wind,40248.9,megawatts
+1697,2023,TX,Texas,IPP,Independent Power Producers,WOO,Wood,162.7,megawatts
+1698,2023,TX,Texas,TOT,All sectors,ALL,All,155009.7,megawatts
+1699,2023,TX,Texas,TOT,All sectors,BAT,Battery,3793.6,megawatts
+1700,2023,TX,Texas,TOT,All sectors,COL,Coal,16622.6,megawatts
+1701,2023,TX,Texas,TOT,All sectors,HYC,Hydroelectric,715.2,megawatts
+1702,2023,TX,Texas,TOT,All sectors,NG,Natural Gas,72105.4,megawatts
+1703,2023,TX,Texas,TOT,All sectors,NGCC,Natural Gas - CC,43236,megawatts
+1704,2023,TX,Texas,TOT,All sectors,NGGT,Natural Gas - GT,11713.6,megawatts
+1705,2023,TX,Texas,TOT,All sectors,NGIC,Natural Gas - IC,1115.3,megawatts
+1706,2023,TX,Texas,TOT,All sectors,NGST,Natural Gas - ST,16040.5,megawatts
+1707,2023,TX,Texas,TOT,All sectors,NUC,Nuclear,4980,megawatts
+1708,2023,TX,Texas,TOT,All sectors,OT,Other,224,megawatts
+1709,2023,TX,Texas,TOT,All sectors,OBM,Other Biomass,43.9,megawatts
+1710,2023,TX,Texas,TOT,All sectors,OOG,Other Gas,177.1,megawatts
+1711,2023,TX,Texas,TOT,All sectors,PET,Petroleum,705.4,megawatts
+1712,2023,TX,Texas,TOT,All sectors,PETGT,Petroleum - GT,397,megawatts
+1713,2023,TX,Texas,TOT,All sectors,PETIC,Petroleum - IC,180.6,megawatts
+1714,2023,TX,Texas,TOT,All sectors,PETST,Petroleum - ST,127.8,megawatts
+1715,2023,TX,Texas,TOT,All sectors,SOL,Solar,15006.2,megawatts
+1716,2023,TX,Texas,TOT,All sectors,SOLPV,Solar - PV,15006.2,megawatts
+1717,2023,TX,Texas,TOT,All sectors,WND,Wind,40327.1,megawatts
+1718,2023,TX,Texas,TOT,All sectors,WOO,Wood,309.2,megawatts
+1719,2023,US,United States,EU,Electric Utilities,ALL,All,616662,megawatts
+1720,2023,US,United States,EU,Electric Utilities,BAT,Battery,1818.6,megawatts
+1721,2023,US,United States,EU,Electric Utilities,COL,Coal,139158,megawatts
+1722,2023,US,United States,EU,Electric Utilities,GEO,Geothermal,158.5,megawatts
+1723,2023,US,United States,EU,Electric Utilities,HYC,Hydroelectric,73467.1,megawatts
+1724,2023,US,United States,EU,Electric Utilities,NG,Natural Gas,270951.7,megawatts
+1725,2023,US,United States,EU,Electric Utilities,NGCC,Natural Gas - CC,141096.6,megawatts
+1726,2023,US,United States,EU,Electric Utilities,NGGT,Natural Gas - GT,79059.3,megawatts
+1727,2023,US,United States,EU,Electric Utilities,NGIC,Natural Gas - IC,4430.7,megawatts
+1728,2023,US,United States,EU,Electric Utilities,NGOTH,Natural Gas - OTH,124.8,megawatts
+1729,2023,US,United States,EU,Electric Utilities,NGST,Natural Gas - ST,46240.3,megawatts
+1730,2023,US,United States,EU,Electric Utilities,NUC,Nuclear,54917.4,megawatts
+1731,2023,US,United States,EU,Electric Utilities,OT,Other,99,megawatts
+1732,2023,US,United States,EU,Electric Utilities,OBM,Other Biomass,235.6,megawatts
+1733,2023,US,United States,EU,Electric Utilities,OOG,Other Gas,12,megawatts
+1734,2023,US,United States,EU,Electric Utilities,PET,Petroleum,15291.5,megawatts
+1735,2023,US,United States,EU,Electric Utilities,PETGT,Petroleum - GT,8605.5,megawatts
+1736,2023,US,United States,EU,Electric Utilities,PETIC,Petroleum - IC,3867.3,megawatts
+1737,2023,US,United States,EU,Electric Utilities,PETOTH,Petroleum - OTH,669.5,megawatts
+1738,2023,US,United States,EU,Electric Utilities,PETST,Petroleum - ST,2149.2,megawatts
+1739,2023,US,United States,EU,Electric Utilities,HPS,Pumped Storage,19377.1,megawatts
+1740,2023,US,United States,EU,Electric Utilities,SOL,Solar,13691.6,megawatts
+1741,2023,US,United States,EU,Electric Utilities,SOLPV,Solar - PV,13691.6,megawatts
+1742,2023,US,United States,EU,Electric Utilities,WND,Wind,26855.3,megawatts
+1743,2023,US,United States,EU,Electric Utilities,WOO,Wood,628.6,megawatts
+1744,2023,US,United States,IPP,Independent Power Producers,ALL,All,570893.1,megawatts
+1745,2023,US,United States,IPP,Independent Power Producers,BAT,Battery,14176.3,megawatts
+1746,2023,US,United States,IPP,Independent Power Producers,COL,Coal,39283.7,megawatts
+1747,2023,US,United States,IPP,Independent Power Producers,GEO,Geothermal,2537.3,megawatts
+1748,2023,US,United States,IPP,Independent Power Producers,HYC,Hydroelectric,6518.2,megawatts
+1749,2023,US,United States,IPP,Independent Power Producers,NG,Natural Gas,236584.1,megawatts
+1750,2023,US,United States,IPP,Independent Power Producers,NGCC,Natural Gas - CC,153173.4,megawatts
+1751,2023,US,United States,IPP,Independent Power Producers,NGGT,Natural Gas - GT,53010,megawatts
+1752,2023,US,United States,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1455.6,megawatts
+1753,2023,US,United States,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,330.8,megawatts
+1754,2023,US,United States,IPP,Independent Power Producers,NGST,Natural Gas - ST,28614.3,megawatts
+1755,2023,US,United States,IPP,Independent Power Producers,NUC,Nuclear,40794.8,megawatts
+1756,2023,US,United States,IPP,Independent Power Producers,OT,Other,1357,megawatts
+1757,2023,US,United States,IPP,Independent Power Producers,OBM,Other Biomass,3897.6,megawatts
+1758,2023,US,United States,IPP,Independent Power Producers,OOG,Other Gas,1854.8,megawatts
+1759,2023,US,United States,IPP,Independent Power Producers,PET,Petroleum,14149,megawatts
+1760,2023,US,United States,IPP,Independent Power Producers,PETGT,Petroleum - GT,5709.6,megawatts
+1761,2023,US,United States,IPP,Independent Power Producers,PETIC,Petroleum - IC,1547,megawatts
+1762,2023,US,United States,IPP,Independent Power Producers,PETOTH,Petroleum - OTH,298.4,megawatts
+1763,2023,US,United States,IPP,Independent Power Producers,PETST,Petroleum - ST,6594,megawatts
+1764,2023,US,United States,IPP,Independent Power Producers,HPS,Pumped Storage,3770.3,megawatts
+1765,2023,US,United States,IPP,Independent Power Producers,SOL,Solar,78316.1,megawatts
+1766,2023,US,United States,IPP,Independent Power Producers,SOLPV,Solar - PV,76836.1,megawatts
+1767,2023,US,United States,IPP,Independent Power Producers,SOLTH,Solar - TH,1480,megawatts
+1768,2023,US,United States,IPP,Independent Power Producers,WND,Wind,120589.4,megawatts
+1769,2023,US,United States,IPP,Independent Power Producers,WOO,Wood,7064.5,megawatts
+1770,2023,US,United States,TOT,All sectors,ALL,All,1187555.1,megawatts
+1771,2023,US,United States,TOT,All sectors,BAT,Battery,15994.9,megawatts
+1772,2023,US,United States,TOT,All sectors,COL,Coal,178441.7,megawatts
+1773,2023,US,United States,TOT,All sectors,GEO,Geothermal,2695.8,megawatts
+1774,2023,US,United States,TOT,All sectors,HYC,Hydroelectric,79985.3,megawatts
+1775,2023,US,United States,TOT,All sectors,NG,Natural Gas,507535.8,megawatts
+1776,2023,US,United States,TOT,All sectors,NGCC,Natural Gas - CC,294270,megawatts
+1777,2023,US,United States,TOT,All sectors,NGGT,Natural Gas - GT,132069.3,megawatts
+1778,2023,US,United States,TOT,All sectors,NGIC,Natural Gas - IC,5886.3,megawatts
+1779,2023,US,United States,TOT,All sectors,NGOTH,Natural Gas - OTH,455.6,megawatts
+1780,2023,US,United States,TOT,All sectors,NGST,Natural Gas - ST,74854.6,megawatts
+1781,2023,US,United States,TOT,All sectors,NUC,Nuclear,95712.2,megawatts
+1782,2023,US,United States,TOT,All sectors,OT,Other,1456,megawatts
+1783,2023,US,United States,TOT,All sectors,OBM,Other Biomass,4133.2,megawatts
+1784,2023,US,United States,TOT,All sectors,OOG,Other Gas,1866.8,megawatts
+1785,2023,US,United States,TOT,All sectors,PET,Petroleum,29440.5,megawatts
+1786,2023,US,United States,TOT,All sectors,PETGT,Petroleum - GT,14315.1,megawatts
+1787,2023,US,United States,TOT,All sectors,PETIC,Petroleum - IC,5414.3,megawatts
+1788,2023,US,United States,TOT,All sectors,PETOTH,Petroleum - OTH,967.9,megawatts
+1789,2023,US,United States,TOT,All sectors,PETST,Petroleum - ST,8743.2,megawatts
+1790,2023,US,United States,TOT,All sectors,HPS,Pumped Storage,23147.4,megawatts
+1791,2023,US,United States,TOT,All sectors,SOL,Solar,92007.7,megawatts
+1792,2023,US,United States,TOT,All sectors,SOLPV,Solar - PV,90527.7,megawatts
+1793,2023,US,United States,TOT,All sectors,SOLTH,Solar - TH,1480,megawatts
+1794,2023,MA,Massachusetts,TOT,All sectors,SOL,Solar,1339.1,megawatts
+1795,2023,MA,Massachusetts,TOT,All sectors,SOLPV,Solar - PV,1339.1,megawatts
+1796,2023,MA,Massachusetts,TOT,All sectors,WND,Wind,101.8,megawatts
+1797,2023,MA,Massachusetts,TOT,All sectors,WOO,Wood,14.9,megawatts
+1798,2023,MD,Maryland,EU,Electric Utilities,ALL,All,1072.7,megawatts
+1799,2023,MD,Maryland,EU,Electric Utilities,NG,Natural Gas,993.3,megawatts
+1800,2023,MD,Maryland,EU,Electric Utilities,NGCC,Natural Gas - CC,991.3,megawatts
+1801,2023,MD,Maryland,EU,Electric Utilities,NGIC,Natural Gas - IC,2,megawatts
+1802,2023,MD,Maryland,EU,Electric Utilities,PET,Petroleum,73.9,megawatts
+1803,2023,MD,Maryland,EU,Electric Utilities,PETGT,Petroleum - GT,9,megawatts
+1804,2023,MD,Maryland,EU,Electric Utilities,PETIC,Petroleum - IC,64.9,megawatts
+1805,2023,MD,Maryland,EU,Electric Utilities,SOL,Solar,5.5,megawatts
+1806,2023,MD,Maryland,EU,Electric Utilities,SOLPV,Solar - PV,5.5,megawatts
+1807,2023,MD,Maryland,IPP,Independent Power Producers,ALL,All,10851.4,megawatts
+1808,2023,MD,Maryland,IPP,Independent Power Producers,BAT,Battery,7.7,megawatts
+1809,2023,MD,Maryland,IPP,Independent Power Producers,COL,Coal,1453,megawatts
+1810,2023,MD,Maryland,IPP,Independent Power Producers,HYC,Hydroelectric,514.9,megawatts
+1811,2023,MD,Maryland,IPP,Independent Power Producers,NG,Natural Gas,4639.4,megawatts
+1812,2023,US,United States,TOT,All sectors,WND,Wind,147444.7,megawatts
+1813,2023,US,United States,TOT,All sectors,WOO,Wood,7693.1,megawatts
+1814,2023,UT,Utah,EU,Electric Utilities,ALL,All,7460.2,megawatts
+1815,2023,UT,Utah,EU,Electric Utilities,COL,Coal,4530,megawatts
+1816,2023,UT,Utah,EU,Electric Utilities,GEO,Geothermal,31.7,megawatts
+1817,2023,UT,Utah,EU,Electric Utilities,HYC,Hydroelectric,244.4,megawatts
+1818,2023,UT,Utah,EU,Electric Utilities,NG,Natural Gas,2601.4,megawatts
+1819,2023,UT,Utah,EU,Electric Utilities,NGCC,Natural Gas - CC,1830,megawatts
+1820,2023,UT,Utah,EU,Electric Utilities,NGGT,Natural Gas - GT,448.7,megawatts
+1821,2023,UT,Utah,EU,Electric Utilities,NGIC,Natural Gas - IC,85.2,megawatts
+1822,2023,UT,Utah,EU,Electric Utilities,NGST,Natural Gas - ST,237.5,megawatts
+1823,2023,UT,Utah,EU,Electric Utilities,OT,Other,8.4,megawatts
+1824,2023,UT,Utah,EU,Electric Utilities,PET,Petroleum,27.8,megawatts
+1825,2023,UT,Utah,EU,Electric Utilities,PETIC,Petroleum - IC,27.8,megawatts
+1826,2023,UT,Utah,EU,Electric Utilities,SOL,Solar,16.5,megawatts
+1827,2023,UT,Utah,EU,Electric Utilities,SOLPV,Solar - PV,16.5,megawatts
+1828,2023,UT,Utah,IPP,Independent Power Producers,ALL,All,2249.6,megawatts
+1829,2023,UT,Utah,IPP,Independent Power Producers,BAT,Battery,1,megawatts
+1830,2023,UT,Utah,IPP,Independent Power Producers,COL,Coal,51,megawatts
+1831,2023,UT,Utah,IPP,Independent Power Producers,GEO,Geothermal,39,megawatts
+1832,2023,UT,Utah,IPP,Independent Power Producers,HYC,Hydroelectric,15.3,megawatts
+1833,2023,UT,Utah,IPP,Independent Power Producers,NG,Natural Gas,91.4,megawatts
+1834,2023,UT,Utah,IPP,Independent Power Producers,NGGT,Natural Gas - GT,85.9,megawatts
+1835,2023,UT,Utah,IPP,Independent Power Producers,NGIC,Natural Gas - IC,5.5,megawatts
+1836,2023,UT,Utah,IPP,Independent Power Producers,OT,Other,31.8,megawatts
+1837,2023,UT,Utah,IPP,Independent Power Producers,OBM,Other Biomass,16,megawatts
+1838,2023,UT,Utah,IPP,Independent Power Producers,SOL,Solar,1614.4,megawatts
+1839,2023,UT,Utah,IPP,Independent Power Producers,SOLPV,Solar - PV,1614.3,megawatts
+1840,2023,UT,Utah,IPP,Independent Power Producers,SOLTH,Solar - TH,.1,megawatts
+1841,2023,UT,Utah,IPP,Independent Power Producers,WND,Wind,389.7,megawatts
+1842,2023,UT,Utah,TOT,All sectors,ALL,All,9709.8,megawatts
+1843,2023,UT,Utah,TOT,All sectors,BAT,Battery,1,megawatts
+1844,2023,UT,Utah,TOT,All sectors,COL,Coal,4581,megawatts
+1845,2023,UT,Utah,TOT,All sectors,GEO,Geothermal,70.7,megawatts
+1846,2023,UT,Utah,TOT,All sectors,HYC,Hydroelectric,259.7,megawatts
+1847,2023,UT,Utah,TOT,All sectors,NG,Natural Gas,2692.8,megawatts
+1848,2023,UT,Utah,TOT,All sectors,NGCC,Natural Gas - CC,1830,megawatts
+1849,2023,UT,Utah,TOT,All sectors,NGGT,Natural Gas - GT,534.6,megawatts
+1850,2023,UT,Utah,TOT,All sectors,NGIC,Natural Gas - IC,90.7,megawatts
+1851,2023,UT,Utah,TOT,All sectors,NGST,Natural Gas - ST,237.5,megawatts
+1852,2023,UT,Utah,TOT,All sectors,OT,Other,40.2,megawatts
+1853,2023,UT,Utah,TOT,All sectors,OBM,Other Biomass,16,megawatts
+1854,2023,UT,Utah,TOT,All sectors,PET,Petroleum,27.8,megawatts
+1855,2023,UT,Utah,TOT,All sectors,PETIC,Petroleum - IC,27.8,megawatts
+1856,2023,UT,Utah,TOT,All sectors,SOL,Solar,1630.9,megawatts
+1857,2023,UT,Utah,TOT,All sectors,SOLPV,Solar - PV,1630.8,megawatts
+1858,2023,UT,Utah,TOT,All sectors,SOLTH,Solar - TH,.1,megawatts
+1859,2023,UT,Utah,TOT,All sectors,WND,Wind,389.7,megawatts
+1860,2023,VA,Virginia,EU,Electric Utilities,ALL,All,21020.3,megawatts
+1861,2023,VA,Virginia,EU,Electric Utilities,BAT,Battery,60,megawatts
+1862,2023,VA,Virginia,EU,Electric Utilities,COL,Coal,1487.1,megawatts
+1863,2023,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,821.6,megawatts
+1864,2023,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,9955.3,megawatts
+1865,2023,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6128.4,megawatts
+1866,2023,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3365.9,megawatts
+1867,2023,VA,Virginia,EU,Electric Utilities,NGIC,Natural Gas - IC,1,megawatts
+1868,2023,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,460,megawatts
+1869,2023,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+1870,2023,VA,Virginia,EU,Electric Utilities,PET,Petroleum,364.8,megawatts
+1871,2023,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,260.4,megawatts
+1872,2023,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,104.4,megawatts
+1873,2023,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3253.1,megawatts
+1874,2023,VA,Virginia,EU,Electric Utilities,SOL,Solar,1345.4,megawatts
+1875,2023,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,1345.4,megawatts
+1876,2023,VA,Virginia,EU,Electric Utilities,WND,Wind,12,megawatts
+1877,2023,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+1878,2023,VA,Virginia,IPP,Independent Power Producers,ALL,All,7197.9,megawatts
+1879,2023,VA,Virginia,IPP,Independent Power Producers,BAT,Battery,10.5,megawatts
+1880,2023,VA,Virginia,IPP,Independent Power Producers,COL,Coal,43,megawatts
+1881,2023,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,45,megawatts
+1882,2023,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3771.2,megawatts
+1883,2023,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2770.4,megawatts
+1884,2023,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,880,megawatts
+1885,2023,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,120.8,megawatts
+1886,2023,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,298.9,megawatts
+1887,2023,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,372.4,megawatts
+1888,2023,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,343.8,megawatts
+1889,2023,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,28.6,megawatts
+1890,2023,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,2313.2,megawatts
+1891,2023,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,2313.2,megawatts
+1892,2023,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,343.7,megawatts
+1893,2023,VA,Virginia,TOT,All sectors,ALL,All,28218.2,megawatts
+1894,2023,VA,Virginia,TOT,All sectors,BAT,Battery,70.5,megawatts
+1895,2023,VA,Virginia,TOT,All sectors,COL,Coal,1530.1,megawatts
+1896,2023,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.6,megawatts
+1897,2023,VA,Virginia,TOT,All sectors,NG,Natural Gas,13726.5,megawatts
+1898,2023,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8898.8,megawatts
+1899,2023,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4245.9,megawatts
+1900,2023,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1,megawatts
+1901,2023,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,580.8,megawatts
+1902,2023,MD,Maryland,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1754.5,megawatts
+1903,2023,MD,Maryland,IPP,Independent Power Producers,NGGT,Natural Gas - GT,1675.6,megawatts
+1904,2023,MD,Maryland,IPP,Independent Power Producers,NGIC,Natural Gas - IC,9.5,megawatts
+1905,2023,MD,Maryland,IPP,Independent Power Producers,NGST,Natural Gas - ST,1199.8,megawatts
+1906,2023,MD,Maryland,IPP,Independent Power Producers,NUC,Nuclear,1745.2,megawatts
+1907,2023,MD,Maryland,IPP,Independent Power Producers,OBM,Other Biomass,137.3,megawatts
+1908,2023,MD,Maryland,IPP,Independent Power Producers,PET,Petroleum,1582.4,megawatts
+1909,2023,MD,Maryland,IPP,Independent Power Producers,PETGT,Petroleum - GT,582.1,megawatts
+1910,2023,MD,Maryland,IPP,Independent Power Producers,PETIC,Petroleum - IC,19.3,megawatts
+1911,2023,MD,Maryland,IPP,Independent Power Producers,PETST,Petroleum - ST,981,megawatts
+1912,2023,MD,Maryland,IPP,Independent Power Producers,SOL,Solar,578.9,megawatts
+1913,2023,MD,Maryland,IPP,Independent Power Producers,SOLPV,Solar - PV,578.9,megawatts
+1914,2023,KS,Kansas,TOT,All sectors,SOLPV,Solar - PV,40.1,megawatts
+1915,2023,KS,Kansas,TOT,All sectors,WND,Wind,9042.7,megawatts
+1916,2023,KY,Kentucky,EU,Electric Utilities,ALL,All,17372.6,megawatts
+1917,2023,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+1918,2023,VA,Virginia,TOT,All sectors,OBM,Other Biomass,298.9,megawatts
+1919,2023,VA,Virginia,TOT,All sectors,PET,Petroleum,737.2,megawatts
+1920,2023,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,604.2,megawatts
+1921,2023,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,133,megawatts
+1922,2023,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3253.1,megawatts
+1923,2023,VA,Virginia,TOT,All sectors,SOL,Solar,3658.6,megawatts
+1924,2023,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,3658.6,megawatts
+1925,2023,VA,Virginia,TOT,All sectors,WND,Wind,12,megawatts
+1926,2023,VA,Virginia,TOT,All sectors,WOO,Wood,496.7,megawatts
+1927,2023,VT,Vermont,EU,Electric Utilities,ALL,All,422.4,megawatts
+1928,2023,VT,Vermont,EU,Electric Utilities,BAT,Battery,9,megawatts
+1929,2023,VT,Vermont,EU,Electric Utilities,HYC,Hydroelectric,118.7,megawatts
+1930,2023,VT,Vermont,EU,Electric Utilities,OBM,Other Biomass,7.5,megawatts
+1931,2023,VT,Vermont,EU,Electric Utilities,PET,Petroleum,126,megawatts
+1932,2023,VT,Vermont,EU,Electric Utilities,PETGT,Petroleum - GT,118.8,megawatts
+1933,2023,VT,Vermont,EU,Electric Utilities,PETIC,Petroleum - IC,7.2,megawatts
+1934,2023,VT,Vermont,EU,Electric Utilities,SOL,Solar,39,megawatts
+1935,2023,VT,Vermont,EU,Electric Utilities,SOLPV,Solar - PV,39,megawatts
+1936,2023,VT,Vermont,EU,Electric Utilities,WND,Wind,70.2,megawatts
+1937,2023,VT,Vermont,EU,Electric Utilities,WOO,Wood,52,megawatts
+1938,2023,VT,Vermont,IPP,Independent Power Producers,ALL,All,433.3,megawatts
+1939,2023,VT,Vermont,IPP,Independent Power Producers,BAT,Battery,11.9,megawatts
+1940,2023,CO,Colorado,TOT,All sectors,NGST,Natural Gas - ST,408,megawatts
+1941,2023,CO,Colorado,TOT,All sectors,OT,Other,9.1,megawatts
+1942,2023,CO,Colorado,TOT,All sectors,OBM,Other Biomass,16.1,megawatts
+1943,2023,CO,Colorado,TOT,All sectors,OOG,Other Gas,3,megawatts
+1944,2023,CO,Colorado,TOT,All sectors,PET,Petroleum,177.5,megawatts
+1945,2023,CO,Colorado,TOT,All sectors,PETGT,Petroleum - GT,127,megawatts
+1946,2023,CO,Colorado,TOT,All sectors,PETIC,Petroleum - IC,50.5,megawatts
+1947,2023,CO,Colorado,TOT,All sectors,HPS,Pumped Storage,590.4,megawatts
+1948,2023,CO,Colorado,TOT,All sectors,SOL,Solar,2173.4,megawatts
+1949,2023,CO,Colorado,TOT,All sectors,SOLPV,Solar - PV,2173.4,megawatts
+1950,2023,CO,Colorado,TOT,All sectors,WND,Wind,5336.7,megawatts
+1951,2023,CO,Colorado,TOT,All sectors,WOO,Wood,12.6,megawatts
+1952,2023,CT,Connecticut,EU,Electric Utilities,ALL,All,153.4,megawatts
+1953,2023,CT,Connecticut,EU,Electric Utilities,HYC,Hydroelectric,9,megawatts
+1954,2023,CT,Connecticut,EU,Electric Utilities,NG,Natural Gas,88.7,megawatts
+1955,2023,CT,Connecticut,EU,Electric Utilities,NGGT,Natural Gas - GT,74.1,megawatts
+1956,2023,CT,Connecticut,EU,Electric Utilities,NGOTH,Natural Gas - OTH,14.6,megawatts
+1957,2023,CT,Connecticut,EU,Electric Utilities,PET,Petroleum,53.5,megawatts
+1958,2023,CT,Connecticut,EU,Electric Utilities,PETIC,Petroleum - IC,53.5,megawatts
+1959,2023,CT,Connecticut,EU,Electric Utilities,SOL,Solar,2.2,megawatts
+1960,2023,CT,Connecticut,EU,Electric Utilities,SOLPV,Solar - PV,2.2,megawatts
+1961,2023,CT,Connecticut,IPP,Independent Power Producers,ALL,All,9782.5,megawatts
+1962,2023,CT,Connecticut,IPP,Independent Power Producers,BAT,Battery,1.6,megawatts
+1963,2023,CT,Connecticut,IPP,Independent Power Producers,HYC,Hydroelectric,110.2,megawatts
+1964,2023,CT,Connecticut,IPP,Independent Power Producers,NG,Natural Gas,4975.1,megawatts
+1965,2023,CT,Connecticut,IPP,Independent Power Producers,NGCC,Natural Gas - CC,3923,megawatts
+1966,2023,CT,Connecticut,IPP,Independent Power Producers,NGGT,Natural Gas - GT,509.9,megawatts
+1967,2023,CT,Connecticut,IPP,Independent Power Producers,NGIC,Natural Gas - IC,15.7,megawatts
+1968,2023,CT,Connecticut,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,69.4,megawatts
+1969,2023,CT,Connecticut,IPP,Independent Power Producers,NGST,Natural Gas - ST,457.1,megawatts
+1970,2023,CT,Connecticut,IPP,Independent Power Producers,NUC,Nuclear,2081.2,megawatts
+1971,2023,CT,Connecticut,IPP,Independent Power Producers,OBM,Other Biomass,102.1,megawatts
+1972,2023,CT,Connecticut,IPP,Independent Power Producers,PET,Petroleum,2155.2,megawatts
+1973,2023,CT,Connecticut,IPP,Independent Power Producers,PETGT,Petroleum - GT,895.7,megawatts
+1974,2023,CT,Connecticut,IPP,Independent Power Producers,PETIC,Petroleum - IC,16.9,megawatts
+1975,2023,CT,Connecticut,IPP,Independent Power Producers,PETST,Petroleum - ST,1242.6,megawatts
+1976,2023,CT,Connecticut,IPP,Independent Power Producers,HPS,Pumped Storage,29.4,megawatts
+1977,2023,CT,Connecticut,IPP,Independent Power Producers,SOL,Solar,285.2,megawatts
+1978,2023,CT,Connecticut,IPP,Independent Power Producers,SOLPV,Solar - PV,285.2,megawatts
+1979,2023,CT,Connecticut,IPP,Independent Power Producers,WND,Wind,5,megawatts
+1980,2023,CT,Connecticut,IPP,Independent Power Producers,WOO,Wood,37.5,megawatts
+1981,2023,CT,Connecticut,TOT,All sectors,ALL,All,9935.9,megawatts
+1982,2023,CT,Connecticut,TOT,All sectors,BAT,Battery,1.6,megawatts
+1983,2023,CT,Connecticut,TOT,All sectors,HYC,Hydroelectric,119.2,megawatts
+1984,2023,CT,Connecticut,TOT,All sectors,NG,Natural Gas,5063.8,megawatts
+1985,2023,CT,Connecticut,TOT,All sectors,NGCC,Natural Gas - CC,3923,megawatts
+1986,2023,CT,Connecticut,TOT,All sectors,NGGT,Natural Gas - GT,584,megawatts
+1987,2023,CT,Connecticut,TOT,All sectors,NGIC,Natural Gas - IC,15.7,megawatts
+1988,2023,CT,Connecticut,TOT,All sectors,NGOTH,Natural Gas - OTH,84,megawatts
+1989,2023,CT,Connecticut,TOT,All sectors,NGST,Natural Gas - ST,457.1,megawatts
+1990,2023,CT,Connecticut,TOT,All sectors,NUC,Nuclear,2081.2,megawatts
+1991,2023,CT,Connecticut,TOT,All sectors,OBM,Other Biomass,102.1,megawatts
+1992,2023,CT,Connecticut,TOT,All sectors,PET,Petroleum,2208.7,megawatts
+1993,2023,CT,Connecticut,TOT,All sectors,PETGT,Petroleum - GT,895.7,megawatts
+1994,2023,CT,Connecticut,TOT,All sectors,PETIC,Petroleum - IC,70.4,megawatts
+1995,2023,CT,Connecticut,TOT,All sectors,PETST,Petroleum - ST,1242.6,megawatts
+1996,2023,CT,Connecticut,TOT,All sectors,HPS,Pumped Storage,29.4,megawatts
+1997,2023,CT,Connecticut,TOT,All sectors,SOL,Solar,287.4,megawatts
+1998,2023,CT,Connecticut,TOT,All sectors,SOLPV,Solar - PV,287.4,megawatts
+1999,2023,CT,Connecticut,TOT,All sectors,WND,Wind,5,megawatts
+2000,2023,CT,Connecticut,TOT,All sectors,WOO,Wood,37.5,megawatts
+2001,2023,DC,District of Columbia,EU,Electric Utilities,ALL,All,2,megawatts
+2002,2023,DC,District of Columbia,EU,Electric Utilities,SOL,Solar,2,megawatts
+2003,2023,DC,District of Columbia,EU,Electric Utilities,SOLPV,Solar - PV,2,megawatts
+2004,2023,DC,District of Columbia,IPP,Independent Power Producers,ALL,All,50.2,megawatts
+2005,2023,DC,District of Columbia,IPP,Independent Power Producers,NG,Natural Gas,20.6,megawatts
+2006,2023,DC,District of Columbia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,20.6,megawatts
+2007,2023,DC,District of Columbia,IPP,Independent Power Producers,OBM,Other Biomass,12,megawatts
+2008,2023,DC,District of Columbia,IPP,Independent Power Producers,SOL,Solar,17.6,megawatts
+2009,2023,DC,District of Columbia,IPP,Independent Power Producers,SOLPV,Solar - PV,17.6,megawatts
+2010,2023,DC,District of Columbia,TOT,All sectors,ALL,All,52.2,megawatts
+2011,2023,DC,District of Columbia,TOT,All sectors,NG,Natural Gas,20.6,megawatts
+2012,2023,DC,District of Columbia,TOT,All sectors,NGGT,Natural Gas - GT,20.6,megawatts
+2013,2023,DC,District of Columbia,TOT,All sectors,OBM,Other Biomass,12,megawatts
+2014,2023,DC,District of Columbia,TOT,All sectors,SOL,Solar,19.6,megawatts
+2015,2023,DC,District of Columbia,TOT,All sectors,SOLPV,Solar - PV,19.6,megawatts
+2016,2023,DE,Delaware,EU,Electric Utilities,ALL,All,101.9,megawatts
+2017,2023,DE,Delaware,EU,Electric Utilities,NG,Natural Gas,98,megawatts
+2018,2023,DE,Delaware,EU,Electric Utilities,NGGT,Natural Gas - GT,98,megawatts
+2019,2023,DE,Delaware,EU,Electric Utilities,SOL,Solar,3.9,megawatts
+2020,2023,DE,Delaware,EU,Electric Utilities,SOLPV,Solar - PV,3.9,megawatts
+2021,2023,DE,Delaware,IPP,Independent Power Producers,ALL,All,3193.6,megawatts
+2022,2023,DE,Delaware,IPP,Independent Power Producers,COL,Coal,410,megawatts
+2023,2023,DE,Delaware,IPP,Independent Power Producers,NG,Natural Gas,2435.8,megawatts
+2024,2023,DE,Delaware,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1496,megawatts
+2025,2023,DE,Delaware,IPP,Independent Power Producers,NGGT,Natural Gas - GT,216,megawatts
+2026,2023,DE,Delaware,IPP,Independent Power Producers,NGOTH,Natural Gas - OTH,28.8,megawatts
+2027,2023,DE,Delaware,IPP,Independent Power Producers,NGST,Natural Gas - ST,695,megawatts
+2028,2023,DE,Delaware,IPP,Independent Power Producers,OBM,Other Biomass,14.2,megawatts
+2029,2023,DE,Delaware,IPP,Independent Power Producers,OOG,Other Gas,135,megawatts
+2030,2023,DE,Delaware,IPP,Independent Power Producers,PET,Petroleum,111.1,megawatts
+2031,2023,DE,Delaware,IPP,Independent Power Producers,PETGT,Petroleum - GT,111.1,megawatts
+2032,2023,DE,Delaware,IPP,Independent Power Producers,SOL,Solar,85.5,megawatts
+2033,2023,DE,Delaware,IPP,Independent Power Producers,SOLPV,Solar - PV,85.5,megawatts
+2034,2023,DE,Delaware,IPP,Independent Power Producers,WND,Wind,2,megawatts
+2035,2023,DE,Delaware,TOT,All sectors,ALL,All,3295.5,megawatts
+2036,2023,DE,Delaware,TOT,All sectors,COL,Coal,410,megawatts
+2037,2023,DE,Delaware,TOT,All sectors,NG,Natural Gas,2533.8,megawatts
+2038,2023,DE,Delaware,TOT,All sectors,NGCC,Natural Gas - CC,1496,megawatts
+2039,2023,DE,Delaware,TOT,All sectors,NGGT,Natural Gas - GT,314,megawatts
+2040,2023,DE,Delaware,TOT,All sectors,NGOTH,Natural Gas - OTH,28.8,megawatts
+2041,2023,DE,Delaware,TOT,All sectors,NGST,Natural Gas - ST,695,megawatts
+2042,2023,DE,Delaware,TOT,All sectors,OBM,Other Biomass,14.2,megawatts
+2043,2023,DE,Delaware,TOT,All sectors,OOG,Other Gas,135,megawatts
+2044,2023,DE,Delaware,TOT,All sectors,PET,Petroleum,111.1,megawatts
+2045,2023,DE,Delaware,TOT,All sectors,PETGT,Petroleum - GT,111.1,megawatts
+2046,2023,DE,Delaware,TOT,All sectors,SOL,Solar,89.4,megawatts
+2047,2023,DE,Delaware,TOT,All sectors,SOLPV,Solar - PV,89.4,megawatts
+2048,2023,DE,Delaware,TOT,All sectors,WND,Wind,2,megawatts
+2049,2023,FL,Florida,EU,Electric Utilities,ALL,All,63158.9,megawatts
+2050,2023,FL,Florida,EU,Electric Utilities,BAT,Battery,555.7,megawatts
+2051,2023,FL,Florida,EU,Electric Utilities,COL,Coal,3989.7,megawatts
+2052,2023,FL,Florida,EU,Electric Utilities,HYC,Hydroelectric,43.5,megawatts
+2053,2023,FL,Florida,EU,Electric Utilities,NG,Natural Gas,45939.2,megawatts
+2054,2023,FL,Florida,EU,Electric Utilities,NGCC,Natural Gas - CC,34286.5,megawatts
+2055,2023,FL,Florida,EU,Electric Utilities,NGGT,Natural Gas - GT,6521.1,megawatts
+2056,2023,FL,Florida,EU,Electric Utilities,NGIC,Natural Gas - IC,141.7,megawatts
+2057,2023,FL,Florida,EU,Electric Utilities,NGST,Natural Gas - ST,4989.9,megawatts
+2058,2023,FL,Florida,EU,Electric Utilities,NUC,Nuclear,3666,megawatts
+2059,2023,FL,Florida,EU,Electric Utilities,OBM,Other Biomass,3,megawatts
+2060,2023,FL,Florida,EU,Electric Utilities,PET,Petroleum,1608.9,megawatts
+2061,2023,FL,Florida,EU,Electric Utilities,PETGT,Petroleum - GT,1513.5,megawatts
+2062,2023,FL,Florida,EU,Electric Utilities,PETIC,Petroleum - IC,95.4,megawatts
+2063,2023,FL,Florida,EU,Electric Utilities,SOL,Solar,7250.4,megawatts
+2064,2023,FL,Florida,EU,Electric Utilities,SOLPV,Solar - PV,7250.4,megawatts
+2065,2023,FL,Florida,EU,Electric Utilities,WOO,Wood,102.5,megawatts
+2066,2023,FL,Florida,IPP,Independent Power Producers,ALL,All,5564,megawatts
+2067,2023,FL,Florida,IPP,Independent Power Producers,BAT,Battery,5,megawatts
+2068,2023,FL,Florida,IPP,Independent Power Producers,NG,Natural Gas,3796.1,megawatts
+2069,2023,FL,Florida,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1456.5,megawatts
+2070,2023,FL,Florida,IPP,Independent Power Producers,NGGT,Natural Gas - GT,2269.9,megawatts
+2071,2023,FL,Florida,IPP,Independent Power Producers,NGIC,Natural Gas - IC,33.7,megawatts
+2072,2023,FL,Florida,IPP,Independent Power Producers,NGST,Natural Gas - ST,36,megawatts
+2073,2023,FL,Florida,IPP,Independent Power Producers,OT,Other,312.9,megawatts
+2074,2023,FL,Florida,IPP,Independent Power Producers,OBM,Other Biomass,628.4,megawatts
+2075,2023,FL,Florida,IPP,Independent Power Producers,PET,Petroleum,2,megawatts
+2076,2023,FL,Florida,IPP,Independent Power Producers,PETIC,Petroleum - IC,2,megawatts
+2077,2023,FL,Florida,IPP,Independent Power Producers,SOL,Solar,551.9,megawatts
+2078,2023,FL,Florida,IPP,Independent Power Producers,SOLPV,Solar - PV,551.9,megawatts
+2079,2023,FL,Florida,IPP,Independent Power Producers,WOO,Wood,267.7,megawatts
+2080,2023,FL,Florida,TOT,All sectors,ALL,All,68722.9,megawatts
+2081,2023,FL,Florida,TOT,All sectors,BAT,Battery,560.7,megawatts
+2082,2023,FL,Florida,TOT,All sectors,COL,Coal,3989.7,megawatts
+2083,2023,FL,Florida,TOT,All sectors,HYC,Hydroelectric,43.5,megawatts
+2084,2023,FL,Florida,TOT,All sectors,NG,Natural Gas,49735.3,megawatts
+2085,2023,FL,Florida,TOT,All sectors,NGCC,Natural Gas - CC,35743,megawatts
+2086,2023,FL,Florida,TOT,All sectors,NGGT,Natural Gas - GT,8791,megawatts
+2087,2023,FL,Florida,TOT,All sectors,NGIC,Natural Gas - IC,175.4,megawatts
+2088,2023,FL,Florida,TOT,All sectors,NGST,Natural Gas - ST,5025.9,megawatts
+2089,2023,FL,Florida,TOT,All sectors,NUC,Nuclear,3666,megawatts
+2090,2023,FL,Florida,TOT,All sectors,OT,Other,312.9,megawatts
+2091,2023,FL,Florida,TOT,All sectors,OBM,Other Biomass,631.4,megawatts
+2092,2023,FL,Florida,TOT,All sectors,PET,Petroleum,1610.9,megawatts
+2093,2023,FL,Florida,TOT,All sectors,PETGT,Petroleum - GT,1513.5,megawatts
+2094,2023,FL,Florida,TOT,All sectors,PETIC,Petroleum - IC,97.4,megawatts
+2095,2023,FL,Florida,TOT,All sectors,SOL,Solar,7802.3,megawatts
+2096,2023,FL,Florida,TOT,All sectors,SOLPV,Solar - PV,7802.3,megawatts
+2097,2023,FL,Florida,TOT,All sectors,WOO,Wood,370.2,megawatts
+2098,2023,GA,Georgia,EU,Electric Utilities,ALL,All,26480.8,megawatts
+2099,2023,GA,Georgia,EU,Electric Utilities,BAT,Battery,.2,megawatts
+2100,2023,GA,Georgia,EU,Electric Utilities,COL,Coal,5780,megawatts
+2101,2023,GA,Georgia,EU,Electric Utilities,HYC,Hydroelectric,1976.4,megawatts
+2102,2023,GA,Georgia,EU,Electric Utilities,NG,Natural Gas,10353.8,megawatts
+2103,2023,GA,Georgia,EU,Electric Utilities,NGCC,Natural Gas - CC,6579.2,megawatts
+2104,2023,GA,Georgia,EU,Electric Utilities,NGGT,Natural Gas - GT,3050,megawatts
+2105,2023,GA,Georgia,EU,Electric Utilities,NGIC,Natural Gas - IC,.4,megawatts
+2106,2023,GA,Georgia,EU,Electric Utilities,NGOTH,Natural Gas - OTH,.2,megawatts
+2107,2023,GA,Georgia,EU,Electric Utilities,NGST,Natural Gas - ST,724,megawatts
+2108,2023,GA,Georgia,EU,Electric Utilities,NUC,Nuclear,5175,megawatts
+2109,2023,GA,Georgia,EU,Electric Utilities,PET,Petroleum,938.1,megawatts
+2110,2023,GA,Georgia,EU,Electric Utilities,PETGT,Petroleum - GT,933,megawatts
+2111,2023,GA,Georgia,EU,Electric Utilities,PETIC,Petroleum - IC,5.1,megawatts
+2112,2023,GA,Georgia,EU,Electric Utilities,HPS,Pumped Storage,1897.4,megawatts
+2113,2023,GA,Georgia,EU,Electric Utilities,SOL,Solar,359.9,megawatts
+2114,2023,GA,Georgia,EU,Electric Utilities,SOLPV,Solar - PV,359.9,megawatts
+2115,2023,GA,Georgia,IPP,Independent Power Producers,ALL,All,11304.9,megawatts
+2116,2023,GA,Georgia,IPP,Independent Power Producers,BAT,Battery,81,megawatts
+2117,2023,GA,Georgia,IPP,Independent Power Producers,HYC,Hydroelectric,8.6,megawatts
+2118,2023,GA,Georgia,IPP,Independent Power Producers,NG,Natural Gas,6132.4,megawatts
+2119,2023,GA,Georgia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1487.8,megawatts
+2120,2023,GA,Georgia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,4519.1,megawatts
+2121,2023,GA,Georgia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,6.6,megawatts
+2122,2023,GA,Georgia,IPP,Independent Power Producers,NGST,Natural Gas - ST,118.9,megawatts
+2123,2023,GA,Georgia,IPP,Independent Power Producers,OBM,Other Biomass,55.8,megawatts
+2124,2023,GA,Georgia,IPP,Independent Power Producers,PET,Petroleum,252.7,megawatts
+2125,2023,GA,Georgia,IPP,Independent Power Producers,PETGT,Petroleum - GT,74,megawatts
+2126,2023,GA,Georgia,IPP,Independent Power Producers,PETIC,Petroleum - IC,94.9,megawatts
+2127,2023,GA,Georgia,IPP,Independent Power Producers,PETST,Petroleum - ST,83.8,megawatts
+2128,2023,GA,Georgia,IPP,Independent Power Producers,SOL,Solar,3763.1,megawatts
+2129,2023,GA,Georgia,IPP,Independent Power Producers,SOLPV,Solar - PV,3763.1,megawatts
+2130,2023,GA,Georgia,IPP,Independent Power Producers,WOO,Wood,1011.3,megawatts
+2131,2023,GA,Georgia,TOT,All sectors,ALL,All,37785.7,megawatts
+2132,2023,GA,Georgia,TOT,All sectors,BAT,Battery,81.2,megawatts
+2133,2023,GA,Georgia,TOT,All sectors,COL,Coal,5780,megawatts
+2134,2023,GA,Georgia,TOT,All sectors,HYC,Hydroelectric,1985,megawatts
+2135,2023,GA,Georgia,TOT,All sectors,NG,Natural Gas,16486.2,megawatts
+2136,2023,GA,Georgia,TOT,All sectors,NGCC,Natural Gas - CC,8067,megawatts
+2137,2023,GA,Georgia,TOT,All sectors,NGGT,Natural Gas - GT,7569.1,megawatts
+2138,2023,GA,Georgia,TOT,All sectors,NGIC,Natural Gas - IC,7,megawatts
+2139,2023,GA,Georgia,TOT,All sectors,NGOTH,Natural Gas - OTH,.2,megawatts
+2140,2023,GA,Georgia,TOT,All sectors,NGST,Natural Gas - ST,842.9,megawatts
+2141,2023,GA,Georgia,TOT,All sectors,NUC,Nuclear,5175,megawatts
+2142,2023,GA,Georgia,TOT,All sectors,OBM,Other Biomass,55.8,megawatts
+2143,2023,GA,Georgia,TOT,All sectors,PET,Petroleum,1190.8,megawatts
+2144,2023,GA,Georgia,TOT,All sectors,PETGT,Petroleum - GT,1007,megawatts
+2145,2023,GA,Georgia,TOT,All sectors,PETIC,Petroleum - IC,100,megawatts
+2146,2023,GA,Georgia,TOT,All sectors,PETST,Petroleum - ST,83.8,megawatts
+2147,2023,GA,Georgia,TOT,All sectors,HPS,Pumped Storage,1897.4,megawatts
+2148,2023,GA,Georgia,TOT,All sectors,SOL,Solar,4123,megawatts
+2149,2023,GA,Georgia,TOT,All sectors,SOLPV,Solar - PV,4123,megawatts
+2150,2023,GA,Georgia,TOT,All sectors,WOO,Wood,1011.3,megawatts
+2151,2023,HI,Hawaii,EU,Electric Utilities,ALL,All,1802.3,megawatts
+2152,2023,HI,Hawaii,EU,Electric Utilities,BAT,Battery,2,megawatts
+2153,2023,HI,Hawaii,EU,Electric Utilities,HYC,Hydroelectric,4.1,megawatts
+2154,2023,HI,Hawaii,EU,Electric Utilities,OT,Other,27.5,megawatts
+2155,2023,HI,Hawaii,EU,Electric Utilities,OBM,Other Biomass,60.4,megawatts
+2156,2023,HI,Hawaii,EU,Electric Utilities,PET,Petroleum,1664.3,megawatts
+2157,2023,HI,Hawaii,EU,Electric Utilities,PETGT,Petroleum - GT,304.3,megawatts
+2158,2023,HI,Hawaii,EU,Electric Utilities,PETIC,Petroleum - IC,183,megawatts
+2159,2023,HI,Hawaii,EU,Electric Utilities,PETOTH,Petroleum - OTH,158.8,megawatts
+2160,2023,HI,Hawaii,EU,Electric Utilities,PETST,Petroleum - ST,1018.2,megawatts
+2161,2023,HI,Hawaii,EU,Electric Utilities,SOL,Solar,44,megawatts
+2162,2023,HI,Hawaii,EU,Electric Utilities,SOLPV,Solar - PV,44,megawatts
+2163,2023,HI,Hawaii,IPP,Independent Power Producers,ALL,All,1419.7,megawatts
+2164,2023,HI,Hawaii,IPP,Independent Power Producers,BAT,Battery,357.9,megawatts
+2165,2023,HI,Hawaii,IPP,Independent Power Producers,GEO,Geothermal,43,megawatts
+2166,2023,HI,Hawaii,IPP,Independent Power Producers,HYC,Hydroelectric,28.3,megawatts
+2167,2023,HI,Hawaii,IPP,Independent Power Producers,OBM,Other Biomass,86,megawatts
+2168,2023,HI,Hawaii,IPP,Independent Power Producers,PET,Petroleum,315.6,megawatts
+2169,2023,HI,Hawaii,IPP,Independent Power Producers,PETGT,Petroleum - GT,32.8,megawatts
+2170,2023,HI,Hawaii,IPP,Independent Power Producers,PETIC,Petroleum - IC,2,megawatts
+2171,2023,HI,Hawaii,IPP,Independent Power Producers,PETOTH,Petroleum - OTH,280.8,megawatts
+2172,2023,HI,Hawaii,IPP,Independent Power Producers,SOL,Solar,348.2,megawatts
+2173,2023,HI,Hawaii,IPP,Independent Power Producers,SOLPV,Solar - PV,348.2,megawatts
+2174,2023,HI,Hawaii,IPP,Independent Power Producers,WND,Wind,233.2,megawatts
+2175,2023,HI,Hawaii,IPP,Independent Power Producers,WOO,Wood,7.5,megawatts
+2176,2023,HI,Hawaii,TOT,All sectors,ALL,All,3222,megawatts
+2177,2023,HI,Hawaii,TOT,All sectors,BAT,Battery,359.9,megawatts
+2178,2023,HI,Hawaii,TOT,All sectors,GEO,Geothermal,43,megawatts
+2179,2023,HI,Hawaii,TOT,All sectors,HYC,Hydroelectric,32.4,megawatts
+2180,2023,HI,Hawaii,TOT,All sectors,OT,Other,27.5,megawatts
+2181,2023,HI,Hawaii,TOT,All sectors,OBM,Other Biomass,146.4,megawatts
+2182,2023,HI,Hawaii,TOT,All sectors,PET,Petroleum,1979.9,megawatts
+2183,2023,HI,Hawaii,TOT,All sectors,PETGT,Petroleum - GT,337.1,megawatts
+2184,2023,HI,Hawaii,TOT,All sectors,PETIC,Petroleum - IC,185,megawatts
+2185,2023,HI,Hawaii,TOT,All sectors,PETOTH,Petroleum - OTH,439.6,megawatts
+2186,2023,HI,Hawaii,TOT,All sectors,PETST,Petroleum - ST,1018.2,megawatts
+2187,2023,HI,Hawaii,TOT,All sectors,SOL,Solar,392.2,megawatts
+2188,2023,HI,Hawaii,TOT,All sectors,SOLPV,Solar - PV,392.2,megawatts
+2189,2023,HI,Hawaii,TOT,All sectors,WND,Wind,233.2,megawatts
+2190,2023,HI,Hawaii,TOT,All sectors,WOO,Wood,7.5,megawatts
+2191,2023,IA,Iowa,EU,Electric Utilities,ALL,All,18017.6,megawatts
+2192,2023,IA,Iowa,EU,Electric Utilities,BAT,Battery,8.9,megawatts
+2193,2023,IA,Iowa,EU,Electric Utilities,COL,Coal,4412.9,megawatts
+2194,2023,IA,Iowa,EU,Electric Utilities,HYC,Hydroelectric,208.2,megawatts
+2195,2023,IA,Iowa,EU,Electric Utilities,NG,Natural Gas,3470.6,megawatts
+2196,2023,IA,Iowa,EU,Electric Utilities,NGCC,Natural Gas - CC,1693.9,megawatts
+2197,2023,IA,Iowa,EU,Electric Utilities,NGGT,Natural Gas - GT,1167.1,megawatts
+2198,2023,IA,Iowa,EU,Electric Utilities,NGIC,Natural Gas - IC,154.3,megawatts
+2199,2023,IA,Iowa,EU,Electric Utilities,NGST,Natural Gas - ST,455.3,megawatts
+2200,2023,IA,Iowa,EU,Electric Utilities,PET,Petroleum,690.7,megawatts
+2201,2023,IA,Iowa,EU,Electric Utilities,PETGT,Petroleum - GT,201.9,megawatts
+2202,2023,IA,Iowa,EU,Electric Utilities,PETIC,Petroleum - IC,488.8,megawatts
+2203,2023,IA,Iowa,EU,Electric Utilities,SOL,Solar,149.6,megawatts
+2204,2023,IA,Iowa,EU,Electric Utilities,SOLPV,Solar - PV,149.6,megawatts
+2205,2023,IA,Iowa,EU,Electric Utilities,WND,Wind,9076.7,megawatts
+2206,2023,IA,Iowa,IPP,Independent Power Producers,ALL,All,4688.8,megawatts
+2207,2023,IA,Iowa,IPP,Independent Power Producers,COL,Coal,447.9,megawatts
+2208,2023,IA,Iowa,IPP,Independent Power Producers,HYC,Hydroelectric,1.2,megawatts
+2209,2023,IA,Iowa,IPP,Independent Power Producers,NG,Natural Gas,233.1,megawatts
+2210,2023,IA,Iowa,IPP,Independent Power Producers,NGCC,Natural Gas - CC,48,megawatts
+2211,2023,IA,Iowa,IPP,Independent Power Producers,NGGT,Natural Gas - GT,43.5,megawatts
+2212,2023,IA,Iowa,IPP,Independent Power Producers,NGIC,Natural Gas - IC,11.8,megawatts
+2213,2023,IA,Iowa,IPP,Independent Power Producers,NGST,Natural Gas - ST,129.8,megawatts
+2214,2023,IA,Iowa,IPP,Independent Power Producers,OBM,Other Biomass,20.6,megawatts
+2215,2023,IA,Iowa,IPP,Independent Power Producers,PET,Petroleum,146.5,megawatts
+2216,2023,IA,Iowa,IPP,Independent Power Producers,PETIC,Petroleum - IC,114.5,megawatts
+2217,2023,IA,Iowa,IPP,Independent Power Producers,PETST,Petroleum - ST,32,megawatts
+2218,2023,IA,Iowa,IPP,Independent Power Producers,SOL,Solar,112.4,megawatts
+2219,2023,IA,Iowa,IPP,Independent Power Producers,SOLPV,Solar - PV,112.4,megawatts
+2220,2023,IA,Iowa,IPP,Independent Power Producers,WND,Wind,3727.1,megawatts
+2221,2023,IA,Iowa,TOT,All sectors,ALL,All,22706.4,megawatts
+2222,2023,IA,Iowa,TOT,All sectors,BAT,Battery,8.9,megawatts
+2223,2023,IA,Iowa,TOT,All sectors,COL,Coal,4860.8,megawatts
+2224,2023,IA,Iowa,TOT,All sectors,HYC,Hydroelectric,209.4,megawatts
+2225,2023,IA,Iowa,TOT,All sectors,NG,Natural Gas,3703.7,megawatts
+2226,2023,IA,Iowa,TOT,All sectors,NGCC,Natural Gas - CC,1741.9,megawatts
+2227,2023,IA,Iowa,TOT,All sectors,NGGT,Natural Gas - GT,1210.6,megawatts
+2228,2023,IA,Iowa,TOT,All sectors,NGIC,Natural Gas - IC,166.1,megawatts
+2229,2023,IA,Iowa,TOT,All sectors,NGST,Natural Gas - ST,585.1,megawatts
+2230,2023,IA,Iowa,TOT,All sectors,OBM,Other Biomass,20.6,megawatts
+2231,2023,IA,Iowa,TOT,All sectors,PET,Petroleum,837.2,megawatts
+2232,2023,IA,Iowa,TOT,All sectors,PETGT,Petroleum - GT,201.9,megawatts
+2233,2023,IA,Iowa,TOT,All sectors,PETIC,Petroleum - IC,603.3,megawatts
+2234,2023,IA,Iowa,TOT,All sectors,PETST,Petroleum - ST,32,megawatts
+2235,2023,IA,Iowa,TOT,All sectors,SOL,Solar,262,megawatts
+2236,2023,IA,Iowa,TOT,All sectors,SOLPV,Solar - PV,262,megawatts
+2237,2023,IA,Iowa,TOT,All sectors,WND,Wind,12803.8,megawatts
+2238,2023,ID,Idaho,EU,Electric Utilities,ALL,All,3547,megawatts
+2239,2023,ID,Idaho,EU,Electric Utilities,HYC,Hydroelectric,2393.2,megawatts
+2240,2023,ID,Idaho,EU,Electric Utilities,NG,Natural Gas,967.6,megawatts
+2241,2023,ID,Idaho,EU,Electric Utilities,NGCC,Natural Gas - CC,353,megawatts
+2242,2023,ID,Idaho,EU,Electric Utilities,NGGT,Natural Gas - GT,614.6,megawatts
+2243,2023,ID,Idaho,EU,Electric Utilities,OBM,Other Biomass,3.2,megawatts
+2244,2023,ID,Idaho,EU,Electric Utilities,PET,Petroleum,5.4,megawatts
+2245,2023,ID,Idaho,EU,Electric Utilities,PETIC,Petroleum - IC,5.4,megawatts
+2246,2023,ID,Idaho,EU,Electric Utilities,SOL,Solar,120,megawatts
+2247,2023,ID,Idaho,EU,Electric Utilities,SOLPV,Solar - PV,120,megawatts
+2248,2023,ID,Idaho,EU,Electric Utilities,WND,Wind,57.6,megawatts
+2249,2023,ID,Idaho,IPP,Independent Power Producers,ALL,All,1805.6,megawatts
+2250,2023,ID,Idaho,IPP,Independent Power Producers,GEO,Geothermal,10,megawatts
+2251,2023,ID,Idaho,IPP,Independent Power Producers,HYC,Hydroelectric,237.6,megawatts
+2252,2023,ID,Idaho,IPP,Independent Power Producers,NG,Natural Gas,269.3,megawatts
+2253,2023,ID,Idaho,IPP,Independent Power Producers,NGCC,Natural Gas - CC,248,megawatts
+2254,2023,ID,Idaho,IPP,Independent Power Producers,NGGT,Natural Gas - GT,4.6,megawatts
+2255,2023,ID,Idaho,IPP,Independent Power Producers,NGST,Natural Gas - ST,16.7,megawatts
+2256,2023,ID,Idaho,IPP,Independent Power Producers,OT,Other,14.8,megawatts
+2257,2023,ID,Idaho,IPP,Independent Power Producers,OBM,Other Biomass,15.1,megawatts
+2258,2023,ID,Idaho,IPP,Independent Power Producers,SOL,Solar,282,megawatts
+2259,2023,ID,Idaho,IPP,Independent Power Producers,SOLPV,Solar - PV,282,megawatts
+2260,2023,ID,Idaho,IPP,Independent Power Producers,WND,Wind,910.7,megawatts
+2261,2023,ID,Idaho,IPP,Independent Power Producers,WOO,Wood,66.1,megawatts
+2262,2023,ID,Idaho,TOT,All sectors,ALL,All,5352.6,megawatts
+2263,2023,ID,Idaho,TOT,All sectors,GEO,Geothermal,10,megawatts
+2264,2023,ID,Idaho,TOT,All sectors,HYC,Hydroelectric,2630.8,megawatts
+2265,2023,ID,Idaho,TOT,All sectors,NG,Natural Gas,1236.9,megawatts
+2266,2023,ID,Idaho,TOT,All sectors,NGCC,Natural Gas - CC,601,megawatts
+2267,2023,ID,Idaho,TOT,All sectors,NGGT,Natural Gas - GT,619.2,megawatts
+2268,2023,ID,Idaho,TOT,All sectors,NGST,Natural Gas - ST,16.7,megawatts
+2269,2023,ID,Idaho,TOT,All sectors,OT,Other,14.8,megawatts
+2270,2023,ID,Idaho,TOT,All sectors,OBM,Other Biomass,18.3,megawatts
+2271,2023,ID,Idaho,TOT,All sectors,PET,Petroleum,5.4,megawatts
+2272,2023,ID,Idaho,TOT,All sectors,PETIC,Petroleum - IC,5.4,megawatts
+2273,2023,ID,Idaho,TOT,All sectors,SOL,Solar,402,megawatts
+2274,2023,ID,Idaho,TOT,All sectors,SOLPV,Solar - PV,402,megawatts
+2275,2023,ID,Idaho,TOT,All sectors,WND,Wind,968.3,megawatts
+2276,2023,ID,Idaho,TOT,All sectors,WOO,Wood,66.1,megawatts
+2277,2023,IL,Illinois,EU,Electric Utilities,ALL,All,3864.2,megawatts
+2278,2023,IL,Illinois,EU,Electric Utilities,BAT,Battery,.3,megawatts
+2279,2023,IL,Illinois,EU,Electric Utilities,COL,Coal,483.7,megawatts
+2280,2023,IL,Illinois,EU,Electric Utilities,HYC,Hydroelectric,12,megawatts
+2281,2023,IL,Illinois,EU,Electric Utilities,NG,Natural Gas,3012.3,megawatts
+2282,2023,IL,Illinois,EU,Electric Utilities,NGCC,Natural Gas - CC,589.9,megawatts
+2283,2023,IL,Illinois,EU,Electric Utilities,NGGT,Natural Gas - GT,2288.8,megawatts
+2284,2023,IL,Illinois,EU,Electric Utilities,NGIC,Natural Gas - IC,105.4,megawatts
+2285,2023,IL,Illinois,EU,Electric Utilities,NGST,Natural Gas - ST,28.2,megawatts
+2286,2023,IL,Illinois,EU,Electric Utilities,OBM,Other Biomass,13.4,megawatts
+2287,2023,IL,Illinois,EU,Electric Utilities,PET,Petroleum,334.9,megawatts
+2288,2023,IL,Illinois,EU,Electric Utilities,PETGT,Petroleum - GT,57.6,megawatts
+2289,2023,IL,Illinois,EU,Electric Utilities,PETIC,Petroleum - IC,277.3,megawatts
+2290,2023,IL,Illinois,EU,Electric Utilities,SOL,Solar,1.3,megawatts
+2291,2023,IL,Illinois,EU,Electric Utilities,SOLPV,Solar - PV,1.3,megawatts
+2292,2023,IL,Illinois,EU,Electric Utilities,WND,Wind,6.3,megawatts
+2293,2023,IL,Illinois,IPP,Independent Power Producers,ALL,All,41555,megawatts
+2294,2023,IL,Illinois,IPP,Independent Power Producers,BAT,Battery,95.8,megawatts
+2295,2023,IL,Illinois,IPP,Independent Power Producers,COL,Coal,6369.8,megawatts
+2296,2023,IL,Illinois,IPP,Independent Power Producers,HYC,Hydroelectric,20.9,megawatts
+2297,2023,IL,Illinois,IPP,Independent Power Producers,NG,Natural Gas,13904.8,megawatts
+2298,2023,IL,Illinois,IPP,Independent Power Producers,NGCC,Natural Gas - CC,5233.2,megawatts
+2299,2023,IL,Illinois,IPP,Independent Power Producers,NGGT,Natural Gas - GT,8432.2,megawatts
+2300,2023,IL,Illinois,IPP,Independent Power Producers,NGIC,Natural Gas - IC,79.1,megawatts
+2301,2023,IL,Illinois,IPP,Independent Power Producers,NGST,Natural Gas - ST,160.3,megawatts
+2302,2023,IL,Illinois,IPP,Independent Power Producers,NUC,Nuclear,11567.6,megawatts
+2303,2023,IL,Illinois,IPP,Independent Power Producers,OT,Other,78,megawatts
+2304,2023,IL,Illinois,IPP,Independent Power Producers,OBM,Other Biomass,41.8,megawatts
+2305,2023,IL,Illinois,IPP,Independent Power Producers,OOG,Other Gas,36.5,megawatts
+2306,2023,IL,Illinois,IPP,Independent Power Producers,PET,Petroleum,325,megawatts
+2307,2023,IL,Illinois,IPP,Independent Power Producers,PETGT,Petroleum - GT,305,megawatts
+2308,2023,IL,Illinois,IPP,Independent Power Producers,PETIC,Petroleum - IC,20,megawatts
+2309,2023,IL,Illinois,IPP,Independent Power Producers,SOL,Solar,1247.4,megawatts
+2310,2023,IL,Illinois,IPP,Independent Power Producers,SOLPV,Solar - PV,1247.4,megawatts
+2311,2023,IL,Illinois,IPP,Independent Power Producers,WND,Wind,7867.4,megawatts
+2312,2023,IL,Illinois,TOT,All sectors,ALL,All,45419.2,megawatts
+2313,2023,IL,Illinois,TOT,All sectors,BAT,Battery,96.1,megawatts
+2314,2023,IL,Illinois,TOT,All sectors,COL,Coal,6853.5,megawatts
+2315,2023,IL,Illinois,TOT,All sectors,HYC,Hydroelectric,32.9,megawatts
+2316,2023,IL,Illinois,TOT,All sectors,NG,Natural Gas,16917.1,megawatts
+2317,2023,IL,Illinois,TOT,All sectors,NGCC,Natural Gas - CC,5823.1,megawatts
+2318,2023,IL,Illinois,TOT,All sectors,NGGT,Natural Gas - GT,10721,megawatts
+2319,2023,IL,Illinois,TOT,All sectors,NGIC,Natural Gas - IC,184.5,megawatts
+2320,2023,IL,Illinois,TOT,All sectors,NGST,Natural Gas - ST,188.5,megawatts
+2321,2023,IL,Illinois,TOT,All sectors,NUC,Nuclear,11567.6,megawatts
+2322,2023,IL,Illinois,TOT,All sectors,OT,Other,78,megawatts
+2323,2023,IL,Illinois,TOT,All sectors,OBM,Other Biomass,55.2,megawatts
+2324,2023,IL,Illinois,TOT,All sectors,OOG,Other Gas,36.5,megawatts
+2325,2023,IL,Illinois,TOT,All sectors,PET,Petroleum,659.9,megawatts
+2326,2023,IL,Illinois,TOT,All sectors,PETGT,Petroleum - GT,362.6,megawatts
+2327,2023,IL,Illinois,TOT,All sectors,PETIC,Petroleum - IC,297.3,megawatts
+2328,2023,IL,Illinois,TOT,All sectors,SOL,Solar,1248.7,megawatts
+2329,2023,IL,Illinois,TOT,All sectors,SOLPV,Solar - PV,1248.7,megawatts
+2330,2023,IL,Illinois,TOT,All sectors,WND,Wind,7873.7,megawatts
+2331,2023,IN,Indiana,EU,Electric Utilities,ALL,All,18204.5,megawatts
+2332,2023,IN,Indiana,EU,Electric Utilities,BAT,Battery,36,megawatts
+2333,2023,IN,Indiana,EU,Electric Utilities,COL,Coal,12126.9,megawatts
+2334,2023,IN,Indiana,EU,Electric Utilities,HYC,Hydroelectric,69.1,megawatts
+2335,2023,IN,Indiana,EU,Electric Utilities,NG,Natural Gas,5090.1,megawatts
+2336,2023,IN,Indiana,EU,Electric Utilities,NGCC,Natural Gas - CC,1481.6,megawatts
+2337,2023,IN,Indiana,EU,Electric Utilities,NGGT,Natural Gas - GT,2951.8,megawatts
+2338,2023,IN,Indiana,EU,Electric Utilities,NGIC,Natural Gas - IC,38.7,megawatts
+2339,2023,IN,Indiana,EU,Electric Utilities,NGST,Natural Gas - ST,618,megawatts
+2340,2023,IN,Indiana,EU,Electric Utilities,OBM,Other Biomass,26.2,megawatts
+2341,2023,IN,Indiana,EU,Electric Utilities,OOG,Other Gas,12,megawatts
+2342,2023,IN,Indiana,EU,Electric Utilities,PET,Petroleum,70.8,megawatts
+2343,2023,IN,Indiana,EU,Electric Utilities,PETGT,Petroleum - GT,37,megawatts
+2344,2023,IN,Indiana,EU,Electric Utilities,PETIC,Petroleum - IC,33.8,megawatts
+2345,2023,IN,Indiana,EU,Electric Utilities,SOL,Solar,773.4,megawatts
+2346,2023,IN,Indiana,EU,Electric Utilities,SOLPV,Solar - PV,773.4,megawatts
+2347,2023,IN,Indiana,IPP,Independent Power Producers,ALL,All,8373.8,megawatts
+2348,2023,IN,Indiana,IPP,Independent Power Producers,COL,Coal,720.3,megawatts
+2349,2023,IN,Indiana,IPP,Independent Power Producers,HYC,Hydroelectric,2.5,megawatts
+2350,2023,IN,Indiana,IPP,Independent Power Producers,NG,Natural Gas,3026.8,megawatts
+2351,2023,IN,Indiana,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2418,megawatts
