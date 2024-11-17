@@ -53,6 +53,12 @@
     </div>
 
     <script>
+        // Helper function to round to two significant figures
+        function toTwoSigFigs(num) {
+            if (num === null || num === undefined || isNaN(num)) return 'N/A';
+            return parseFloat(num.toPrecision(2));
+        }
+
         // Create the map object and set its view to encompass Texas
         const map = L.map('map').setView([31.9686, -99.9018], 6);
 
@@ -62,64 +68,78 @@
             opacity: 1
         }).addTo(map);
 
-        // Function to set color based on Total Score
-        function getColor(score) {
-            return score > 8 ? '#006837' :
-                   score > 6 ? '#31a354' :
-                   score > 4 ? '#78c679' :
-                   score > 2 ? '#c2e699' :
-                               '#ffffcc';
-        }
+        function getColor(score, breaks) {
+        return score > breaks[3] ? '#006837' : // Dark green
+               score > breaks[2] ? '#31a354' : // Medium green
+               score > breaks[1] ? '#78c679' : // Light green
+               score > breaks[0] ? '#c2e699' : // Pale green
+                                   '#ffffcc';  // Light yellow
+    }
 
-        // Load county data from Flask endpoint
-        async function loadCountyData() {
-            const response = await fetch('/county_data');
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
+    // Function to calculate dynamic breaks for color ranges
+    function calculateBreaks(scores, numBreaks = 4) {
+        const sortedScores = [...scores].sort((a, b) => a - b);
+        const breaks = [];
+        for (let i = 1; i <= numBreaks; i++) {
+            const quantileIndex = Math.floor((i / (numBreaks + 1)) * sortedScores.length);
+            breaks.push(sortedScores[quantileIndex]);
+        }
+        return breaks;
+    }
+
+    // Load county data from Flask endpoint
+    async function loadCountyData() {
+        const response = await fetch('/county_data');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const countyData = await response.json();
+
+        // Extract Total_Score values for dynamic color mapping
+        const scores = countyData.map(county => county.Total_Score);
+        const breaks = calculateBreaks(scores);
+
+        // Add each county to the map
+        countyData.forEach(function(county) {
+            const lat = county.Latitude;  // Replace with the actual latitude key
+            const lon = county.Longitude;  // Replace with the actual longitude key
+
+            // Print latitude and longitude to the console
+            console.log(`County: ${county.County}, Latitude: ${lat}, Longitude: ${lon}`);
+
+            // Check if lat and lon are valid
+            if (lat === undefined || lon === undefined) {
+                console.warn(`Missing coordinates for county: ${county.County}`);
+                return;
             }
-            const countyData = await response.json();
 
-            // Add each county to the map
-            countyData.forEach(function(county) {
-                const lat = county.Latitude;  // Replace with the actual latitude key
-                const lon = county.Longitude;  // Replace with the actual longitude key
+            // Get the Total Score for coloring
+            const totalScore = county.Total_Score;
 
-                // Print latitude and longitude to the console
-                console.log(`County: ${county.County}, Latitude: ${lat}, Longitude: ${lon}`);
+            // Add a circle for each county on the map
+            const circle = L.circle([lat, lon], {
+                color: getColor(totalScore, breaks),
+                fillColor: getColor(totalScore, breaks),
+                fillOpacity: 0.7,
+                radius: 20000  // Radius in meters
+            }).addTo(map);
 
-                // Check if lat and lon are valid
-                if (lat === undefined || lon === undefined) {
-                    console.warn(`Missing coordinates for county: ${county.County}`);
-                    return;
-                }
-
-                // Get the Total Score for coloring
-                const totalScore = county.Total_Score;
-
-                // Add a circle for each county on the map
-                const circle = L.circle([lat, lon], {
-                    color: getColor(totalScore),
-                    fillColor: getColor(totalScore),
-                    fillOpacity: 0.7,
-                    radius: 20000  // Radius in meters
-                }).addTo(map);
-
-                // Set up the click event to update the info panel
-                circle.on('click', function () {
-                    document.getElementById('countyInfo').innerHTML = `
-                        <p><b>County:</b> ${county.County}</p>
-                        <p><b>Energy Demand (GWh):</b> ${county.County_Demand_GWh || 'N/A'}</p>
-                        <p><b>Wait Time Score:</b> ${county.Wait_Time_Score || 'N/A'}</p>
-                        <p><b>Supply Score:</b> ${county.Supply_Score || 'N/A'}</p>
-                        <p><b>Solar Score:</b> ${county.Solar_Score || 'N/A'}</p>
-                        <p><b>Total Score:</b> ${totalScore || 'N/A'}</p>
-                    `;
-                });
+            // Set up the click event to update the info panel
+            circle.on('click', function () {
+                document.getElementById('countyInfo').innerHTML = `
+                    <p><b>County:</b> ${county.County}</p>
+                    <p><b>Energy Demand (GWh):</b> ${toTwoSigFigs(county.County_Demand_GWh)}</p>
+                    <p><b>Wait Time Score:</b> ${toTwoSigFigs(county.Wait_Time_Score)}</p>
+                    <p><b>Supply Score:</b> ${toTwoSigFigs(county.Supply_Score)}</p>
+                    <p><b>Solar Score:</b> ${toTwoSigFigs(county.Solar_Score)}</p>
+                    <p><b>Total Score:</b> ${toTwoSigFigs(totalScore)}</p>
+                `;
             });
-        }
+        });
+    }
 
-        // Load the data to create the map
-        loadCountyData();
+    // Load the data to create the map
+    loadCountyData();
     </script>
 </body>
 </html>
